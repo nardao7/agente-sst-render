@@ -8,20 +8,29 @@ from app.rag import search_chunks
 from app.prompts import SYSTEM_PROMPT
 from app.config import OPENAI_API_KEY, OPENAI_MODEL
 
-# Cria a aplicação principal da API
+
+# cria aplicação FastAPI
 app = FastAPI(title="Agente SST API")
 
-# Libera o frontend para acessar o backend
-# Nesta fase inicial, usamos "*" para permitir testes de qualquer origem
+
+# -----------------------------
+# CONFIGURAÇÃO DEFINITIVA DE CORS
+# -----------------------------
+
+origins = [
+    "https://agente-sst-render-web.onrender.com",  # seu frontend
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-# Cria o cliente da OpenAI usando a chave armazenada no Render
+
+# cliente openai
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 
