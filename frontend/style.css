@@ -1,0 +1,174 @@
+/* Reset básico para evitar diferenças de espaçamento entre navegadores */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilo geral do body */
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #e5e7eb;
+  min-height: 100vh;
+}
+
+/* Container geral da aplicação */
+.app-container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+/* Cabeçalho */
+.app-header {
+  text-align: center;
+  margin-bottom: 32px;
+}
+
+.app-header h1 {
+  font-size: 2.2rem;
+  margin-bottom: 8px;
+}
+
+.app-header p {
+  color: #cbd5e1;
+  font-size: 1rem;
+}
+
+/* Painel central */
+.chat-panel {
+  background: #111827;
+  border: 1px solid #1f2937;
+  border-radius: 18px;
+  padding: 24px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+}
+
+/* Bloco do campo */
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+
+.input-group label {
+  font-weight: bold;
+  color: #f8fafc;
+}
+
+/* Campo de texto */
+textarea {
+  width: 100%;
+  min-height: 160px;
+  resize: vertical;
+  border-radius: 12px;
+  border: 1px solid #334155;
+  padding: 16px;
+  font-size: 16px;
+  background: #0b1220;
+  color: #f1f5f9;
+  outline: none;
+}
+
+/* Destaque visual ao clicar no textarea */
+textarea:focus {
+  border-color: #38bdf8;
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+}
+
+/* Área do botão */
+.button-group {
+  margin-bottom: 18px;
+}
+
+/* Botão principal */
+button {
+  background: #0ea5e9;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  padding: 14px 22px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+button:hover {
+  background: #0284c7;
+}
+
+/* Mensagens de status */
+.status-message {
+  min-height: 24px;
+  margin-bottom: 14px;
+  color: #facc15;
+  font-size: 14px;
+}
+
+/* Card da resposta */
+.result-card {
+  background: #0b1220;
+  border: 1px solid #334155;
+  border-radius: 16px;
+  padding: 20px;
+  margin-top: 18px;
+}
+
+.result-card h2 {
+  margin-bottom: 20px;
+  color: #f8fafc;
+}
+
+/* Cada bloco de resposta */
+.result-block {
+  margin-bottom: 18px;
+}
+
+.result-block h3 {
+  margin-bottom: 8px;
+  color: #38bdf8;
+  font-size: 1rem;
+}
+
+.result-block p,
+.result-block li {
+  line-height: 1.6;
+  color: #e2e8f0;
+}
+
+/* Lista de fontes */
+#fontes {
+  padding-left: 20px;
+}
+
+/* Classe usada para esconder elementos */
+.hidden {
+  display: none;
+}
+
+/* Responsividade para celular */
+@media (max-width: 768px) {
+  .app-container {
+    padding: 16px;
+  }
+
+  .app-header h1 {
+    font-size: 1.8rem;
+  }
+
+  .chat-panel {
+    padding: 18px;
+  }
+
+  textarea {
+    min-height: 140px;
+  }
+
+  button {
+    width: 100%;
+  }
+}

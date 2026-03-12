@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <!-- Define os caracteres corretos, evitando erro com acentos -->
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- Faz a página se adaptar ao tamanho da tela, importante para responsividade -->
+
+  <title>Agente SST</title>
+  <!-- Título que aparece na aba do navegador -->
+
+  <link rel="stylesheet" href="./style.css" />
+  <!-- Conecta o HTML ao arquivo de estilos CSS -->
+</head>
+<body>
+  <!-- Corpo principal do site -->
+
+  <div class="app-container">
+    <!-- Container principal que envolve toda a aplicação -->
+
+    <header class="app-header">
+      <!-- Cabeçalho do aplicativo -->
+      <h1>Agente SST</h1>
+      <p>Consultor técnico de Segurança e Saúde no Trabalho</p>
+    </header>
+
+    <main class="app-main">
+      <!-- Área principal do conteúdo -->
+
+      <section class="chat-panel">
+        <!-- Painel central com entrada e saída -->
+
+        <div class="input-group">
+          <!-- Bloco do campo de pergunta -->
+
+          <label for="pergunta">Digite sua pergunta</label>
+
+          <textarea
+            id="pergunta"
+            placeholder="Ex.: Qual norma fala de trabalho em altura?"
+          ></textarea>
+          <!-- Campo de texto onde o usuário digita a pergunta -->
+        </div>
+
+        <div class="button-group">
+          <!-- Grupo do botão -->
+          <button id="enviar">Enviar pergunta</button>
+        </div>
+
+        <div id="status" class="status-message"></div>
+        <!-- Área para mostrar mensagens como 'carregando...' ou erro -->
+
+        <section id="resultado" class="result-card hidden">
+          <!-- Card onde a resposta será exibida -->
+          
+          <h2>Resposta do Agente</h2>
+
+          <div class="result-block">
+            <h3>Resposta objetiva</h3>
+            <p id="resposta_objetiva"></p>
+          </div>
+
+          <div class="result-block">
+            <h3>Base normativa / legal</h3>
+            <p id="base_normativa_legal"></p>
+          </div>
+
+          <div class="result-block">
+            <h3>Explicação prática</h3>
+            <p id="explicacao_pratica"></p>
+          </div>
+
+          <div class="result-block">
+            <h3>Limite técnico</h3>
+            <p id="limite_tecnico"></p>
+          </div>
+
+          <div class="result-block">
+            <h3>Nível de confiança</h3>
+            <p id="nivel_confianca"></p>
+          </div>
+
+          <div class="result-block">
+            <h3>Fontes</h3>
+            <ul id="fontes"></ul>
+          </div>
+        </section>
+      </section>
+    </main>
+  </div>
+
+  <script src="./app.js"></script>
+  <!-- Conecta a lógica JavaScript ao HTML -->
+</body>
+</html>
