@@ -8,29 +8,33 @@ from app.rag import search_chunks
 from app.prompts import SYSTEM_PROMPT
 from app.config import OPENAI_API_KEY, OPENAI_MODEL
 
-
-# cria aplicação FastAPI
+# Cria a aplicação principal da API
 app = FastAPI(title="Agente SST API")
 
-
-# -----------------------------
-# CONFIGURAÇÃO DEFINITIVA DE CORS
-# -----------------------------
-
+# Lista de origens permitidas a acessar a API
+# Aqui colocamos:
+# - o frontend publicado no Render
+# - localhost para testes locais futuros
 origins = [
-    "https://agente-sst-render-web.onrender.com",  # seu frontend
+    "https://agente-sst-render-web.onrender.com",
+    "http://localhost:3000",
+    "http://127.0.0.1:3000",
+    "http://localhost:5500",
+    "http://127.0.0.1:5500",
 ]
 
+# Middleware de CORS
+# Ele adiciona os cabeçalhos necessários para o navegador permitir
+# que o frontend faça chamadas para o backend.
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-
-# cliente openai
+# Cliente da OpenAI
 client = OpenAI(api_key=OPENAI_API_KEY)
 
 
@@ -57,7 +61,7 @@ def ask(req: AskRequest):
         ]
     )
 
-    # Se não achar nada relevante nos arquivos JSON
+    # Se não houver contexto encontrado nos arquivos JSON
     if not contexto.strip():
         return {
             "resposta_objetiva": "Não encontrei base suficiente nos documentos carregados para responder com segurança.",
