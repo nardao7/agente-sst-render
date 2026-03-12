@@ -1,12 +1,20 @@
 [
   {
     "documento": "NR-01",
-    "referencia": "NR-01 - Disposições Gerais",
-    "texto": "A NR-01 estabelece disposições gerais, campo de aplicação e diretrizes sobre gerenciamento de riscos ocupacionais."
+    "item": "NR-01.1",
+    "titulo": "Disposições gerais",
+    "referencia": "NR-01.1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": ["disposições gerais", "gerenciamento de riscos", "gro", "pgr"],
+    "texto": "Esta Norma Regulamentadora - NR estabelece as disposições gerais, o campo de aplicação, os termos e as definições comuns às Normas Regulamentadoras - NR relativas à segurança e saúde no trabalho."
   },
   {
     "documento": "NR-01",
-    "referencia": "NR-01 - GRO e PGR",
-    "texto": "A NR-01 trata do gerenciamento de riscos ocupacionais e da estruturação do Programa de Gerenciamento de Riscos, conforme aplicável à organização."
+    "item": "GRO/PGR",
+    "titulo": "Gerenciamento de riscos ocupacionais",
+    "referencia": "GRO/PGR",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": ["gro", "pgr", "gerenciamento de riscos", "riscos ocupacionais"],
+    "texto": "O gerenciamento de riscos ocupacionais deve constituir um Programa de Gerenciamento de Riscos - PGR."
   }
 ]

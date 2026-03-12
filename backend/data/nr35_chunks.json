@@ -1,12 +1,20 @@
 [
   {
     "documento": "NR-35",
-    "referencia": "NR-35 - Trabalho em Altura",
-    "texto": "A NR-35 estabelece os requisitos mínimos e as medidas de prevenção para o trabalho em altura, envolvendo o planejamento, a organização e a execução, de forma a garantir a segurança e a saúde dos trabalhadores envolvidos."
+    "item": "NR-35.1",
+    "titulo": "Objetivo e campo de aplicação",
+    "referencia": "NR-35.1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": ["trabalho em altura", "objetivo", "campo de aplicação", "segurança", "saúde"],
+    "texto": "Esta Norma estabelece os requisitos mínimos e as medidas de prevenção para o trabalho em altura, envolvendo o planejamento, a organização e a execução, de forma a garantir a segurança e a saúde dos trabalhadores envolvidos."
   },
   {
     "documento": "NR-35",
-    "referencia": "NR-35 - Capacitação e treinamento",
-    "texto": "O trabalho em altura exige capacitação e treinamento específicos, com abordagem de riscos, procedimentos e medidas de proteção."
+    "item": "NR-35.3",
+    "titulo": "Capacitação e treinamento",
+    "referencia": "NR-35.3",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": ["capacitação", "treinamento", "trabalho em altura", "riscos", "procedimentos"],
+    "texto": "O empregador deve promover programa para capacitação dos trabalhadores à realização de trabalho em altura."
   }
 ]

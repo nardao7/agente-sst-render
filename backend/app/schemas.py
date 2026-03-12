@@ -8,8 +8,11 @@ class AskRequest(BaseModel):
 
 class SourceItem(BaseModel):
     documento: str
+    item: Optional[str] = None
+    titulo: Optional[str] = None
     referencia: Optional[str] = None
     trecho: Optional[str] = None
+    tipo_fonte: Optional[str] = None
 
 
 class AskResponse(BaseModel):

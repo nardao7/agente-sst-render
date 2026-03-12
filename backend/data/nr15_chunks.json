@@ -1,17 +1,29 @@
 [
   {
     "documento": "NR-15",
-    "referencia": "NR-15 - Atividades e Operações Insalubres",
-    "texto": "A NR-15 trata das atividades e operações insalubres, considerando exposição a agentes físicos, químicos e biológicos acima dos limites de tolerância previstos em seus anexos."
+    "item": "NR-15",
+    "titulo": "Atividades e operações insalubres",
+    "referencia": "NR-15",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": ["insalubridade", "agentes físicos", "agentes químicos", "agentes biológicos"],
+    "texto": "São consideradas atividades ou operações insalubres as que se desenvolvem acima dos limites de tolerância previstos nos Anexos desta Norma."
   },
   {
     "documento": "NR-15",
-    "referencia": "NR-15 - Anexo 9",
-    "texto": "O Anexo 9 da NR-15 trata das atividades ou operações executadas no frio, conforme caracterização prevista na norma."
+    "item": "Anexo 9",
+    "titulo": "Frio",
+    "referencia": "NR-15 Anexo 9",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": ["frio", "anexo 9", "insalubridade", "baixa temperatura"],
+    "texto": "As atividades ou operações executadas no interior de câmaras frigoríficas, ou em locais que apresentem condições similares, sem a proteção adequada, serão consideradas insalubres em decorrência de laudo de inspeção realizada no local de trabalho."
   },
   {
     "documento": "NR-15",
-    "referencia": "NR-15 - Anexo 14",
-    "texto": "O Anexo 14 da NR-15 trata dos agentes biológicos e das condições de trabalho relacionadas à insalubridade por exposição biológica."
+    "item": "Anexo 14",
+    "titulo": "Agentes biológicos",
+    "referencia": "NR-15 Anexo 14",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": ["agentes biológicos", "anexo 14", "insalubridade", "biológicos"],
+    "texto": "A relação das atividades que envolvem agentes biológicos, cuja insalubridade é caracterizada por avaliação qualitativa, consta do Anexo 14."
   }
 ]
