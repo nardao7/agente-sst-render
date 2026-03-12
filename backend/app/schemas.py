@@ -20,5 +20,7 @@ class AskResponse(BaseModel):
     base_normativa_legal: str
     explicacao_pratica: str
     limite_tecnico: str
+    trecho_normativo_exato: str
     fontes: List[SourceItem]
     nivel_confianca: str
+    modo_resposta: str

@@ -8,7 +8,7 @@ from app.providers.provider_base import BaseLLMProvider
 class GeminiProvider(BaseLLMProvider):
     """
     Provedor Gemini.
-    Usa a API do Google como principal nesta arquitetura.
+    Principal para uso gratuito nesta arquitetura.
     """
 
     def __init__(self):
@@ -39,4 +39,8 @@ Retorne apenas JSON válido.
         )
 
         text = response.text.strip()
+
+        # Tenta limpar cercas de markdown, caso o modelo devolva ```json
+        text = text.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+
         return json.loads(text)

@@ -13,15 +13,7 @@ from app.config import AI_PROVIDER
 from app.providers.provider_gemini import GeminiProvider
 from app.providers.provider_openai import OpenAIProvider
 
-# -----------------------------------------
-# CRIAÇÃO DA API
-# -----------------------------------------
-
 app = FastAPI(title="Agente SST API")
-
-# -----------------------------------------
-# CORS
-# -----------------------------------------
 
 origins = [
     "https://agente-sst-render-web.onrender.com",
@@ -39,24 +31,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# -----------------------------------------
-# PROVEDORES
-# -----------------------------------------
-
 gemini_provider = GeminiProvider()
 openai_provider = OpenAIProvider()
 
 
 def get_provider_chain():
-    """
-    Define a ordem de tentativa dos provedores.
-    Se AI_PROVIDER = gemini:
-      1. Gemini
-      2. OpenAI
-    Se AI_PROVIDER = openai:
-      1. OpenAI
-      2. Gemini
-    """
     if AI_PROVIDER == "openai":
         return [openai_provider, gemini_provider]
     return [gemini_provider, openai_provider]
@@ -74,9 +53,6 @@ def health():
 
 @app.get("/debug/providers")
 def debug_providers():
-    """
-    Diagnóstico simples dos provedores.
-    """
     return {
         "main_provider": AI_PROVIDER,
         "gemini_available": gemini_provider.is_available(),
@@ -86,12 +62,6 @@ def debug_providers():
 
 @app.post("/ask", response_model=AskResponse)
 def ask(req: AskRequest):
-    """
-    Fluxo principal:
-    1. recupera chunks
-    2. tenta provedores em ordem
-    3. se ambos falharem, usa fallback local
-    """
     encontrados = search_chunks(req.pergunta, limit=5)
 
     if not encontrados:
@@ -109,10 +79,9 @@ def ask(req: AskRequest):
                 contexto=contexto,
                 system_prompt=SYSTEM_PROMPT,
             )
-            return merge_llm_with_sources(llm_data, encontrados)
+            return merge_llm_with_sources(llm_data, encontrados, provider.__class__.__name__)
         except Exception as error:
             print(f"PROVIDER FAILED: {provider.__class__.__name__} -> {str(error)}")
             continue
 
-    # Se todos falharem, cai no local
     return build_local_response(req.pergunta, encontrados)

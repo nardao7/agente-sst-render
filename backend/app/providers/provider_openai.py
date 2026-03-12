@@ -8,7 +8,7 @@ from app.providers.provider_base import BaseLLMProvider
 class OpenAIProvider(BaseLLMProvider):
     """
     Provedor OpenAI.
-    Atua como secundário/fallback de LLM.
+    Secundário/fallback de provedor de IA.
     """
 
     def __init__(self):
@@ -41,4 +41,6 @@ Retorne apenas JSON válido.
         )
 
         text = response.output_text.strip()
+        text = text.removeprefix("```json").removeprefix("```").removesuffix("```").strip()
+
         return json.loads(text)
