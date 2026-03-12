@@ -1,20 +1,13 @@
-import json
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from openai import OpenAI
 
 from app.schemas import AskRequest, AskResponse
 from app.rag import search_chunks
-from app.prompts import SYSTEM_PROMPT
-from app.config import OPENAI_API_KEY, OPENAI_MODEL
 
 # Cria a aplicação principal da API
 app = FastAPI(title="Agente SST API")
 
-# Lista de origens permitidas a acessar a API
-# Aqui colocamos:
-# - o frontend publicado no Render
-# - localhost para testes locais futuros
+# Libera o frontend publicado no Render e também localhost para testes locais
 origins = [
     "https://agente-sst-render-web.onrender.com",
     "http://localhost:3000",
@@ -24,8 +17,6 @@ origins = [
 ]
 
 # Middleware de CORS
-# Ele adiciona os cabeçalhos necessários para o navegador permitir
-# que o frontend faça chamadas para o backend.
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
@@ -33,9 +24,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-# Cliente da OpenAI
-client = OpenAI(api_key=OPENAI_API_KEY)
 
 
 @app.get("/")
@@ -50,71 +38,44 @@ def health():
 
 @app.post("/ask", response_model=AskResponse)
 def ask(req: AskRequest):
+    """
+    Esta versão não usa OpenAI.
+    Ela responde somente com base nos JSONs carregados.
+    É ideal para estabilizar o projeto e confirmar
+    que backend + frontend + Render estão funcionando.
+    """
     encontrados = search_chunks(req.pergunta, limit=5)
 
-    contexto = "\n\n".join(
-        [
-            f"Documento: {c.get('documento')}\n"
-            f"Referencia: {c.get('referencia')}\n"
-            f"Texto: {c.get('texto')}"
-            for c in encontrados
-        ]
-    )
-
-    # Se não houver contexto encontrado nos arquivos JSON
-    if not contexto.strip():
+    # Se não encontrar nada relevante, retorna resposta segura
+    if not encontrados:
         return {
             "resposta_objetiva": "Não encontrei base suficiente nos documentos carregados para responder com segurança.",
             "base_normativa_legal": "Base insuficiente no acervo atual.",
-            "explicacao_pratica": "É necessário ampliar a base documental ou refinar a pergunta.",
+            "explicacao_pratica": "Refine a pergunta ou amplie a base documental.",
             "limite_tecnico": "Sem fonte suficiente, a resposta não pode ser conclusiva.",
             "fontes": [],
             "nivel_confianca": "Baixa",
         }
 
-    prompt_user = f"""
-Pergunta do usuário:
-{req.pergunta}
+    # Usa o primeiro trecho encontrado como base principal
+    principal = encontrados[0]
 
-Fontes recuperadas:
-{contexto}
+    documento = principal.get("documento", "Documento não informado")
+    referencia = principal.get("referencia", "Referência não informada")
+    texto = principal.get("texto", "")
 
-Responda em JSON válido com as chaves:
-resposta_objetiva
-base_normativa_legal
-explicacao_pratica
-limite_tecnico
-nivel_confianca
-"""
-
-    resp = client.responses.create(
-        model=OPENAI_MODEL,
-        input=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": prompt_user},
+    return {
+        "resposta_objetiva": f"A referência mais relacionada à sua pergunta é {documento}.",
+        "base_normativa_legal": f"{documento} — {referencia}.",
+        "explicacao_pratica": texto,
+        "limite_tecnico": "Esta resposta foi montada a partir da busca textual nos documentos carregados, sem interpretação avançada por IA.",
+        "fontes": [
+            {
+                "documento": item.get("documento", "Documento não informado"),
+                "referencia": item.get("referencia", "Referência não informada"),
+                "trecho": item.get("texto", "")[:300],
+            }
+            for item in encontrados
         ],
-    )
-
-    content = resp.output_text.strip()
-
-    try:
-        data = json.loads(content)
-    except Exception:
-        data = {
-            "resposta_objetiva": "Houve falha ao interpretar a resposta do modelo.",
-            "base_normativa_legal": "Resposta do modelo não retornou JSON válido.",
-            "explicacao_pratica": "Verifique o prompt ou o retorno do modelo.",
-            "limite_tecnico": "A resposta não pôde ser estruturada corretamente.",
-            "nivel_confianca": "Baixa",
-        }
-
-    data["fontes"] = [
-        {
-            "documento": c.get("documento"),
-            "referencia": c.get("referencia"),
-            "trecho": c.get("texto", "")[:300],
-        }
-        for c in encontrados
-    ]
-
-    return data
+        "nivel_confianca": "Média",
+    }
