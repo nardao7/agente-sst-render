@@ -1,0 +1,21 @@
+from pydantic import BaseModel
+from typing import List, Optional
+
+
+class AskRequest(BaseModel):
+    pergunta: str
+
+
+class SourceItem(BaseModel):
+    documento: str
+    referencia: Optional[str] = None
+    trecho: Optional[str] = None
+
+
+class AskResponse(BaseModel):
+    resposta_objetiva: str
+    base_normativa_legal: str
+    explicacao_pratica: str
+    limite_tecnico: str
+    fontes: List[SourceItem]
+    nivel_confianca: str
