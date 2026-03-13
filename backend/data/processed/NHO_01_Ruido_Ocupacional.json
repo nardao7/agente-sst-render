@@ -1,0 +1,2663 @@
+[
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NORMA DE HIGIENE OCUPACIONAL",
+    "titulo": "NORMA DE HIGIENE OCUPACIONAL",
+    "referencia": "NORMA DE HIGIENE OCUPACIONAL",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "norma",
+      "higiene",
+      "ocupacional",
+      "procedimento",
+      "técnico",
+      "presidente",
+      "república",
+      "fernando",
+      "henrique",
+      "cardoso",
+      "ministro",
+      "trabalho"
+    ],
+    "texto": "NORMA DE HIGIENE OCUPACIONAL \n \nPROCEDIMENTO TÉCNICO  \n \n \nPRESIDENTE DA REPÚBLICA \nFernando Henrique Cardoso \nMINISTRO DO TRABALHO E EMPREGO \nFrancisco Dornelles \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \nFUNDACENTRO \nPRESIDÊNCIA \nHumberto Carlos Parro \nDIRETORIA EXECUTIVA \nJosé Gaspar Ferraz de Campos \nDIRETORIA TÉCNICA \nSoma Maria José Bombardi \nDIRETORIA DE ADMINISTRAÇÃO E FINANÇAS \nAntonio Sérgio Torquato \nASSESSORIA DE COMUNICAÇÃO SOCIAL \nJosé Carlos Crozera \n \n \nNorma de Higiene \nOcupacional \n \n \n \nProcedimento Técnico \n \nAvaliação da Exposição Ocupacional ao Ruído \n \n \n \n \nEqui pe de elaboração: \n Eduardo Giampaoli  \nIrene Ferreira de Souza Duarte Saad  \nIrlon de Ângelo da Cunha \n \nColaboração: \n Marcos Domingos da Silva \n \n \n \n \n \n \n \n2001  \n\n \n \nAPRESENTAÇÃO \n \n \n \n \n \n \nA Coordenação de Higiene do Trabalho da FUNDACENTRO publicou, \nem 1980, uma série de Normas Técnicas  denominadas anteriormente Normas \nde Higiene do Trabalho - NHT, hoje designadas Normas de Higiene \nOcupacional - NHO. \nDiante do processo dinâmico das té cnicas de identificação, avaliação e \ncontrole dos riscos ambientais, e considerando o desenvolvimento \ntecnológico, a revisão técnica destas normas é de fundamental importância. \nDesta forma apresenta-se ao público técnico que atua na área da saúde \nocupacional a norma Avaliação da Exposição Ocupacional ao Ruído, \nresultado do reestudo da equipe técnica da Coordenação de Higiene do \nTrabalho. \nAcredita-se que esta norma possa efetivamente contribuir como \nferramenta na identificação do agente ambiental de risco classificado como \nagente físico ruído, com o intuito de colaborar no controle da exposição e na \nprevenção de doenças ocupacionais. \n \n \n \n \n \n \nROBSON SPINELLI GOMES  \nGerente da Coordenação de Higiene do Trabalho \n \n \n \n\nSUMÁRIO \n \n \n \n1. OBJETIVO........................................................................................11 \n2. APLICAÇÃO....................................................................................11 \n3. REFERÊNCIAS NORMATIVAS ....................................................11 \n4. DEFINIÇÕES, SÍMBOLOS E ABREVIATURAS..........................11"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.1 Para os fins desta Norma aplicam-se as seguintes definições,",
+    "titulo": "4.1 Para os fins desta Norma aplicam-se as seguintes definições,",
+    "referencia": "4.1 Para os fins desta Norma aplicam-se as seguintes definições,",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "para",
+      "fins",
+      "desta",
+      "norma",
+      "aplicam-se",
+      "seguintes",
+      "definições",
+      "símbolos",
+      "abreviaturas"
+    ],
+    "texto": "4.1 Para os fins desta Norma aplicam-se as seguintes definições, \nsímbolos e  Abreviaturas: .....................................................................11"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.2 As principais correlações entre a terminologia em Português e Inglês",
+    "titulo": "4.2 As principais correlações entre a terminologia em Português e Inglês",
+    "referencia": "4.2 As principais correlações entre a terminologia em Português e Inglês",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "principais",
+      "correlações",
+      "entre",
+      "terminologia",
+      "português",
+      "inglês",
+      "seguintes",
+      "critérios",
+      "avaliação",
+      "exposição",
+      "ocupacional",
+      "ruído"
+    ],
+    "texto": "4.2 As principais correlações entre a terminologia em Português e Inglês \nsão as seguintes: ..................................................................................14 \n5. CRITÉRIOS DE AVALIAÇÃO DA EXPOSIÇÃO \nOCUPACIONAL AO RUÍDO..............................................................14"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.1 Ruído contínuo ou intermitente ..................................................14",
+    "titulo": "5.1 Ruído contínuo ou intermitente ..................................................14",
+    "referencia": "5.1 Ruído contínuo ou intermitente ..................................................14",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "contínuo",
+      "intermitente"
+    ],
+    "texto": "5.1 Ruído contínuo ou intermitente ..................................................14"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1 Avaliação da exposição de um trabalhador ao ruído contínuo",
+    "titulo": "1.1 Avaliação da exposição de um trabalhador ao ruído contínuo",
+    "referencia": "1.1 Avaliação da exposição de um trabalhador ao ruído contínuo",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "avaliação",
+      "exposição",
+      "trabalhador",
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "meio",
+      "dose",
+      "diária"
+    ],
+    "texto": "1.1 Avaliação da exposição de um trabalhador ao ruído contínuo \nou intermitente por meio da dose diária............................................16"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.",
+    "titulo": "1.",
+    "referencia": "1.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "1."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1 Utilizando medidor integrador de uso pessoal......................16",
+    "titulo": "1.1 Utilizando medidor integrador de uso pessoal......................16",
+    "referencia": "1.1 Utilizando medidor integrador de uso pessoal......................16",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "integrador",
+      "pessoal"
+    ],
+    "texto": "1.1 Utilizando medidor integrador de uso pessoal......................16"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.",
+    "titulo": "1.",
+    "referencia": "1.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "1."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2 Utilizando medidor portado pelo avaliador ..........................16",
+    "titulo": "1.2 Utilizando medidor portado pelo avaliador ..........................16",
+    "referencia": "1.2 Utilizando medidor portado pelo avaliador ..........................16",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "portado",
+      "pelo",
+      "avaliador"
+    ],
+    "texto": "1.2 Utilizando medidor portado pelo avaliador ..........................16"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2 Avaliação da exposição de um trabalhador ao ruído contínuo ou",
+    "titulo": "1.2 Avaliação da exposição de um trabalhador ao ruído contínuo ou",
+    "referencia": "1.2 Avaliação da exposição de um trabalhador ao ruído contínuo ou",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "avaliação",
+      "exposição",
+      "trabalhador",
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "meio",
+      "nível"
+    ],
+    "texto": "1.2 Avaliação da exposição de um trabalhador ao ruído contínuo ou \nintermitente por meio do nível de exposição ..........................................17"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.2 Ruído de impacto ........................................................................20",
+    "titulo": "5.2 Ruído de impacto ........................................................................20",
+    "referencia": "5.2 Ruído de impacto ........................................................................20",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "impacto",
+      "procedimentos",
+      "avaliação"
+    ],
+    "texto": "5.2 Ruído de impacto ........................................................................20 \n6. PROCEDIMENTOS DE AVALIAÇÃO..........................................22"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.1 Abordagem dos locais e das condições de trabalho....................22",
+    "titulo": "6.1 Abordagem dos locais e das condições de trabalho....................22",
+    "referencia": "6.1 Abordagem dos locais e das condições de trabalho....................22",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "abordagem",
+      "locais",
+      "condições",
+      "trabalho"
+    ],
+    "texto": "6.1 Abordagem dos locais e das condições de trabalho....................22"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.2 Equipamentos de medição ..........................................................23",
+    "titulo": "6.2 Equipamentos de medição ..........................................................23",
+    "referencia": "6.2 Equipamentos de medição ..........................................................23",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "equipamentos",
+      "medição"
+    ],
+    "texto": "6.2 Equipamentos de medição ..........................................................23"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.1 Especificações mínimas ...........................................................23",
+    "titulo": "2.1 Especificações mínimas ...........................................................23",
+    "referencia": "2.1 Especificações mínimas ...........................................................23",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "especificações",
+      "mínimas"
+    ],
+    "texto": "2.1 Especificações mínimas ...........................................................23"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1 Medidores integradores de uso pessoal.................................23",
+    "titulo": "1.1 Medidores integradores de uso pessoal.................................23",
+    "referencia": "1.1 Medidores integradores de uso pessoal.................................23",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "medidores",
+      "integradores",
+      "pessoal"
+    ],
+    "texto": "1.1 Medidores integradores de uso pessoal.................................23"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2 Medidores integradores portados pelo avaliador ..................24",
+    "titulo": "1.2 Medidores integradores portados pelo avaliador ..................24",
+    "referencia": "1.2 Medidores integradores portados pelo avaliador ..................24",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "medidores",
+      "integradores",
+      "portados",
+      "pelo",
+      "avaliador"
+    ],
+    "texto": "1.2 Medidores integradores portados pelo avaliador ..................24"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.3 Medidores de leitura instantânea...........................................24",
+    "titulo": "1.3 Medidores de leitura instantânea...........................................24",
+    "referencia": "1.3 Medidores de leitura instantânea...........................................24",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "medidores",
+      "leitura",
+      "instantânea"
+    ],
+    "texto": "1.3 Medidores de leitura instantânea...........................................24"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.4 Calibradores acústicos...............................................................24",
+    "titulo": "1.4 Calibradores acústicos...............................................................24",
+    "referencia": "1.4 Calibradores acústicos...............................................................24",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "calibradores",
+      "acústicos"
+    ],
+    "texto": "1.4 Calibradores acústicos...............................................................24"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.2 Interferentes ambientais no desempenho dos equipamentos",
+    "titulo": "2.2 Interferentes ambientais no desempenho dos equipamentos",
+    "referencia": "2.2 Interferentes ambientais no desempenho dos equipamentos",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "interferentes",
+      "ambientais",
+      "desempenho",
+      "equipamentos"
+    ],
+    "texto": "2.2 Interferentes ambientais no desempenho dos equipamentos\n...........................................................................................25"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.3 Aferição e certificação dos equipamentos ........................25",
+    "titulo": "2.3 Aferição e certificação dos equipamentos ........................25",
+    "referencia": "2.3 Aferição e certificação dos equipamentos ........................25",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "aferição",
+      "certificação",
+      "equipamentos"
+    ],
+    "texto": "2.3 Aferição e certificação dos equipamentos ........................25"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.3 Procedimentos gerais de medição ....................................................25",
+    "titulo": "6.3 Procedimentos gerais de medição ....................................................25",
+    "referencia": "6.3 Procedimentos gerais de medição ....................................................25",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "procedimentos",
+      "gerais",
+      "medição"
+    ],
+    "texto": "6.3 Procedimentos gerais de medição ....................................................25"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.4 Procedimentos específicos de medição de ruído contínuo ou",
+    "titulo": "6.4 Procedimentos específicos de medição de ruído contínuo ou",
+    "referencia": "6.4 Procedimentos específicos de medição de ruído contínuo ou",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "procedimentos",
+      "específicos",
+      "medição",
+      "ruído",
+      "contínuo",
+      "intermitente"
+    ],
+    "texto": "6.4 Procedimentos específicos de medição de ruído contínuo ou \nintermitente .......................................................................................27"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.1 Utilizando medidor integrador de uso pessoal..................27",
+    "titulo": "4.1 Utilizando medidor integrador de uso pessoal..................27",
+    "referencia": "4.1 Utilizando medidor integrador de uso pessoal..................27",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "integrador",
+      "pessoal"
+    ],
+    "texto": "4.1 Utilizando medidor integrador de uso pessoal..................27"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.2 Utilizando medidor integrador portado pelo avaliador.....28",
+    "titulo": "4.2 Utilizando medidor integrador portado pelo avaliador.....28",
+    "referencia": "4.2 Utilizando medidor integrador portado pelo avaliador.....28",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "integrador",
+      "portado",
+      "pelo",
+      "avaliador"
+    ],
+    "texto": "4.2 Utilizando medidor integrador portado pelo avaliador.....28"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.3 Utilizando medidor de leitura instantânea ..................................29",
+    "titulo": "4.3 Utilizando medidor de leitura instantânea ..................................29",
+    "referencia": "4.3 Utilizando medidor de leitura instantânea ..................................29",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "leitura",
+      "instantânea"
+    ],
+    "texto": "4.3 Utilizando medidor de leitura instantânea ..................................29"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.5 Procedimentos específicos de medição de ruído de impacto ..............32",
+    "titulo": "6.5 Procedimentos específicos de medição de ruído de impacto ..............32",
+    "referencia": "6.5 Procedimentos específicos de medição de ruído de impacto ..............32",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "procedimentos",
+      "específicos",
+      "medição",
+      "ruído",
+      "impacto"
+    ],
+    "texto": "6.5 Procedimentos específicos de medição de ruído de impacto ..............32"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.6  Interpretação dos resultados.......................................................33",
+    "titulo": "6.6  Interpretação dos resultados.......................................................33",
+    "referencia": "6.6  Interpretação dos resultados.......................................................33",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "interpretação",
+      "resultados"
+    ],
+    "texto": "6.6  Interpretação dos resultados.......................................................33"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.1  Ruído contínuo ou intermitente...............................................33",
+    "titulo": "6.1  Ruído contínuo ou intermitente...............................................33",
+    "referencia": "6.1  Ruído contínuo ou intermitente...............................................33",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "contínuo",
+      "intermitente"
+    ],
+    "texto": "6.1  Ruído contínuo ou intermitente...............................................33"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1  Dose diária ...........................................................................33",
+    "titulo": "1.1  Dose diária ...........................................................................33",
+    "referencia": "1.1  Dose diária ...........................................................................33",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "dose",
+      "diária"
+    ],
+    "texto": "1.1  Dose diária ...........................................................................33"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2 Nível de exposição normalizado...........................................33",
+    "titulo": "1.2 Nível de exposição normalizado...........................................33",
+    "referencia": "1.2 Nível de exposição normalizado...........................................33",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "nível",
+      "exposição",
+      "normalizado"
+    ],
+    "texto": "1.2 Nível de exposição normalizado...........................................33"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.3 Critério de julgamento e tomada de decisão .........................34",
+    "titulo": "1.3 Critério de julgamento e tomada de decisão .........................34",
+    "referencia": "1.3 Critério de julgamento e tomada de decisão .........................34",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "critério",
+      "julgamento",
+      "tomada",
+      "decisão"
+    ],
+    "texto": "1.3 Critério de julgamento e tomada de decisão .........................34"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.2 Ruído de impacto ..............................................................34",
+    "titulo": "6.2 Ruído de impacto ..............................................................34",
+    "referencia": "6.2 Ruído de impacto ..............................................................34",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "impacto"
+    ],
+    "texto": "6.2 Ruído de impacto ..............................................................34"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.3 Ruído contínuo ou intermitente simultâneo com ruído de",
+    "titulo": "6.3 Ruído contínuo ou intermitente simultâneo com ruído de",
+    "referencia": "6.3 Ruído contínuo ou intermitente simultâneo com ruído de",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "simultâneo",
+      "impacto",
+      "relatório",
+      "referências",
+      "bibliográficas",
+      "prefácio",
+      "este",
+      "procedimento",
+      "técnico"
+    ],
+    "texto": "6.3 Ruído contínuo ou intermitente simultâneo com ruído de \nimpacto ...........................................................................................35 \n7. RELATÓRIO....................................................................................35 \n8. REFERÊNCIAS BIBLIOGRÁFICAS..............................................37 \n \nPREFÁCIO \n \n \n \nEste procedimento técnico faz parte da Série de Normas de Higiene \nOcupacional (NHO's) elaborada por técnicos da Coordenação de Higiene do \nTrabalho da FUNDACENTRO, por meio do Projeto Difusão de Informações \nem Higiene do Trabalho, 1997/1998. \n \nEsta Norma cancela e substitui as seguintes Normas da FUNDACENTRO: \n \n• NHT-06 R/E - 1985: Norma para aval iação da exposição ocupacional ao \nruído contínuo ou intermitente em fase experimental. \n \n• NHT-07 R/E - 1985: Norma para aval iação da exposição ocupacional ao \nruído - ruído de impacto. \n \n• NHT-09 R/E - 1986: Norma para aval iação da exposição ocupacional ao \nruído contínuo ou intermitente através de dosímetros. \n \nAs principais modificações e avanços técnicos em relação às Normas \nanteriores são: \n \n• substitui as três Normas anteriorme nte existentes e trata tanto da \navaliação da exposição ocupacional ao  ruído contínuo ou intermitente, \nquanto da avaliação da exposição oc upacional ao ruído de impacto; \n• introduz o conceito de nível de exposição como um dos critérios para a \nquantificação e caracterização da exposição ocupacional ao ruído \ncontínuo ou intermitente e o conceito de nível de exposição normalizado \npara interpretação dos resultados; \n \n• adota o valor \"3\" como incremento  de duplicação de dose (q = 3); \n \n• considera a possibilidade  de utilização de medidores integradores e de \nmedidores de leituras instantâneas. \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "objeti",
+      "esta",
+      "técnica",
+      "objetivo",
+      "estab",
+      "elecer",
+      "crité",
+      "rios",
+      "procedimentos",
+      "para",
+      "avaliação",
+      "exposição"
+    ],
+    "texto": "NHO 01 \n1. OBJETI VO \n \nEsta Nor ma Técnica  t em por objetivo estab elecer crité rios e \nprocedimentos para a avaliação da exposição ocupacional ao ruído, que \nimplique risco potencial de surdez ocupacional. \n \n2. APLICAÇÃO \n \nA Norm a aplica-se à exposição ocupacional a ruído co ntínuo o u \nintermitente e a ruído de i mpacto, e m quaisquer situações d e trabalho, \ncontudo não  está voltada para a carac terização das condições de conforto  \nacústico. \n \n3. REFE RÊNCI AS NORMATIVAS \n \nAs edições das Normas relacionadas a seguir, referidas ao longo do texto, \nencontravam-se e m vigor durante a elaboração da presente Norma. O s \nusuários desta Norma devem estar atentos a edições mais recentes das Normas \nreferendadas. \n \nANSI S"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.25 (1991) - Specification for personal noise dosimeters",
+    "titulo": "1.25 (1991) - Specification for personal noise dosimeters",
+    "referencia": "1.25 (1991) - Specification for personal noise dosimeters",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "1991",
+      "specification",
+      "personal",
+      "noise",
+      "dosimeters",
+      "ansi"
+    ],
+    "texto": "1.25 (1991) - Specification for personal noise dosimeters \n \nANSI S"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.4 (1983) - Specification for sound level meters",
+    "titulo": "1.4 (1983) - Specification for sound level meters",
+    "referencia": "1.4 (1983) - Specification for sound level meters",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "1983",
+      "specification",
+      "sound",
+      "level",
+      "meters",
+      "ansi"
+    ],
+    "texto": "1.4 (1983) - Specification for sound level meters \n \nANSI S"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.40 (1984) - Specification for acoustical calibrators",
+    "titulo": "1.40 (1984) - Specification for acoustical calibrators",
+    "referencia": "1.40 (1984) - Specification for acoustical calibrators",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "1984",
+      "specification",
+      "acoustical",
+      "calibrators",
+      "1985",
+      "integrating-averaging",
+      "sound",
+      "level",
+      "meters",
+      "1993",
+      "defini",
+      "ções"
+    ],
+    "texto": "1.40 (1984) - Specification for acoustical calibrators \n \nIEC 804 (1985) - Integrating-averaging sound level meters \n \nIEC 651 (1993) - Sound Level Meters \n \n4. DEFINI ÇÕES, SÍ MBOLOS E AB REVIATURAS"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.1 Para os fins desta Norma aplicam-se as seguintes",
+    "titulo": "4.1 Para os fins desta Norma aplicam-se as seguintes",
+    "referencia": "4.1 Para os fins desta Norma aplicam-se as seguintes",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "para",
+      "fins",
+      "desta",
+      "norma",
+      "aplicam-se",
+      "seguintes",
+      "definições",
+      "símbolos",
+      "abreviaturas",
+      "ciclo",
+      "xposição",
+      "conjunto"
+    ],
+    "texto": "4.1 Para os fins desta Norma aplicam-se as seguintes \ndefinições, símbolos e  Abreviaturas: \n \nCiclo de E xposição: conjunto de situações a cústicas ao qual é  \nsubmetido o trabalhador, em  seqüência definida, e que se repete de forma \ncontínua no decorrer da jornada de trabalho. \n11 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "critério",
+      "referência",
+      "nível",
+      "médio",
+      "para",
+      "exposição",
+      "período",
+      "horas",
+      "corresponderá",
+      "dose",
+      "parâmetro",
+      "utilizado"
+    ],
+    "texto": "NHO 01 \nCritério de Referência (CR): nível médio para o q ual a exposição, por \num período de 8 horas, corresponderá a uma dose de 100%. \n \nDose: parâmetro utilizado para a caracterização da exposição ocupacional \nao ruído, expresso em  porcentagem de energia sonora, tendo por referência o \nvalor máximo da energia sonora diária  ad mitida, definida co m base em \nparâmetros preestabelecidos (q, CR, NLI). \n \nDose Diária: dose referente à jornada diária de trabalho. \n \nDosímetro de Ruído : medidor integrador de uso pessoal que fornece a \ndose da exposição ocupacional ao ruído. \n \nGrupo Homogêneo : corresponde a u m grupo de trabalhadores que \nexperimentam exposição semelhante, de forma que o resultado fo rnecido pela \navaliação da exposição de parte do grupo  seja representativo da exposição de  \ntodos os trabalhadores que compõem o mesmo grupo. \n \nIncremento de Duplicação de Dose (q): incremento em decib éis que, \nquando adicionado a um  determinado nível, implica a duplicação da dose de  \nexposição ou a redução para a metade do tempo máximo permitido. \n \nLimite de Exposição (L E): parâm etro de exp osição ocupacion al que \nrepresenta condições sob as quais acr edita-se que a maioria dos trabalhadores \npossa estar exposta, repetidam ente, sem sofrer efeitos adver sos à sua \ncapacidade de ouvir e entender uma conversação normal. \n \nLimite d e Exposição Valor Teto (LE-VT) : corresponde ao valor \nmáximo, acima do qual n ão é permitida exposição em nenhum momento da \njornada de trabalho. \n \nMedidor Integrador de Uso Pessoal : medidor que  possa ser fixado no  \ntrabalhador durante o período de medição, fornecendo por meio de integração, \na dose ou o nível médio. \n12 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "medidor",
+      "integrador",
+      "portado",
+      "pelo",
+      "avaliador",
+      "edidor",
+      "operado",
+      "diretamente",
+      "fornece",
+      "meio",
+      "integração",
+      "dose"
+    ],
+    "texto": "NHO 01 \nMedidor Integrador Portado pelo Avaliador : m edidor operado \ndiretamente pelo avaliador, que fornece, por meio de integração, a dose ou o \nnível médio.  \n \nNível de Ação: valor acima do qual devem ser iniciadas ações preventivas \nde forma a minimizar a probabilidade de  que as exp osições ao ruído causem \nprejuízos à a udição do tra balhador e evitar que o li mite de exp osição sej a \nultrapassado. \n \nNível Equivalente (Neq) : nível m édio baseado na equivalência de  \nenergia, definido pela expressão que segue: \n \n       Neq = 10 log                                                () ⎥⎢\n⎡\n∫\n21 pp\n⎦\n⎤\n⎣\n⎟\n⎠\n⎞⎜\n⎝\n⎛ 2\n0\n2\n1\ndttT\nt\nt\n[ ]dB \n \nonde: \n \nNeq = nível de pressão sonora equi valente referen te ao intervalo de  \nintegração (T = t2 – t1) \np(t) = pressão sonora instantânea \np0 = pressão sonora de referência, igual a 20 µPa \n \nNível de Exposição (NE) : nível médio representativo da exposição \nocupacional diária. \n \nNível de Exposição Normalizado (NEN): nível de exposição, convertido \npara uma jornada padrão de 8 horas diárias, para fi ns de co mparação com o \nlimite de exposição. \n \nNível Lim iar de Integ ração (NLI) : nível de ruído  a partir do qual os \nvalores devem  ser co mputados na inte gração para fins de determinação de \nnível médio ou da dose de exposição. \n \nNível Médio (NM) : nível de ruído representa tivo da exposição \nocupacional relativo ao período de medição, que considera os diversos valores \nde níveis instantâneos ocorridos no  p eríodo e os parâmetros d e medição \npredefinidos. \n \n13 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "contínuo",
+      "intermitent",
+      "todo",
+      "qualque",
+      "está",
+      "classificado",
+      "como",
+      "impacto",
+      "impulsivo",
+      "apresenta",
+      "picos"
+    ],
+    "texto": "NHO 01 \nRuído Contínuo ou Intermitent e: todo e qualque r ruído q ue não está \nclassificado como ruído de impacto ou impulsivo. \n \nRuído de Impacto ou Impulsivo : ruído que apresenta picos de energia \nacústica de duração inferior a 1 (um) segundo, a intervalos superiores a 1 (um) \nsegundo. \n \nSituação Acústica: cada parte do ciclo de exposição na qual o trabalhador \nestá exposto a níveis de ruído considerados estáveis. \n \nZona Auditiva: região do espaço delimitada por um raio de 150 mm ± 50 \nmm, medido a partir da entrada do canal auditivo."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.2 As principais correlações entre a terminologia em Português e",
+    "titulo": "4.2 As principais correlações entre a terminologia em Português e",
+    "referencia": "4.2 As principais correlações entre a terminologia em Português e",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "principais",
+      "correlações",
+      "entre",
+      "terminologia",
+      "português",
+      "inglês",
+      "seguintes",
+      "critério",
+      "referência",
+      "criterion",
+      "level",
+      "incremento"
+    ],
+    "texto": "4.2 As principais correlações entre a terminologia em Português e \nInglês são as seguintes: \n \nCritério de Referência (CR): Criterion Level (CL) \nIncremento de Duplicação de Dose (q): Exchange Rate (q ou ER)  \nLimite de Exposição (LE): Threshold Limit Value (TLV) \nLimite de Exposição Valor Teto (LE-VT): Threshold Limit Value-Ceiling \n(TLV-C) \nNível Equivalente (Neq): Equivalent Level (Leq)  \nNível Médio (NM): Average Level (Lavg) \nNível Limiar de Integração (NLI): Threshold Level (TL) \n \n5. CRITÉ RIOS DE AVALI AÇÃO DA EXP OSIÇÃO \nOCUPACI ONAL AO RUÍDO"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.1 Ruído contínuo ou intermitente",
+    "titulo": "5.1 Ruído contínuo ou intermitente",
+    "referencia": "5.1 Ruído contínuo ou intermitente",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "critério",
+      "referência",
+      "basa",
+      "ites",
+      "exposiç",
+      "diária",
+      "adotados",
+      "ntínuo",
+      "ntermitente"
+    ],
+    "texto": "5.1 Ruído contínuo ou intermitente \n \nO critério de referência que em basa os lim ites de exposiç ão diária \nadotados par a ruído co ntínuo ou i ntermitente corresponde a um a dose de \n100% para exposição de 8 horas ao nível de 85 dB(A). \n \nO critério de avaliação considera, além do critério de referência, o \nincremento de duplicação de dose (q) igual a 3 e o nível limiar de integração \nigual a 80 dB(A). \n14 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "avaliação",
+      "exposição",
+      "ocupacional",
+      "ruído",
+      "cont",
+      "ínuo",
+      "intermitente",
+      "deverá",
+      "feita",
+      "meio",
+      "determinação",
+      "dose"
+    ],
+    "texto": "NHO 01 \nA avaliação da exposição ocupacional ao ruído cont ínuo ou intermitente \ndeverá ser feita por meio da determinação da dose diária de ruído ou do ní vel \nde exposição, parâm etros representativos da exposição diária do tr abalhador. \nEsses parâmetros são total mente equivalentes, sendo possível, a partir de u m \nobter-se o outro, mediante as expressões matemáticas que seguem: \n \nNE = 10×log ⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛ × 100\n480 D\nTE\n+ 85 [ ]dB  \n \nD = \n⎟\n⎠\n⎞⎜\n⎝\n⎛ −\n×× 3\n85\n2100480\nNE\nET          [ ]%  \n \nonde: \nNE = nível de exposição \nD = dose diária de ruído em porcentagem \nTE = tempo de duração, em minutos, da jornada diária de trabalho \n \nA avaliação deve ser real izada utilizando-se medidores integradores de  \nuso pessoal, fixados no trabalhador. \n \nNa indisponibilidade destes equipam entos, a Norm a oferece \nprocedimentos alternativos para out ros tipos de medidores integ radores ou \nmedidores de leitura instantânea, não fixados no trabalhador, que p oderão ser \nutilizados na avaliação de determinadas situações de exposição ocupacional. \nEm cada caso deverão ser seguidos os procedimentos de medição específicos \nestabelecidos na presente Norma. \n \nNo entanto, as condições de trabalho que apresentem  d inâmica \noperacional co mplexa, c omo, por exe mplo, a co ndução de em pilhadeiras, \natividades de manutenção, entre outra s, ou que envolvam  movimentação \nconstante do trabalhador, não deve rão ser avaliadas por esses métodos \nalternativos. \n \n15 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "NHO 01"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1 Avaliação da exposição de um trabalhador ao ruído",
+    "titulo": "1.1 Avaliação da exposição de um trabalhador ao ruído",
+    "referencia": "1.1 Avaliação da exposição de um trabalhador ao ruído",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "avaliação",
+      "exposição",
+      "trabalhador",
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "meio",
+      "dose",
+      "diária"
+    ],
+    "texto": "1.1 Avaliação da exposição de um trabalhador ao ruído \ncontínuo ou intermitente por meio da dose diária"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.",
+    "titulo": "1.",
+    "referencia": "1.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "1."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1 Utilizando medidor integrador de uso pessoal",
+    "titulo": "1.1 Utilizando medidor integrador de uso pessoal",
+    "referencia": "1.1 Utilizando medidor integrador de uso pessoal",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "integrador",
+      "pessoal",
+      "determ",
+      "inação",
+      "dose",
+      "expos",
+      "ição",
+      "ruído",
+      "deve",
+      "feita"
+    ],
+    "texto": "1.1 Utilizando medidor integrador de uso pessoal \n \nA determ inação da dose de expos ição ao ruído  deve ser feita, \npreferencialmente, por meio de m edidores integradores de uso pessoal \n(dosímetros de ruído), ajustados de forma a atender as especificações contidas \nno item"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1 (equipamentos de medição).",
+    "titulo": "1.1 (equipamentos de medição).",
+    "referencia": "1.1 (equipamentos de medição).",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "equipamentos",
+      "medição",
+      "neste",
+      "caso",
+      "osição",
+      "ocupacional",
+      "diário",
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "corresponde",
+      "dose"
+    ],
+    "texto": "1.1 (equipamentos de medição). \n \nNeste caso o lim ite de exp osição ocupacional diário ao ruído contínuo \nou intermitente corresponde a dose diária igual 100%. \n \nO nível de ação para a exposição ocupacional ao ruído é de dose diária \nigual a 50%. \n \nO limite de exposição valor teto para o ruído contínuo ou intermitente é \n115 dB(A)."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.",
+    "titulo": "1.",
+    "referencia": "1.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "1."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2 Utilizando medidor portado pelo avaliador",
+    "titulo": "1.2 Utilizando medidor portado pelo avaliador",
+    "referencia": "1.2 Utilizando medidor portado pelo avaliador",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "portado",
+      "pelo",
+      "avaliador",
+      "mpossibilidade",
+      "utilização",
+      "medidores",
+      "integradores",
+      "pessoal",
+      "poderão",
+      "utilizados"
+    ],
+    "texto": "1.2 Utilizando medidor portado pelo avaliador \n \nNa i mpossibilidade da utilização de medidores integradores de uso \npessoal, poderão ser utilizados medidores portados pelo avaliador. Neste caso  \na dose diária pode ser determinada por meio da seguinte expressão: \n \nDOSE DIÁRIA = 100\n3\n3\n2\n2\n1\n1 ×⎟⎟\n⎠\n⎞\n⎜⎜\n⎝\n⎛ ++++\nn\nn\nT\nC\nT\nC\nT\nC\nT\nC L                  []  %\n \nonde: \nCn = tempo total diário em que o tr abalhador fica exposto a um nível \nde ruído específico. \nTn = tempo máximo diário permissível a este nível, segundo a Tabela l. \n \nPara níveis de ruído co m valores intermediários aos constantes na  \nTabela 1 será considerado o tem po máximo diário perm issível relativo ao  \nnível imediatamente mais elevado. \n16 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "exposições",
+      "níveis",
+      "inferiores",
+      "serão",
+      "consideradas",
+      "cálculo",
+      "dose",
+      "quando",
+      "posição",
+      "único",
+      "nível",
+      "ruído"
+    ],
+    "texto": "NHO 01 \nExposições a níveis inferiores a 80 dB(A) não serão consideradas no \ncálculo da dose. \n \nQuando a ex posição for a u m único nível de ruído o cálculo da dose \ndiária tam bém é feito utilizando a  expressão  apresentada, ou seja, \nsimplesmente dividindo \"C1\" por \"T1\". \n \nNeste critério, o lim ite de exposi ção ocupacional diária ao ruído  \ncontínuo ou intermitente corresponde a dose diária igual a 100%. \n \nO nível de ação para a exposição ocupacional ao ruído é de dose diária \nigual a 50%. \n \nO limite de exposição valor teto para o ruído contínuo ou intermitente é \n115 dB(A)."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2 Avaliação da exposição de um trabalhador ao ruído",
+    "titulo": "1.2 Avaliação da exposição de um trabalhador ao ruído",
+    "referencia": "1.2 Avaliação da exposição de um trabalhador ao ruído",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "avaliação",
+      "exposição",
+      "trabalhador",
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "meio",
+      "nível",
+      "pelo",
+      "deve",
+      "realizada",
+      "preferencialmente"
+    ],
+    "texto": "1.2 Avaliação da exposição de um trabalhador ao ruído \ncontínuo ou intermitente por meio do nível de exposição \n \nA avaliação da exposição pelo nível de exposição deve ser realizada, \npreferencialmente, utilizando-se medidores integradores de uso pessoal. Na \nindisponibilidade destes eq uipamentos, poderão ser utilizados outros tipos de \nmedidores integradores ou medidores de le itura instantânea, portados pelo  \navaliador. \n \nO Nível de Exposição - NE  é o Nível Médio representati vo da  \nexposição diária do trabalhador avaliado. \n \nPara fins de comparação com o limite de exposição, deve-se determinar \no Nível de Exposição Normalizado (N EN), que corresponde ao Nível de \nExposição (NE) convertido para a jornada padrão de 8 horas diárias. \n \nO Nível de Exposição Norm alizado - NEN  é determ inado pela \nseguinte expressão: \nNEN = NE + 10 log \n480\nET     [ ]dB  \nonde: \nNE = nível médio representativo da exposição ocupacional diária  \nTE = tempo de duração, em minutos, da jornada diária de trabalho \n17 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "neste",
+      "critério",
+      "expos",
+      "ição",
+      "ocupacional",
+      "diária",
+      "ruído",
+      "corresponde",
+      "igual",
+      "limite",
+      "exposição",
+      "valor"
+    ],
+    "texto": "NHO 01 \nNeste critério o lim ite de expos ição ocupacional diária ao ruído \ncorresponde a NEN igual a 85 dB(A), e o limite de exposição valor teto \npara ruído contínuo ou intermitente é de 115 dB(A). \n \nPara este critério considera-se como nível de ação o valor NEN igual a  \n82 dB(A). \n \nTabela 1. Tempo máximo diário de exposição permissível em função do nível \nde ruído \n \n \nNível de ruídodB(A) Tempo máximo diário permissível \n(Tn) \n(minutos) \n \n80"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.523,90",
+    "titulo": "1.523,90",
+    "referencia": "1.523,90",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "1.523,90 \n81"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.209,52",
+    "titulo": "1.209,52",
+    "referencia": "1.209,52",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "1.209,52 \n82 960,00 \n83 761,95 \n84 604,76 \n85 480,00 \n86 380,97 \n87 302,38 \n88 240,00 \n89 190,48 \n90 151,19 \n91 120,00 \n92 95,24 \n93 75,59 \n94 60,00 \n18 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "tabela",
+      "tempo",
+      "máximo",
+      "diário",
+      "exposição",
+      "permissível",
+      "função",
+      "nível",
+      "ruído",
+      "continuação",
+      "ruídodb",
+      "minutos"
+    ],
+    "texto": "NHO 01 \nTabela 1.Tempo máximo diário de exposição permissível em função do nível \nde ruído                                                                                               (continuação) \nNível de ruídodB(A) Tempo máximo diário permissível \n(Tn) \n(minutos) \n95 47,62 \n96 37,79 \n97 30,00 \n98 23,81 \n99 18,89 \n100 15,00 \n101 11,90 \n102 9,44 \n103 7,50 \n104 5,95 \n105 4,72 \n106 3,75 \n107 2,97 \n108 2,36 \n109 1,87 \n110 1,48 \n111 1,18 \n112 0,93 \n113 0,74 \n114 0,59 \n115 0,46 \n19 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "NHO 01"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.2 Ruído de impacto",
+    "titulo": "5.2 Ruído de impacto",
+    "referencia": "5.2 Ruído de impacto",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "impacto",
+      "determinação",
+      "exposição",
+      "pacto",
+      "impulsivo",
+      "deve",
+      "feita",
+      "meio",
+      "medidor",
+      "nível",
+      "pressão"
+    ],
+    "texto": "5.2 Ruído de impacto \n \nA determinação da exposição ao ru ído de im pacto ou impulsivo deve \nser feita por meio de medidor de nível de pressão sonora operando em \n\"Linear\" e circuito de resposta para medição de nível de pico. \n \nNeste critério o lim ite de exposição  diária ao ruído de im pacto é \ndeterminado pela expressão a seguir: \n \nNp = 160 - 10 Log n [dB] \n \nonde: \nNp=nível de pico, em dB(Lin), máximo admissível \nn = número de impactos ou impulsos ocorridos durante a jornada diária \nde trabalho \n \nA Tabela 2,  obtida com base na ex pressão ante rior, apresenta a  \ncorrelação entre os níveis de pico  máxim o admissíveis e o número de \nimpactos oco rridos durant e a jornada d iária de trabalho, extraída a partir da \nexpressão de determinação do limite de exposição diária ao ruído de impacto. \n \n20 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "tabela",
+      "níveis",
+      "pico",
+      "máximo",
+      "missíveis",
+      "função",
+      "número",
+      "impactos",
+      "10000",
+      "1995",
+      "7943",
+      "1584"
+    ],
+    "texto": "NHO 01 \nTabela 2 . Níveis de pico máximo ad missíveis em função do número de \nimpactos \n \nNp n Np n Np n \n120 10000 127 1995 134 398 \n121 7943 128 1584 135 316 \n122 6309 129 1258 136 251 \n123 5011 130 1000 137 199 \n124 3981 131 794 138 158 \n125 3162 132 630 139 125 \n126 2511 133 501 140 100 \n \nQuando o número de impactos ou de im pulsos diário exceder a 1"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "0.000",
+    "titulo": "0.000",
+    "referencia": "0.000",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "0.000 \n(n >"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "0.000), o ruído deverá ser considerado como contínuo ou intermitente.",
+    "titulo": "0.000), o ruído deverá ser considerado como contínuo ou intermitente.",
+    "referencia": "0.000), o ruído deverá ser considerado como contínuo ou intermitente.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "deverá",
+      "considerado",
+      "como",
+      "contínuo",
+      "intermitente",
+      "limite",
+      "tolerância",
+      "valor",
+      "teto",
+      "para",
+      "impacto"
+    ],
+    "texto": "0.000), o ruído deverá ser considerado como contínuo ou intermitente. \n \nO limite de tolerância valor teto para ruído de impacto corresponde ao \nvalor de nível de pico de 140 dB(Lin). \n \nO nível de ação para a exposição ocupacional ao ruído de im pacto \ncorresponde ao valor Np obtido na expr essão acima, subtraído de 3 decibéis \n(Np - 3) dB. →\n \nNota: \nOs c ritérios estabele cidos na prese nte Nor ma estão baseados em \nconceitos e parâmetros técnico-científicos modernos, seguindo tendência s \ninternacionais atuais, não havendo um compromisso de equivalência com \no crité rio le gal. Desta f orma, os r esultados obtidos e sua in terpretação \nquando da aplicação da presente Norma podem diferir daqueles obtidos \nna caracterização da insalubridade pela aplicação  do disposto na"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NR-15,",
+    "titulo": "NR-15,",
+    "referencia": "NR-15,",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "nr-15",
+      "anexo",
+      "portaria",
+      "3214",
+      "1978"
+    ],
+    "texto": "NR-15,  \nanexo 1, da Portaria 3214 de 1978. \n21 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "procedimentos",
+      "avaliação"
+    ],
+    "texto": "NHO 01 \n6. PROCEDIMENTOS DE AVALIAÇÃO"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.1 Abordagem dos locais e das condições de trabalho",
+    "titulo": "6.1 Abordagem dos locais e das condições de trabalho",
+    "referencia": "6.1 Abordagem dos locais e das condições de trabalho",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "abordagem",
+      "locais",
+      "condições",
+      "trabalho",
+      "avalia",
+      "ruído",
+      "deverá",
+      "aracterizar",
+      "exposição",
+      "todos",
+      "trabalhadores",
+      "considerados"
+    ],
+    "texto": "6.1 Abordagem dos locais e das condições de trabalho \n \nA avalia ção de ruído deverá s er fe ita de for ma a c aracterizar a \nexposição de todos os trabalhadores considerados no estudo. \n \nIdentificando-se grupos de trabalhadores que apresentem  i guais \ncaracterísticas de exposição - grupos homogêneos  - não pre cisarão ser  \navaliados todos os trabalhadores. As avaliações podem ser realizadas cobrindo \num ou mais t rabalhadores cuja situação  corresponda à exposição \"típica\" de \ncada grupo considerado. \n \nHavendo dú vidas quant o à possibili dade de redução do  núm ero de  \ntrabalhadores a s erem avaliados, a abordagem  deve considerar \nnecessariamente a totalidade dos expostos no grupo considerado. \n \nO conjunto de medições deve ser representativo das condições reais de \nexposição ocupacional do  grupo  de tr abalhadores objeto d o estudo. Desta \nforma, a avaliação deve cobrir todas as condições, operacionais e am bientais \nhabituais, que envolvem o trabalhador no exercício de suas funções. \n \nPara que as medições sejam  representativas da exposição de t oda a \njornada de trabalho é im portante que o período de am ostragem seja \nadequadamente escolhido.  Se forem identificados ciclos de exposição \nrepetitivos durante a jornada, a am ostragem dev erá incluir um  nú mero \nsuficiente de ciclos. A a mostragem deverá cobrir um número maior de ciclos, \ncaso estes não sejam regulares ou apresentem níveis com grandes variações de \nvalores. \n \nNo decorrer da jornada di ária, quando o trabalhador executar duas ou  \nmais rotinas independentes de trabalho, a avaliação da exposição ocupacional \npoderá ser feita avaliando-se, separadam ente, as condições de exposição em \ncada uma das rotinas e determ inando-se a exposição ocupacional diária pela \ncomposição dos dados obtidos. \n \nHavendo dú vidas quanto  à representatividade da am ostragem, esta \ndeverá envolver necessariamente toda a jornada de trabalho. \n22 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "procedimentos",
+      "avaliação",
+      "devem",
+      "interferir",
+      "mínimo",
+      "possível",
+      "condições",
+      "bientais",
+      "operacionais",
+      "carac",
+      "terísticas",
+      "condição"
+    ],
+    "texto": "NHO 01 \nOs procedimentos de avaliação devem interferir o mínimo possível nas \ncondições am bientais e operacionais carac terísticas da condição de trabalho  \nem estudo. \n \nCondições d e exposição não rotineiras, decorrentes de operações ou \nprocedimentos de trabalho previsíve is, mas não habituais, tais co mo \nmanutenções preventivas, deve m s er a valiadas e int erpretadas i soladamente, \nconsiderando-se a sua contribuição na dose diária ou no nível de exposição. \n \nDeverão ser obtidas informações administrativas, a serem corroboradas \npor observações de ca mpo, necessári as na cara cterização da ex posição dos  \ntrabalhadores, com base no critério utilizado."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.2 Equipamentos de medição",
+    "titulo": "6.2 Equipamentos de medição",
+    "referencia": "6.2 Equipamentos de medição",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "equipamentos",
+      "medição"
+    ],
+    "texto": "6.2 Equipamentos de medição"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.1 Especificações mínimas",
+    "titulo": "2.1 Especificações mínimas",
+    "referencia": "2.1 Especificações mínimas",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "especificações",
+      "mínimas"
+    ],
+    "texto": "2.1 Especificações mínimas"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1 Medidores integradores de uso pessoal",
+    "titulo": "1.1 Medidores integradores de uso pessoal",
+    "referencia": "1.1 Medidores integradores de uso pessoal",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "medidores",
+      "integradores",
+      "pessoal",
+      "mbém",
+      "denom",
+      "inados",
+      "dosímetros",
+      "ruído",
+      "serem",
+      "utilizados",
+      "avaliação",
+      "exposição"
+    ],
+    "texto": "1.1 Medidores integradores de uso pessoal \n \nOs medidores integradores de uso pessoal, ta mbém denom inados de  \ndosímetros de ruído, a serem utilizados na avaliação da exposição ocupacional \nao ruído deve m atender à s especificações constantes da Nor ma ANSI S"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.25-",
+    "titulo": "1.25-",
+    "referencia": "1.25-",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "1991",
+      "futuras",
+      "revisões",
+      "classificação",
+      "mínima",
+      "tipo",
+      "estar",
+      "ajustados",
+      "forma",
+      "atender",
+      "seguintes",
+      "parâmetros"
+    ],
+    "texto": "1.25-\n1991 ou de s uas futuras revisões, ter classificação mínima do tipo 2 e estar \najustados de forma a atender aos seguintes parâmetros: \n \n• circuito de ponderação - \"A\"  \n• circuito de resposta - lenta (slow) \n• critério de referência - 85 dB(A), que corresponde a dose de 100% \npara uma exposição de 8 horas \n• nível limiar de integração - 80 dB(A) \n• faixa de medição mínima - 80 a 115 dB(A)  \n• incremento de duplicação de dose = 3 (q = 3)  \n• indicação da ocorrência de níveis superiores a 115 dB(A) \n23 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "NHO 01"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2 Medidores integradores portados pelo avaliador",
+    "titulo": "1.2 Medidores integradores portados pelo avaliador",
+    "referencia": "1.2 Medidores integradores portados pelo avaliador",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "medidores",
+      "integradores",
+      "portados",
+      "pelo",
+      "avaliador",
+      "serem",
+      "utilizados",
+      "avaliação",
+      "exposição",
+      "ocupacional",
+      "ruído",
+      "devem"
+    ],
+    "texto": "1.2 Medidores integradores portados pelo avaliador \n \nOs medidores integradores a serem utilizados na avaliação  da \nexposição ocupacional ao  ruído devem at ender às especificações constantes \nda Norma IEC 804 ou de suas futuras re visões e ter classifi cação mínima do \ntipo 2. Para a determ inação de ní veis médios de ruído devem  estar ajustados \nde forma a atender aos seguintes parâmetros: \n \n• circuito de ponderação - \"A\" \n• circuito de resposta - lenta (slow) ou rápida (fast), quando \n    especificado pelo fabricante \n• critério de referência - 85 dB(A), que corresponde a dose de 100% \n    para uma exposição de 8 horas \n• Nível limiar de integração - 80 dB(A) \n• faixa de medição mínima - 80 a 115 dB(A)  \n• incremento de duplicação de dose = 3 (q = 3)  \n• indicação da ocorrência de níveis superiores a 115 dB(A)"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.3 Medidores de leitura instantânea",
+    "titulo": "1.3 Medidores de leitura instantânea",
+    "referencia": "1.3 Medidores de leitura instantânea",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "medidores",
+      "leitura",
+      "instantânea",
+      "serem",
+      "utilizados",
+      "avaliação",
+      "exposição",
+      "ocupacional",
+      "ruído",
+      "ntínuo",
+      "inter",
+      "mitente"
+    ],
+    "texto": "1.3 Medidores de leitura instantânea \n \nOs medidores de leitura instantânea a serem utilizados na avaliação da \nexposição ocupacional ao ruído co ntínuo o u inter mitente, ou de im pacto, \ndevem ser n o mínimo d o tipo 2, segundo especi ficações con stantes das \nNormas ANSI S"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.4-1983 e IEC 651, ou de suas futuras revisões.",
+    "titulo": "1.4-1983 e IEC 651, ou de suas futuras revisões.",
+    "referencia": "1.4-1983 e IEC 651, ou de suas futuras revisões.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "4-1983",
+      "suas",
+      "futuras",
+      "revisões",
+      "para",
+      "medição",
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "medidores",
+      "devem",
+      "estar"
+    ],
+    "texto": "1.4-1983 e IEC 651, ou de suas futuras revisões. \n \nPara a medição de ruído contínuo ou intermitente, os medidores devem \nestar ajustados de forma a operar no circ uito de ponderação \"A\", circuito de \nresposta lenta (slow) e cobrir um a faixa de medição mínima de 80 a 115 \ndB(A). \n \nPara a medição de ruído de im pacto os medidores devem estar \najustados de forma a operar no circuito \"linear\", circuito de resposta para \nmedição de nível de pico, e cobrir um a faixa de medição de pico mínim a de \n100 a 150 dB."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.4 Calibradores acústicos",
+    "titulo": "1.4 Calibradores acústicos",
+    "referencia": "1.4 Calibradores acústicos",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "calibradores",
+      "acústicos",
+      "equipam",
+      "entos",
+      "utilizados",
+      "libração",
+      "edidores",
+      "nível",
+      "pressão",
+      "sonora",
+      "devem",
+      "atender"
+    ],
+    "texto": "1.4 Calibradores acústicos \n \nOs equipam entos utilizados na ca libração dos m edidores de nível de  \npressão sonora, devem atender às especi ficações da Norma ANSI S"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.40-1984",
+    "titulo": "1.40-1984",
+    "referencia": "1.40-1984",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "40-1984",
+      "942-1988"
+    ],
+    "texto": "1.40-1984 \nou IEC 942-1988. \n24 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "calibradores",
+      "preferencialmente",
+      "devem",
+      "mesma",
+      "marca",
+      "medidor",
+      "obrigatoriamente",
+      "perm",
+      "itir",
+      "adequad",
+      "acoplamento",
+      "entre"
+    ],
+    "texto": "NHO 01 \nOs calibradores, preferencialmente, devem ser da mesma marca que o \nmedidor e, obrigatoriamente, perm itir o adequad o acoplamento entre o  \nmicrofone e o calibrador, diretamente ou por meio do uso de adaptador."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.2 Interferentes ambientais no desempenho dos",
+    "titulo": "2.2 Interferentes ambientais no desempenho dos",
+    "referencia": "2.2 Interferentes ambientais no desempenho dos",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "interferentes",
+      "ambientais",
+      "desempenho",
+      "equipamentos",
+      "protetor",
+      "vento",
+      "sobre",
+      "microfone",
+      "sempre",
+      "recomendável",
+      "evitar",
+      "possíveis"
+    ],
+    "texto": "2.2 Interferentes ambientais no desempenho dos \nequipamentos \n \nO uso de protetor de vento sobre o microfone é sempre recomendável a \nfim de evitar possíveis interferências da velocida de do ar e proteger o  \nmicrofone contra poeira. \n \nOs medidores só poderão ser utilizados dentro das condições de \numidade e temperatura especificados pelos fabricantes. \n \nSe os m edidores forem  utilizados em  am bientes co m a presença de  \ncampos magnéticos significativos, dev em ser consi derados os cuidados e as \nlimitações previstas pelo fabricante."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.3 Aferição e certificação dos equipamentos",
+    "titulo": "2.3 Aferição e certificação dos equipamentos",
+    "referencia": "2.3 Aferição e certificação dos equipamentos",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "aferição",
+      "certificação",
+      "equipamentos",
+      "medidores",
+      "calibradores",
+      "deverã",
+      "periodicamente",
+      "aferidos",
+      "certificados",
+      "pelo",
+      "fabricante",
+      "assist"
+    ],
+    "texto": "2.3 Aferição e certificação dos equipamentos \n \nOs medidores e os calibradores deverã o ser periodicamente aferidos e \ncertificados pelo fabricante, assist ência técnica autorizada, ou laboratórios \ncredenciados para esta finalidade."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.3 Procedimentos gerais de medição",
+    "titulo": "6.3 Procedimentos gerais de medição",
+    "referencia": "6.3 Procedimentos gerais de medição",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "procedimentos",
+      "gerais",
+      "medição",
+      "equipamentos",
+      "quando",
+      "devem",
+      "estar",
+      "calibrados",
+      "perfeitas",
+      "condições",
+      "eletromecânicas",
+      "antes"
+    ],
+    "texto": "6.3 Procedimentos gerais de medição \n \nOs equipamentos de medição, quando em uso, devem estar calibrados e \nem perfeitas condições eletromecânicas. Antes de iniciar as medições deve-se: \n \n• verificar a integridade eletromecânica e coerência na resposta do  \n     instrumento; \n• verificar as condições de carga das baterias; \n• ajustar os parâmetros de medição, conforme o critério a ser  \n    utilizado; \n• efetuar a calibração de acordo com as instruções do fabricante. \n \n25 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "medições",
+      "devem",
+      "feitas",
+      "microfone",
+      "posicionado",
+      "dentr",
+      "zona",
+      "auditiva",
+      "trabalhador",
+      "form",
+      "fornecer",
+      "ados"
+    ],
+    "texto": "NHO 01 \nAs medições devem ser feitas com o microfone posicionado dentr o da \nzona auditiva do trabalhador, de form a a fornecer d ados representativos da \nexposição ocupacional diária ao ruído a que está submetido o trabalhador no \nexercício de suas funções. No caso de medidores de uso pessoal, o microfone \ndeve ser posicionado sob re o o mbro, preso na vestimenta, dentro da zon a \nauditiva do trabalhador. \n \nQuando forem identificadas diferenças significativas entre os níve is de \npressão sonora que atingem  os dois ouvi dos, as  medições deverão ser  \nrealizadas do lado exposto ao maior nível. \n \nO direcionamento do m icrofone deve obedecer às orientações do \nfabricante, constantes do manual do equi pamento, de forma a garantir a  \nmelhor resposta do medidor. \n \nO posicionamento e a conduta do av aliador não devem  interferir no \ncampo acústico ou nas co ndições de tr abalho, para não falsear o s resultados \nobtidos. Se necessário, deve ser utilizad a avaliação rem ota, por meio do uso \nde cabo de extensão para o microfone, a fim de permitir leitura à distância. \n \nAntes de iniciar a medição o trab alhador a ser avaliado deve ser \ninformado: \n \n• do objetivo do trabalho; \n• que a medição não deve interferir em suas atividades habituais, \n      devendo manter a sua rotina de trabalho; \n• que as medições não efetuam gravação de conversas; \n• que o equipamento ou microfone nele fixado só pode ser removido \n      pelo avaliador; \n• que o microfone nele fixado não pode ser tocado ou obstruído; \n• sobre outros aspectos pertinentes. \n \nOs dados obtidos só serão validados se, após a medição, o equipamento \nmantiver as condições adequadas de us o. Deverão ser invalidados,  efetuando-\nse nova medição, sempre que: \n \n• a aferição da calibração acusar variação fora da faixa tolerada de ± \n      1 dB; \n26 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "nível",
+      "tensão",
+      "bateria",
+      "estiver",
+      "abaixo",
+      "mínimo",
+      "aceitável",
+      "houver",
+      "qualquer",
+      "prejuízo",
+      "integridade",
+      "eletromecânica"
+    ],
+    "texto": "NHO 01 \n• nível de tensão de bateria estiver abaixo do mínimo aceitável; \n• houver qualquer prejuízo à integridade eletromecânica do  \n      equipamento. \n \nQuando ocorrer a presença si multânea de ruído contínuo ou  \nintermitente e ruído de im pacto, a avaliação da exposição ocupacional a ruído \nde im pacto deve ser realizada de forma independente, utilizando-se os \nprocedimentos específicos apresentados nesta Norma. \n \nNo entanto, a participação do ru ído de im pacto tam bém deve ser \nconsiderada na avaliação  da exposição ao ruído c ontínuo ou i ntermitente. \nQuando fore m utilizados medidores integradores, o ruído de i mpacto será \nautomaticamente co mputado na in tegração. No  caso de utilização de \nmedidores de leitura instantânea, as leituras que coincidirem com a ocorrência \ndos picos de  im pacto deverão ser nor malmente c omputadas n os dados da  \nmedição."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.4 Procedimentos específicos de medição de ruído contínuo",
+    "titulo": "6.4 Procedimentos específicos de medição de ruído contínuo",
+    "referencia": "6.4 Procedimentos específicos de medição de ruído contínuo",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "procedimentos",
+      "específicos",
+      "medição",
+      "ruído",
+      "contínuo",
+      "intermitente"
+    ],
+    "texto": "6.4 Procedimentos específicos de medição de ruído contínuo \nou intermitente"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.1 Utilizando medidor integrador de uso pessoal",
+    "titulo": "4.1 Utilizando medidor integrador de uso pessoal",
+    "referencia": "4.1 Utilizando medidor integrador de uso pessoal",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "integrador",
+      "pessoal",
+      "realize",
+      "ajustes",
+      "preliminares",
+      "equipamento",
+      "calibração",
+      "base",
+      "instruções",
+      "anual"
+    ],
+    "texto": "4.1 Utilizando medidor integrador de uso pessoal \n \na) Realize os ajustes preliminares no equipamento e sua calibração,  \ncom base nas  instruções do m anual de operação e nos parâ metros \nespecificados no item"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1.",
+    "titulo": "1.1.",
+    "referencia": "1.1.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "coloque",
+      "medidor",
+      "trabalhador",
+      "avaliado",
+      "fixe",
+      "microfone",
+      "dentro",
+      "zona",
+      "auditiva",
+      "conforme",
+      "item"
+    ],
+    "texto": "1.1. \n \nb) Coloque o  medidor no  trabalhador a ser avaliado e fixe o  \nmicrofone dentro da zona auditiva, conforme item"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.3.",
+    "titulo": "6.3.",
+    "referencia": "6.3.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "posicione",
+      "fixe",
+      "qualquer",
+      "excesso",
+      "cabo",
+      "microfone",
+      "para",
+      "evitar",
+      "dificuldade",
+      "inconveniente",
+      "usuário",
+      "adote"
+    ],
+    "texto": "6.3. \n \nc) Posicione e fixe qualquer excesso de cabo de microfone para evitar \nqualquer dificuldade ou inconveniente ao usuário. \n \nd) Adote as medidas necessárias para impedir que o us uário, ou outra \npessoa, poss a faz er alt erações na pro gramação do equipamento, \ncomprometendo os resultados obtidos. \n \ne) Inicie o processo de integ ração so mente após o microfone estar \ndevidamente ajustado e fixado no trabalhador. \n \n27 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "cheque",
+      "dosí",
+      "metro",
+      "periodica",
+      "mente",
+      "urante",
+      "avaliação",
+      "para",
+      "assegurar",
+      "icrofone",
+      "adequadamente",
+      "posicionado"
+    ],
+    "texto": "NHO 01 \nf) Cheque o dosí metro periodica mente, d urante a avaliação, para s e \nassegurar de que o m icrofone est á adequadamente posicionado e \nque o equipamento está em condições normais de operação. \n \ng) Retire o m icrofone d o trab alhador som ente após a in terrupção da  \nmedição. \n \nh) Determine e registre o tem po efetivo de medição, sem pre que a \nmedição não cobrir a jornada integral de trabalho. \n \ni) Quando a medição não cobrir toda a jornada de trabalho, a dose \ndeterminada para o período medi do deve ser pro jetada para a \njornada diária efetiva de trabalho, determinando-se a dose diária."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.2 Utilizando medidor integrador portado pelo",
+    "titulo": "4.2 Utilizando medidor integrador portado pelo",
+    "referencia": "4.2 Utilizando medidor integrador portado pelo",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "integrador",
+      "portado",
+      "pelo",
+      "avaliador",
+      "realize",
+      "ajustes",
+      "preli",
+      "minares",
+      "equipa",
+      "mento"
+    ],
+    "texto": "4.2 Utilizando medidor integrador portado pelo \navaliador \n \na) Realize os ajustes preli minares no equipa mento e sua calibração , \ncom base nas  instruções do m anual de operação e nos parâ metros \nespecificados no item"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2.",
+    "titulo": "1.2.",
+    "referencia": "1.2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "mantenha",
+      "microfone",
+      "medidor",
+      "dentro",
+      "zona",
+      "auditiva",
+      "trabalhador",
+      "posicione-se",
+      "form",
+      "minimizar",
+      "interferência",
+      "medição"
+    ],
+    "texto": "1.2. \n \nb) Mantenha o microfone do medidor dentro da zona auditiva do \ntrabalhador e posicione-se de form a a minimizar a interferência na \nmedição. \n \nc) Determine e registre o tem po efetivo de medição, se mpre que a \nmedição não cobrir a jornada integral de trabalho. \n \nd) Quando a medição cobrir um  período representativo da exposição \nocupacional, o nível médio fornecido pelo medidor será \nrepresentativo da exposição do trab alhador avaliado durante toda a  \nsua jornada de trabalho, correspondendo  ao nível de exposição. Se \nfor determinada a fra ção de dose, est a deverá ser projetada para a \njornada diária efetiva de trabalho. \n \ne) Acompanhe t oda a movimentação do tr abalhador no exercí cio de  \nsuas funções, de forma que duran te toda a medição o m icrofone \nmantenhase posicionado dentro da zona auditiva. \n28 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "quando",
+      "forem",
+      "utilizados",
+      "medidores",
+      "cujo",
+      "integração",
+      "seja",
+      "prefixado",
+      "cubra",
+      "período",
+      "ínimo",
+      "representativo"
+    ],
+    "texto": "NHO 01 \nf) Quando forem utilizados medidores cujo tem po d e integração seja \nprefixado e não cubra o período m ínimo representativo da exposição, \ndeverão ser seguidos os procedimentos complementares relacionados \na seguir: \n \n• medições seq üenciais, c ada u ma co m t empo de dur ação dentro do \nlimite imposto pelo medidor; \n• número de medições suficiente para cobrir um período representativo \nda exposição; \n• registro de todas as leituras das  medições para per mitir a \ndeterminação do nível médio ou da fração de dose rel ativos ao  \nperíodo avaliado, mediante a seguinte expressão matemática: \n \nNM=10log () ⎥⎦\n⎤\n⎢⎣\n⎡ ×++×++×+× n\nNM\nn\nNM\ni\nNMNM nnnnn\n1,01,01,0\n2\n1,0\n1 101010101 21 LL \n \nonde: \nNM = Nível médio representativo da exposição do trabalhador avaliado  \nni = núm ero de leituras obtidas para  um  mesmo nível m édio parcial \nassumido - NMi \nn = número total de leituras = n1 + n2 + ... + ni + ... + nn \nNMi = iésimo nível médio de pressão sonora assumido, em dB(A)"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "4.3 Utilizando medidor de leitura instantânea",
+    "titulo": "4.3 Utilizando medidor de leitura instantânea",
+    "referencia": "4.3 Utilizando medidor de leitura instantânea",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "utilizando",
+      "medidor",
+      "leitura",
+      "instantânea",
+      "realize",
+      "ustes",
+      "preli",
+      "minares",
+      "equipa",
+      "mento",
+      "calibraç",
+      "base"
+    ],
+    "texto": "4.3 Utilizando medidor de leitura instantânea \n \na) Realize os aj ustes preli minares no equipa mento e s ua calibraç ão, \ncom base na s instruções do m anual de operação e parâ metros \nespecificados no item"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.3.",
+    "titulo": "1.3.",
+    "referencia": "1.3.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "mantenha",
+      "microfone",
+      "medidor",
+      "dentro",
+      "zona",
+      "auditiva",
+      "trabalhador",
+      "posicione-se",
+      "form",
+      "minimizar",
+      "interferência",
+      "medição"
+    ],
+    "texto": "1.3. \n \nb) Mantenha o microfone do medidor dentro da zona auditiva do \ntrabalhador e posicione-se de form a a minimizar a interferência na \nmedição. \n \nc) Determine e registre o perí odo de t empo efetivo de medição \nsempre que esta não cobrir a jornada integral de trabalho. \n29 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "acompanhe",
+      "movimentação",
+      "trabalhador",
+      "exercício",
+      "suas",
+      "funções",
+      "form",
+      "manter",
+      "posicionado",
+      "microfone",
+      "dentro",
+      "zona"
+    ],
+    "texto": "NHO 01 \nd) Acompanhe t oda a movimentação do trabalhador no exercício de \nsuas funções, de form a a manter posicionado o  microfone dentro  \nda zona auditiva, durante todo o período de medição. \n \ne) As medições devem  s er f eitas e m u m período representativo da  \nexposição ocupacional, por meio de n leituras seqüenciais colhidas \na intervalos d e tempo fixos e predefini dos, identificados por \"At\", \nde no máximo 15 segundos. \n \nf) Cada leitura corresponde ao valor efetivamente lido no medidor no \ninstante da medição, arredondado  pa ra o valor  mais próximo, \ndentro de u m intervalo de 0,5 dB. Não devem  ser to madas, \nportanto, médias subjetivas (média por interpolação visual) durante \na realização de cada leitura. (Exe mplos: valor lido: 80,7 →  valor \nassumido: 80,5; valor lido: 80,8 →  valor assumido: 81,0) \n \ng) O nível m édio representativo da exposição deve ser  deter minado \npela expressão matemática que segue: \n \n() ⎥⎦\n⎤NM=10log ⎢\n⎡\n⎣\n×++×++×+× ni NPS\nn\nNPS\ni\nNPSNPS nnnnn\n1,01,01,0\n2\n1,0\n1 101010101 21 LL\n \n \nonde: \nNM = nível médio representativo da exposição do trabalhador avaliado  \nni = número de leituras obtidas para um mesmo nível assumido - NPSi  \nn = número total de leituras [devem ser incluídas as leituras de valores \nabaixo de 80 dB(A)] \nNPSi = iési mo nível de pressão sonora assumido, em dB(A) [não devem \nser incluídos os níveis de pressão sonora inferiores a 80 dB(A)] \n \nExemplo: \nNa análise da exposição ao  ruído de u m trabalhador no exercício de suas \nfunções, identificou-se um ciclo de exposição que em média apresentou \nduração de 7 m inutos e 50 segundos. O período de medição foi adotado \nvisando cobr ir 15 ciclos de exposição completos, de m odo a garantir boa \nrepresentatividade, perfazendo um total de 117 m inutos e 30 segundos (7050 \nsegundos). As leituras foram tomadas a intervalos de 10 segundos (At = l0s). \n30 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "dessa",
+      "foram",
+      "feit",
+      "leituras",
+      "cobrindo",
+      "intervalo",
+      "tota",
+      "7050",
+      "segundos",
+      "dados",
+      "obtidos",
+      "apresentados"
+    ],
+    "texto": "NHO 01 \nDessa for ma, foram  feit as 705 leituras,  cobrindo o intervalo tota l de 7050 \nsegundos. Os dados obtidos são apresentados na tabela a seguir: \n \n \ni NPSi ni \n1 < 80,0 188 \n2 83,5 3 \n3 84,0 7 \n4 85,0 21 \n5 85,5 38 \n6 86,5 42 \n7 88,0 53 \n8 88,5 47 \n9 89,0 52 \n10 90,0 75 \n1 1 90,5 65 \n12 91,0 53 \n13 92,0 27 \n14 95,0 17 \n15 98,0 12 \n16 99,5 5 \nTotal de leituras = n 705 \n \n31 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "1021107103",
+      "××××",
+      "10471053104210",
+      "10531065107510",
+      "1051012101710",
+      "quando",
+      "edição",
+      "cobrir",
+      "período",
+      "epresentativo",
+      "exposição",
+      "ocupacional"
+    ],
+    "texto": "NHO 01 \nNM=10 log [ +×+×+× ××× 0,851,00,841,05,831,0 1021107103(705\n1  \n   +38  +×+×+×+× ×××× 5,881,00,881,05,861,05,851,0 10471053104210\n \n   +52  +×+×+×+× ×××× 0,911,05,901,00,901,00,891,0 10531065107510\n \n   +27  )]1051012101710 5,991,00,981,00,951,00,921,0 ×××× ×+×+×+×\nNM = 89 dB(A) \n \nh) Quando a m edição cobrir um período r epresentativo da exposição \nocupacional, o nível médio, dete rminado pelo pr ocedimento de \ncálculo apr esentado an teriormente, será  repr esentativo da \nexposição do  trabalhador avaliado durante toda a sua jornada de  \ntrabalho, correspondendo ao nível de exposição."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.5 Procedimentos específicos de medição de ruído de impacto",
+    "titulo": "6.5 Procedimentos específicos de medição de ruído de impacto",
+    "referencia": "6.5 Procedimentos específicos de medição de ruído de impacto",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "procedimentos",
+      "específicos",
+      "medição",
+      "ruído",
+      "impacto",
+      "realize",
+      "ajustes",
+      "preli",
+      "minares",
+      "equipa",
+      "mento",
+      "calibração"
+    ],
+    "texto": "6.5 Procedimentos específicos de medição de ruído de impacto \n \na) Realize os ajustes preli minares no equipa mento e sua calibração , \ncom base na s instruções do m anual d e operação e  parâ metros \nespecificados no item"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.3.",
+    "titulo": "1.3.",
+    "referencia": "1.3.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "mantenha",
+      "microfone",
+      "medidor",
+      "dentro",
+      "zona",
+      "auditiva",
+      "trabalhador",
+      "posicione-se",
+      "form",
+      "minimizar",
+      "interferência",
+      "medição"
+    ],
+    "texto": "1.3. \n \nb) Mantenha o microfone do medidor dentro da zona auditiva do \ntrabalhador e posicione-se de form a a minimizar a interferência na \nmedição. \n \nc) Acompanhe t oda a movimentação do tr abalhador no exercí cio de  \nsuas funções, de forma a manter o microfone posicionado dentro da \nzona auditiva, durante todo o período de medição. \n \nd) Efetue medições em número suficiente para determinar os níveis de \nimpacto a que fica submetido o trabalhador avaliado. \n \ne) Determine o núm ero de im pactos por dia a q ue f ica exposto o \ntrabalhador avaliado. \n \n32 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "impactos",
+      "níveis",
+      "medidos",
+      "período",
+      "menor",
+      "jornada",
+      "diária",
+      "trabalho",
+      "poderão",
+      "extrapolados",
+      "para",
+      "toda"
+    ],
+    "texto": "NHO 01 \nel)   O núm ero de impactos e os níveis medidos em um período menor \nque a jornada diária de trabalho poderão ser extrapolados para toda \na jornada, desde que o período avaliado seja repr esentativo de toda \na exposição do trabalhador."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.6  Interpretação dos resultados",
+    "titulo": "6.6  Interpretação dos resultados",
+    "referencia": "6.6  Interpretação dos resultados",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "interpretação",
+      "resultados"
+    ],
+    "texto": "6.6  Interpretação dos resultados"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.1  Ruído contínuo ou intermitente",
+    "titulo": "6.1  Ruído contínuo ou intermitente",
+    "referencia": "6.1  Ruído contínuo ou intermitente",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "contínuo",
+      "intermitente"
+    ],
+    "texto": "6.1  Ruído contínuo ou intermitente"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1  Dose diária",
+    "titulo": "1.1  Dose diária",
+    "referencia": "1.1  Dose diária",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "dose",
+      "diária",
+      "base",
+      "critério",
+      "apresentado",
+      "item"
+    ],
+    "texto": "1.1  Dose diária \n \nCom base no critério apresentado no item"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.1, sem pre que a dose",
+    "titulo": "1.1, sem pre que a dose",
+    "referencia": "1.1, sem pre que a dose",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "dose",
+      "diária",
+      "osição",
+      "ruíd",
+      "determ",
+      "inada",
+      "superio",
+      "exposição",
+      "estará",
+      "excedido",
+      "exigirá",
+      "adoção"
+    ],
+    "texto": "1.1, sem pre que a dose \ndiária de exp osição a ruíd o determ inada for superio r a 100% , o  lim ite d e \nexposição estará excedido e exigirá a adoção imediata de medidas de controle. \n \nSe a dose d iária estiver entre 50%  e 100%  a ex posição deve ser \nconsiderada aci ma do nível de açã o, devend o ser adotadas medidas \npreventivas de form a a minimizar a pr obabilidade de que as exposições ao  \nruído cause m prejuízos à audição do trabalhador e evitar que o lim ite de \nexposição seja ultrapassado. \n \nNão é permitida, em  nenhum  momento da jor nada de trabalho, \nexposição a níveis de ruído contínuo ou intermitente acima de 115 dB(A) para \nindivíduos q ue não estejam  adequadame nte protegidos, indepen dentemente \ndos valores obtidos para dose diária ou para o nível de exposição."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2 Nível de exposição normalizado",
+    "titulo": "1.2 Nível de exposição normalizado",
+    "referencia": "1.2 Nível de exposição normalizado",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "nível",
+      "exposição",
+      "normalizado",
+      "base",
+      "critério",
+      "apre",
+      "sentado",
+      "item"
+    ],
+    "texto": "1.2 Nível de exposição normalizado \n \nCom base no critério apre sentado no item"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.",
+    "titulo": "5.",
+    "referencia": "5.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "5."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.2, sempre que o nível de",
+    "titulo": "1.2, sempre que o nível de",
+    "referencia": "1.2, sempre que o nível de",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "sempre",
+      "nível",
+      "exposição",
+      "normalizado",
+      "superior",
+      "estará",
+      "excedido",
+      "exigirá",
+      "adoção",
+      "imediata",
+      "medidas",
+      "controle"
+    ],
+    "texto": "1.2, sempre que o nível de \nexposição normalizado - NEN - for superior a 85 dB(A), o  lim ite de \nexposição estará excedido e exigirá a adoção imediata de medidas de controle. \n \nSe o NEN estiver entre 82dB(A) e 85 dB(A) a exposição deve ser \nconsiderada aci ma do nível de açã o, devend o ser adotadas medidas \npreventivas a fim de minimizar a probabilidade de que as exposições ao ruído \ncausem prejuízos à audição do trabalha dor e evitar que o lim ite de exposição \nseja ultrapassado. \n33 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "permitida",
+      "nenhum",
+      "momento",
+      "nada",
+      "trabalho",
+      "exposição",
+      "níveis",
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "acima",
+      "para"
+    ],
+    "texto": "NHO 01 \nNão é permitida, em  nenhum  momento da jor nada de trabalho, \nexposição a níveis de ruído contínuo ou intermitente acima de 115 dB(A) para \nindivíduos q ue não estejam  adequadame nte protegidos, indepen dentemente \ndos valores obtidos para dose diária ou para o nível de exposição."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "1.3 Critério de julgamento e tomada de decisão",
+    "titulo": "1.3 Critério de julgamento e tomada de decisão",
+    "referencia": "1.3 Critério de julgamento e tomada de decisão",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "critério",
+      "julgamento",
+      "tomada",
+      "decisão",
+      "quadro",
+      "seguir",
+      "apre",
+      "senta",
+      "cons",
+      "iderações",
+      "técni",
+      "ação"
+    ],
+    "texto": "1.3 Critério de julgamento e tomada de decisão \n \nO Quadro a  seguir apre senta cons iderações técni cas e a  atu ação \nrecomendada em  função da Dose Diária ou d o Nível de  Exposição \nNormalizado encontrados na condição de exposição avaliada. \n \nDose diária \n(%) \nNEN  \ndB(A) \nConsideração \ntécnica \nAtuação  \nrecomendada \n0 a 50 até 82 aceitável no mínimo \nmanutenção da \ncondição existente \n50 a 80 82 a 84 acima do nível de \nação \nadoção de medidas \npreventivas \n80 a 100 84 a 85 região de \nincerteza \nadoção de medidas \npreventivas e \ncorretivas visando a \nredução da dose diária \nAcima  \nde 100 \n> 85 acima do limite de \nexposição \nadoção imediata de \nmedidas corretivas"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.2 Ruído de impacto",
+    "titulo": "6.2 Ruído de impacto",
+    "referencia": "6.2 Ruído de impacto",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "impacto",
+      "base",
+      "critério",
+      "apresentado",
+      "item"
+    ],
+    "texto": "6.2 Ruído de impacto \n \nCom base no critério apresentado no item"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "5.2, semp re que o nível de",
+    "titulo": "5.2, semp re que o nível de",
+    "referencia": "5.2, semp re que o nível de",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "semp",
+      "nível",
+      "pico",
+      "ultrapassar",
+      "máximo",
+      "permitido",
+      "calculado",
+      "para",
+      "número",
+      "pactos",
+      "trabalhador",
+      "está"
+    ],
+    "texto": "5.2, semp re que o nível de \npico ultrapassar o nível máximo permitido - Np, calculado para o número de \nim pactos a q ue o trabalhador está exposto em sua jo rnada diária de trabalho, \no limite de exposição estará excedido e ex igirá a adoção imediata de medidas \nde controle. \n \n34 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "perm",
+      "itida",
+      "exposição",
+      "pacto",
+      "pulsivos",
+      "níveis",
+      "pico",
+      "superiores",
+      "para",
+      "indivíduos",
+      "esteja",
+      "adequadamente"
+    ],
+    "texto": "NHO 01 \nNão é perm itida exposição a ruí dos de im pacto ou im pulsivos com \nníveis de pico superiores a 140 dB  para indivíduos que n ão esteja m \nadequadamente protegidos. \n \nSe o nível d e pico estiver entre ( Np -  3 ) e Np a exposição dev e ser \nconsiderada aci ma do nível de açã o, devend o ser adotadas medidas \npreventivas p ara minimizar a probabil idade de que  as exposições ao ruído  \nultrapassem o limite de exposição."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "6.3 Ruído contínuo ou intermitente simultâneo com",
+    "titulo": "6.3 Ruído contínuo ou intermitente simultâneo com",
+    "referencia": "6.3 Ruído contínuo ou intermitente simultâneo com",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "ruído",
+      "contínuo",
+      "intermitente",
+      "simultâneo",
+      "impacto",
+      "ocorrência",
+      "ultânea",
+      "exposição",
+      "ocupacional",
+      "estará",
+      "acima",
+      "limite"
+    ],
+    "texto": "6.3 Ruído contínuo ou intermitente simultâneo com \nruído de impacto \n \nNa ocorrência sim ultânea de ruído contínuo ou intermitente e ruído de  \nimpacto, a exposição ocupacional estará acima do limite de exposição, quando \npelo menos o limite para um dos tipos de ruído for excedido. \n \nNão é permitida, em  nenhum  momento da jor nada de trabalho, \nexposição a níveis de ruído contínuo ou intermitente acima de 115 dB(A) para \nindivíduos q ue não estejam  adequadame nte protegidos, indepen dentemente \ndos valores obtidos para dose diária ou para o nível de exposição. \n \nNão é perm itida exposição a ruí dos de im pacto ou im pulsivos com \nníveis de pico superiores a 140 dB  para indivíduos que n ão esteja m \nadequadamente protegidos. \n \n7. RELATÓRIO \n \nRecomenda-se que no relatório técn ico sejam abordados, no m ínimo, \nos aspectos a seguir apresentados, de  forma que po ssibilite a co mpreensão, \npor leitor qualificado, sobre o trabalho desenvolvido e documentar os aspectos \nda presente Norma que foram utilizados no estudo. \n \n35 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "introdução",
+      "ncluindo",
+      "etivos",
+      "balho",
+      "justifi",
+      "cativa",
+      "datas",
+      "períodos",
+      "foram",
+      "desenvolvidas",
+      "avaliações",
+      "critério"
+    ],
+    "texto": "NHO 01 \n• Introdução, i ncluindo obj etivos do tra balho, justifi cativa e datas ou  \nperíodos em que foram desenvolvidas as avaliações \n \n• Critério de avaliação adotado  \n \n• Instrumental utilizado \n \n• Metodologia de avaliação \n \n• Descrição das condições de exposição avaliadas  \n \n• Dados obtidos \n \n• Interpretação dos resultados \n \n36 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "refe",
+      "rênci",
+      "bibliográficas",
+      "nht-06",
+      "1985",
+      "para",
+      "liação",
+      "exposição",
+      "ocupacional",
+      "ruído",
+      "ntínuo",
+      "ntermitente"
+    ],
+    "texto": "NHO 01 \n8. REFE RÊNCI AS BIBLIOGRÁFICAS \n \n \nNHT-06 R/E (1985) - Nor ma para ava liação da exposição ocupacional ao \nruído co ntínuo o u i ntermitente - FUNDACENTRO - Ministério d o \nTrabalho. \n \nNHT-07 R/E (1985) - Nor ma para ava liação da exposição ocupacional ao \nruído - ruído de impacto - FUNDACENTRO - Ministério do Trabalho. \n \nNHT-09 R/E (1986) - Nor ma para ava liação da exposição ocupacional ao \nruído contínuo ou interm itente através de dosímetros - FUNDACENTRO \n- Ministério do Trabalho. \n \nAmerican Conference of Governmental Industrial Hygienists-Threshold Limit \nValues for Chemical Substances and Phy sical Agents - Biological  \nExposure Indices - ACGIH, Cincinatti - USA (1996). \n \nAmerican Conference of Govern mental Industrial Hy gienists - \nDocumentation of the Thr eshold Limit and Biological Exposure Indices - \n6a. Edição - ACGIH, Cincinatti - USA (1996). \n \nISO 1999 (19 90) - Acoustics - Determina tion of occupational nois e exposure \nand estimation of noise-induced hearing impairment. \n \nOSHA Instruction CPL 2-"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "2.20B – Chapter 4 – Noise Measurement (1990).",
+    "titulo": "2.20B – Chapter 4 – Noise Measurement (1990).",
+    "referencia": "2.20B – Chapter 4 – Noise Measurement (1990).",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [
+      "chapter",
+      "noise",
+      "measurement",
+      "1990"
+    ],
+    "texto": "2.20B – Chapter 4 – Noise Measurement (1990). \n \n37 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "NHO 01 \n38 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "NHO 01 \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n39 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "NHO 01 \n_________________________________________________________"
+  },
+  {
+    "documento": "NHO 01 Ruido Ocupacional",
+    "item": "NHO 01",
+    "titulo": "NHO 01",
+    "referencia": "NHO 01",
+    "tipo_fonte": "Norma de Higiene Ocupacional",
+    "palavras_chave": [],
+    "texto": "NHO 01 \n40 \n \n40"
+  }
+]

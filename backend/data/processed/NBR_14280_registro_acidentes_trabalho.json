@@ -1,0 +1,1393 @@
+[
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "NBR 14280:2001 - CADASTRO DE ACIDENTE",
+    "titulo": "NBR 14280:2001 - CADASTRO DE ACIDENTE",
+    "referencia": "NBR 14280:2001 - CADASTRO DE ACIDENTE",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "14280",
+      "2001",
+      "cadastro",
+      "acidente",
+      "trabalho",
+      "procedimento",
+      "classificação",
+      "objetivo",
+      "aplicação",
+      "estabelece",
+      "critérios",
+      "padronizados"
+    ],
+    "texto": "NBR 14280:2001 - CADASTRO DE ACIDENTE \nDO TRABALHO\n \nProcedimento e Classificação\n \n1. OBJETIVO E APLICAÇÃO\n \nA NBR 14280:2001 estabelece critérios padronizados para registro, comunicação, estatística, \ninvestigação e análise de acidentes do trabalho, suas causas e consequências. A norma aplica-\nse a qualquer atividade laborativa e pode ser utilizada por empresas, entidades ou \nestabelecimentos interessados no estudo sistemático de acidentes.\n \nFinalidade Principal: Identificar e registrar fatos fundamentais relacionados aos acidentes do \ntrabalho para orientar esforços prevencionistas, sem prescever medidas corretivas específicas.\n \n2. DEFINIÇÕES FUNDAMENTAIS"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2.1 Acidente do Trabalho",
+    "titulo": "2.1 Acidente do Trabalho",
+    "referencia": "2.1 Acidente do Trabalho",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "acidente",
+      "trabalho",
+      "ocorrência",
+      "imprevista",
+      "indesejável",
+      "instantânea",
+      "relacionada",
+      "exercício",
+      "resulte",
+      "possa",
+      "resultar",
+      "lesão"
+    ],
+    "texto": "2.1 Acidente do Trabalho\n \nOcorrência imprevista e indesejável, instantânea ou não, relacionada com o exercício do \ntrabalho, de que resulte ou possa resultar lesão pessoal. Inclui tanto ocorrências pontuais \nquanto exposições contínuas ou intermitentes."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2.2 Classificação dos Acidentes",
+    "titulo": "2.2 Classificação dos Acidentes",
+    "referencia": "2.2 Classificação dos Acidentes",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "classificação",
+      "acidentes",
+      "acidente",
+      "impessoal",
+      "caracterizado",
+      "independentemente",
+      "existência",
+      "acidentado",
+      "sendo",
+      "causador",
+      "direto",
+      "lesão"
+    ],
+    "texto": "2.2 Classificação dos Acidentes\n \nAcidente Impessoal: Caracterizado independentemente da existência de acidentado, não sendo \ncausador direto da lesão pessoal (ex: explosão, desabamento).\n \nAcidente Pessoal: Depende da existência de acidentado para sua caracterização.\n \nAcidente de Trajeto: Ocorre no percurso residência-trabalho-residência, qualquer que seja o meio \nde locomoção."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2.3 Tipos de Lesão",
+    "titulo": "2.3 Tipos de Lesão",
+    "referencia": "2.3 Tipos de Lesão",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "tipos",
+      "lesão",
+      "afastamento",
+      "impede",
+      "acidentado",
+      "voltar",
+      "trabalho",
+      "seguinte",
+      "acidente",
+      "resulta",
+      "incapacidade",
+      "permanente"
+    ],
+    "texto": "2.3 Tipos de Lesão\n \nLesão com Afastamento: Impede o acidentado de voltar ao trabalho no dia seguinte ao acidente \nou resulta em incapacidade permanente.\n \nLesão sem Afastamento: Não impede o retorno no dia seguinte, desde que não haja \nincapacidade permanente.\n \nLesão Imediata: Manifesta-se no momento do acidente.\n \nLesão Mediata: Não se manifesta imediatamente (ex: doenças ocupacionais).\n \n3. ELEMENTOS ESSENCIAIS PARA ANÁLISE\n \nA norma estabelece 10 elementos essenciais para análise estatística dos acidentes:\n \nEspécie de Acidente Impessoal - Caracterização da ocorrência impessoal1. \nTipo de Acidente Pessoal - Forma como a fonte da lesão causou a lesão2. \nAgente do Acidente - Coisa, substância ou ambiente que provocou o acidente3. \nFonte da Lesão - O que diretamente provocou a lesão4. \nFator Pessoal de Insegurança - Causa comportamental humana5. \nAto Inseguro - Ação contrária aos preceitos de segurança6. \nCondição Ambiente de Insegurança - Condição do meio que causou o acidente7. \nNatureza da Lesão - Identificação da lesão segundo suas características8. \nLocalização da Lesão - Sede da lesão no corpo9. \nPrejuízo Material - Danos materiais decorrentes do acidente10. \n \n4. SISTEMA DE CLASSIFICAÇÃO CODIFICADA\n \nA norma apresenta um sistema detalhado de codificação para cada elemento essencial:"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "4.1 Espécie de Acidente Impessoal (Códigos 10.xx.xx.xxx)",
+    "titulo": "4.1 Espécie de Acidente Impessoal (Códigos 10.xx.xx.xxx)",
+    "referencia": "4.1 Espécie de Acidente Impessoal (Códigos 10.xx.xx.xxx)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "espécie",
+      "acidente",
+      "impessoal",
+      "códigos",
+      "queda",
+      "projeção",
+      "resvaladura",
+      "objeto"
+    ],
+    "texto": "4.1 Espécie de Acidente Impessoal (Códigos 10.xx.xx.xxx)\n \nQueda, projeção ou resvaladura de objeto ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2",
+    "titulo": "2",
+    "referencia": "2",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "2"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000)",
+    "titulo": "0.000)",
+    "referencia": "0.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "vazamento",
+      "derrame"
+    ],
+    "texto": "0.000)\nVazamento, derrame ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "3",
+    "titulo": "3",
+    "referencia": "3",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "3"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000)",
+    "titulo": "0.000)",
+    "referencia": "0.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "descarga",
+      "elétrica",
+      "atmosférica"
+    ],
+    "texto": "0.000)\nDescarga elétrica não atmosférica ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "4",
+    "titulo": "4",
+    "referencia": "4",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "4"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000)",
+    "titulo": "0.000)",
+    "referencia": "0.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "incêndio",
+      "explosão"
+    ],
+    "texto": "0.000)\nIncêndio ou explosão ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "5",
+    "titulo": "5",
+    "referencia": "5",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "5"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000)",
+    "titulo": "0.000)",
+    "referencia": "0.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "desabamento",
+      "desmoronamento"
+    ],
+    "texto": "0.000)\nDesabamento ou desmoronamento ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "6",
+    "titulo": "6",
+    "referencia": "6",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "6"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000)",
+    "titulo": "0.000)",
+    "referencia": "0.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "acidentes",
+      "transporte"
+    ],
+    "texto": "0.000)\nAcidentes de transporte ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.70.xx.xxx)",
+    "titulo": "0.70.xx.xxx)",
+    "referencia": "0.70.xx.xxx)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0.70.xx.xxx)"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "4.2 Tipo de Acidente Pessoal (Códigos 20.xx.xx.xxx)",
+    "titulo": "4.2 Tipo de Acidente Pessoal (Códigos 20.xx.xx.xxx)",
+    "referencia": "4.2 Tipo de Acidente Pessoal (Códigos 20.xx.xx.xxx)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "tipo",
+      "acidente",
+      "pessoal",
+      "códigos",
+      "impacto",
+      "pessoa",
+      "contra",
+      "objeto"
+    ],
+    "texto": "4.2 Tipo de Acidente Pessoal (Códigos 20.xx.xx.xxx)\n \nImpacto de pessoa contra objeto ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2",
+    "titulo": "2",
+    "referencia": "2",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "2"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "4.000)",
+    "titulo": "4.000)",
+    "referencia": "4.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "impacto",
+      "sofrido",
+      "pessoa"
+    ],
+    "texto": "4.000)\nImpacto sofrido por pessoa ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2",
+    "titulo": "2",
+    "referencia": "2",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "2"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "8.000)",
+    "titulo": "8.000)",
+    "referencia": "8.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "queda",
+      "diferença",
+      "nível"
+    ],
+    "texto": "8.000)\nQueda com diferença de nível ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2",
+    "titulo": "2",
+    "referencia": "2",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "2"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2.000)",
+    "titulo": "2.000)",
+    "referencia": "2.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "queda",
+      "mesmo",
+      "nível"
+    ],
+    "texto": "2.000)\nQueda em mesmo nível ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2",
+    "titulo": "2",
+    "referencia": "2",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "2"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "6.000)",
+    "titulo": "6.000)",
+    "referencia": "6.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "aprisionamento"
+    ],
+    "texto": "6.000)\nAprisionamento ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2",
+    "titulo": "2",
+    "referencia": "2",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "2"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2",
+    "titulo": "2",
+    "referencia": "2",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "2"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000)",
+    "titulo": "0.000)",
+    "referencia": "0.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "exposição",
+      "energia",
+      "elétrica"
+    ],
+    "texto": "0.000)\nExposição à energia elétrica ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2",
+    "titulo": "2",
+    "referencia": "2",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "2"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "3",
+    "titulo": "3",
+    "referencia": "3",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "3"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "6.000)",
+    "titulo": "6.000)",
+    "referencia": "6.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "contato",
+      "temperatura",
+      "extrema"
+    ],
+    "texto": "6.000)\nContato com temperatura extrema ("
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2",
+    "titulo": "2",
+    "referencia": "2",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "2"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "4",
+    "titulo": "4",
+    "referencia": "4",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "4"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000)",
+    "titulo": "0.000)",
+    "referencia": "0.000)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "cálculos",
+      "estatísticos"
+    ],
+    "texto": "0.000)\n \n5. CÁLCULOS ESTATÍSTICOS"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "5.1 Horas-Homem de Exposição ao Risco",
+    "titulo": "5.1 Horas-Homem de Exposição ao Risco",
+    "referencia": "5.1 Horas-Homem de Exposição ao Risco",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "horas-homem",
+      "exposição",
+      "risco",
+      "somatório",
+      "horas",
+      "durante",
+      "quais",
+      "empregados",
+      "ficam",
+      "disposição",
+      "empregador",
+      "base"
+    ],
+    "texto": "5.1 Horas-Homem de Exposição ao Risco\n \nSomatório das horas durante as quais os empregados ficam à disposição do empregador. Base \npara todos os cálculos de frequência e gravidade.\n \nCálculo: Número de empregados × Número de horas trabalhadas por período"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "5.2 Indicadores Estatísticos Principais",
+    "titulo": "5.2 Indicadores Estatísticos Principais",
+    "referencia": "5.2 Indicadores Estatísticos Principais",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "indicadores",
+      "estatísticos",
+      "principais",
+      "taxa",
+      "frequência",
+      "acidentes",
+      "número"
+    ],
+    "texto": "5.2 Indicadores Estatísticos Principais\n \nTaxa de Frequência de Acidentes: TF = (Número de acidentes ×"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1.",
+    "titulo": "1.",
+    "referencia": "1.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000) / Horas-homem de",
+    "titulo": "0.000) / Horas-homem de",
+    "referencia": "0.000) / Horas-homem de",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "horas-homem",
+      "exposição",
+      "taxa",
+      "frequência",
+      "acidentados",
+      "lesão",
+      "afastamento",
+      "número"
+    ],
+    "texto": "0.000) / Horas-homem de \nexposição\n \nTaxa de Frequência de Acidentados com Lesão com Afastamento: TFL = (Número de \nacidentados com afastamento ×"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1.",
+    "titulo": "1.",
+    "referencia": "1.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000) / Horas-homem",
+    "titulo": "0.000) / Horas-homem",
+    "referencia": "0.000) / Horas-homem",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "horas-homem",
+      "taxa",
+      "gravidade",
+      "tempo",
+      "computado"
+    ],
+    "texto": "0.000) / Horas-homem\n \nTaxa de Gravidade: TG = (Tempo computado ×"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1.",
+    "titulo": "1.",
+    "referencia": "1.",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0",
+    "titulo": "0",
+    "referencia": "0",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "0"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.000) / Horas-homem de exposição",
+    "titulo": "0.000) / Horas-homem de exposição",
+    "referencia": "0.000) / Horas-homem de exposição",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "horas-homem",
+      "exposição"
+    ],
+    "texto": "0.000) / Horas-homem de exposição"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "5.3 Tempo Computado",
+    "titulo": "5.3 Tempo Computado",
+    "referencia": "5.3 Tempo Computado",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "tempo",
+      "computado",
+      "soma",
+      "dias",
+      "perdidos",
+      "incapacidade",
+      "temporária",
+      "total",
+      "debitados",
+      "permanente",
+      "morte",
+      "tabela"
+    ],
+    "texto": "5.3 Tempo Computado\n \nSoma de:\n \nDias perdidos por incapacidade temporária total\nDias debitados por incapacidade permanente ou morte\n \n6. TABELA DE DIAS A DEBITAR\n \nA norma estabelece valores padronizados para incapacidades permanentes:\n \nMorte:"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "6.000 dias Incapacidade Permanente Total:",
+    "titulo": "6.000 dias Incapacidade Permanente Total:",
+    "referencia": "6.000 dias Incapacidade Permanente Total:",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "dias",
+      "incapacidade",
+      "permanente",
+      "total"
+    ],
+    "texto": "6.000 dias Incapacidade Permanente Total:"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "6.000 dias",
+    "titulo": "6.000 dias",
+    "referencia": "6.000 dias",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "dias",
+      "perdas",
+      "membros",
+      "exemplos",
+      "punho"
+    ],
+    "texto": "6.000 dias\n \nPerdas de Membros (exemplos):\n \nMão no punho:"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "3.000 dias",
+    "titulo": "3.000 dias",
+    "referencia": "3.000 dias",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "dias",
+      "tornozelo"
+    ],
+    "texto": "3.000 dias\nPé no tornozelo:"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "2.400 dias",
+    "titulo": "2.400 dias",
+    "referencia": "2.400 dias",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "dias",
+      "perda",
+      "visão",
+      "olho"
+    ],
+    "texto": "2.400 dias\nPerda de visão de um olho:"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1.800 dias",
+    "titulo": "1.800 dias",
+    "referencia": "1.800 dias",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "dias",
+      "perda",
+      "audição",
+      "ouvido",
+      "perdas",
+      "dedos",
+      "polegar",
+      "falange",
+      "indicador",
+      "médio",
+      "causas",
+      "acidentes"
+    ],
+    "texto": "1.800 dias\nPerda de audição de um ouvido: 600 dias\n \nPerdas de Dedos:\n \nPolegar (1ª falange): 600 dias\nIndicador (1ª falange): 400 dias\nMédio (1ª falange): 300 dias\n \n7. CAUSAS DOS ACIDENTES"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "7.1 Fator Pessoal de Insegurança",
+    "titulo": "7.1 Fator Pessoal de Insegurança",
+    "referencia": "7.1 Fator Pessoal de Insegurança",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "fator",
+      "pessoal",
+      "insegurança",
+      "falta",
+      "conhecimento",
+      "experiência",
+      "técnico",
+      "função",
+      "desajustamentos",
+      "físicos",
+      "deficiências",
+      "visuais"
+    ],
+    "texto": "7.1 Fator Pessoal de Insegurança\n \nFalta de Conhecimento ou Experiência:\n \nFalta de conhecimento técnico\nFalta de experiência na função\n \nDesajustamentos Físicos:\n \nDeficiências visuais, auditivas\nDebilidades musculares ou esqueléticas\nFadiga\n \nDesajustamentos Emocionais:\n \nAlcoolismo e toxicomania\nAgressividade, impulsividade\nDistúrbios emocionais"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "7.2 Atos Inseguros (Códigos 50.xx.xx.xxx)",
+    "titulo": "7.2 Atos Inseguros (Códigos 50.xx.xx.xxx)",
+    "referencia": "7.2 Atos Inseguros (Códigos 50.xx.xx.xxx)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "atos",
+      "inseguros",
+      "códigos",
+      "ações",
+      "perigosas",
+      "usar",
+      "equipamento",
+      "maneira",
+      "imprópria",
+      "tornar",
+      "inoperante",
+      "dispositivo"
+    ],
+    "texto": "7.2 Atos Inseguros (Códigos 50.xx.xx.xxx)\n \nAções Perigosas:\n \nUsar equipamento de maneira imprópria\nTornar inoperante dispositivo de segurança\nAssumir posição insegura\nTrabalhar em velocidade inadequada\nFazer brincadeiras durante o trabalho\n \nOmissões:\n \nDeixar de usar EPI disponível\nDeixar de desligar equipamentos\nDeixar de sinalizar operações perigosas"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "7.3 Condições Ambiente de Insegurança (Códigos 60.xx.xx.xxx)",
+    "titulo": "7.3 Condições Ambiente de Insegurança (Códigos 60.xx.xx.xxx)",
+    "referencia": "7.3 Condições Ambiente de Insegurança (Códigos 60.xx.xx.xxx)",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "condições",
+      "ambiente",
+      "insegurança",
+      "códigos",
+      "problemas",
+      "ambientais",
+      "insuficiência",
+      "espaço",
+      "ventilação",
+      "inadequada",
+      "iluminação",
+      "deficiente"
+    ],
+    "texto": "7.3 Condições Ambiente de Insegurança (Códigos 60.xx.xx.xxx)\n \nProblemas Ambientais:\n \nInsuficiência de espaço\nVentilação inadequada\nIluminação deficiente\nRuído e vibração excessivos\n \nDefeitos de Equipamentos:\n \nMal projetados ou construídos\nMaterial inadequado\nProteções inadequadas ou inexistentes\n \nMétodos Perigosos:\n \nProcedimentos arriscados\nUso de equipamentos inadequados\nEscolha imprópria de pessoal\n \n8. REQUISITOS ESPECÍFICOS"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "8.1 Lesões Especiais",
+    "titulo": "8.1 Lesões Especiais",
+    "referencia": "8.1 Lesões Especiais",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "lesões",
+      "especiais",
+      "lesão",
+      "dorsolombar",
+      "hérnia",
+      "considerada",
+      "pessoal",
+      "houver",
+      "registro",
+      "claro",
+      "acidente",
+      "agravamento"
+    ],
+    "texto": "8.1 Lesões Especiais\n \nLesão dorsolombar/hérnia: Considerada lesão pessoal se houver registro claro do acidente\nAgravamento de deficiência preexistente: Tratada conforme grau de incapacidade\nLesões em atividades esportivas: Consideradas quando patrocinadas pelo empregador"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "8.2 Exclusões",
+    "titulo": "8.2 Exclusões",
+    "referencia": "8.2 Exclusões",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "exclusões",
+      "lesões",
+      "fenômenos",
+      "externos",
+      "catastróficos",
+      "exceto",
+      "quando",
+      "atividade",
+      "relacionada",
+      "trabalho",
+      "reações",
+      "tratamentos"
+    ],
+    "texto": "8.2 Exclusões\n \nLesões por fenômenos externos catastróficos (exceto quando em atividade relacionada ao \ntrabalho)\nReações a tratamentos médicos adequados\n \n9. DOCUMENTAÇÃO E FORMULÁRIOS\n \nA norma apresenta modelos de formulários:"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "9.1 Relatório de Investigação e Análise",
+    "titulo": "9.1 Relatório de Investigação e Análise",
+    "referencia": "9.1 Relatório de Investigação e Análise",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "relatório",
+      "investigação",
+      "análise",
+      "identificação",
+      "estabelecimento",
+      "local",
+      "descrição",
+      "detalhada",
+      "acidente",
+      "classificação",
+      "segundo",
+      "elementos"
+    ],
+    "texto": "9.1 Relatório de Investigação e Análise\n \nIdentificação do estabelecimento e local\nDescrição detalhada do acidente\nClassificação segundo os 10 elementos essenciais\nAnálise de causas e providências"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "9.2 Comunicação de Acidentado",
+    "titulo": "9.2 Comunicação de Acidentado",
+    "referencia": "9.2 Comunicação de Acidentado",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "comunicação",
+      "acidentado",
+      "dados",
+      "pessoais",
+      "funcionais",
+      "circunstâncias",
+      "acidente",
+      "natureza",
+      "localização",
+      "lesão",
+      "tempo",
+      "afastamento"
+    ],
+    "texto": "9.2 Comunicação de Acidentado\n \nDados pessoais e funcionais\nCircunstâncias do acidente\nNatureza e localização da lesão\nTempo de afastamento"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "9.3 Resumo Mensal de Acidentados",
+    "titulo": "9.3 Resumo Mensal de Acidentados",
+    "referencia": "9.3 Resumo Mensal de Acidentados",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "resumo",
+      "mensal",
+      "acidentados",
+      "consolidação",
+      "estatística",
+      "cálculo",
+      "indicadores",
+      "setor",
+      "base",
+      "para",
+      "análises",
+      "comparativas"
+    ],
+    "texto": "9.3 Resumo Mensal de Acidentados\n \nConsolidação estatística mensal\nCálculo de indicadores por setor\nBase para análises comparativas\n \n10. ANÁLISE DE CUSTOS"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.1 Custo Segurado",
+    "titulo": "0.1 Custo Segurado",
+    "referencia": "0.1 Custo Segurado",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "custo",
+      "segurado",
+      "despesas",
+      "cobertas",
+      "pelo",
+      "seguro",
+      "acidente",
+      "trabalho"
+    ],
+    "texto": "0.1 Custo Segurado\n \nDespesas cobertas pelo seguro de acidente do trabalho."
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "0.2 Custo Não Segurado",
+    "titulo": "0.2 Custo Não Segurado",
+    "referencia": "0.2 Custo Não Segurado",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "custo",
+      "segurado",
+      "interrupção",
+      "trabalho",
+      "danos",
+      "equipamentos",
+      "materiais",
+      "afastamento",
+      "empregados",
+      "perturbação",
+      "rotina",
+      "atividades"
+    ],
+    "texto": "0.2 Custo Não Segurado\n \nInterrupção do trabalho\nDanos a equipamentos e materiais\nAfastamento de empregados\nPerturbação da rotina\nAtividades assistenciais não seguradas\n \n11. APLICAÇÃO PRÁTICA"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1.1 Períodos de Análise",
+    "titulo": "1.1 Períodos de Análise",
+    "referencia": "1.1 Períodos de Análise",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "períodos",
+      "análise",
+      "cálculos",
+      "mensais",
+      "anuais",
+      "obrigatórios",
+      "outros",
+      "conforme",
+      "necessidade",
+      "prazos",
+      "específicos",
+      "para"
+    ],
+    "texto": "1.1 Períodos de Análise\n \nCálculos mensais e anuais obrigatórios\nOutros períodos conforme necessidade\nPrazos específicos para fechamento de dados"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NBR 14280 registro acidentes trabalho",
+    "item": "1.2 Tratamento de Dados",
+    "titulo": "1.2 Tratamento de Dados",
+    "referencia": "1.2 Tratamento de Dados",
+    "tipo_fonte": "Norma complementar",
+    "palavras_chave": [
+      "tratamento",
+      "dados",
+      "registro",
+      "cronológico",
+      "acidentes",
+      "separação",
+      "tipos",
+      "lesão",
+      "exclusão",
+      "trajeto",
+      "estatísticas",
+      "gerais"
+    ],
+    "texto": "1.2 Tratamento de Dados\n \nRegistro cronológico dos acidentes\nSeparação por tipos de lesão\nExclusão de acidentes de trajeto das estatísticas gerais\nCorreções posteriores quando necessário\n \n12. CONSIDERAÇÕES FINAIS\n \nA NBR 14280:2001 constitui um sistema abrangente para análise de acidentes do trabalho, \nfornecendo:\n \nUniformidade na linguagem técnica entre profissionais da área\nBase científica para análise estatística de acidentes\nInstrumentos práticos para investigação de causas\nMetodologia padronizada para comparações entre organizações\nOrientação para programas preventivos baseados em dados concretos\n \nO sistema de codificação detalhado permite análises aprofundadas dos padrões de acidentes, \nidentificação de tendências e direcionamento eficiente de recursos para prevenção. A norma \nenfatiza a importância da pesquisa do fator pessoal de insegurança e da análise sistêmica das \ncausas, contribuindo para o desenvolvimento de uma cultura de segurança mais efetiva nas \norganizações."
+  }
+]

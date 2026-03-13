@@ -52,43 +52,44 @@
         <!-- Área para mostrar mensagens como 'carregando...' ou erro -->
 
         <section id="resultado" class="result-card hidden">
-          <!-- Card onde a resposta será exibida -->
-          
-          <h2>Resposta do Agente</h2>
-
-          <div class="result-block">
-            <h3>Resposta objetiva</h3>
-            <p id="resposta_objetiva"></p>
-          </div>
-
-          <div class="result-block">
-            <h3>Base normativa / legal</h3>
-            <p id="base_normativa_legal"></p>
-          </div>
-
-          <div class="result-block">
-            <h3>Explicação prática</h3>
-            <p id="explicacao_pratica"></p>
-          </div>
-
-          <div class="result-block">
-            <h3>Limite técnico</h3>
-            <p id="limite_tecnico"></p>
-          </div>
-
-          <div class="result-block">
-            <h3>Nível de confiança</h3>
-            <p id="nivel_confianca"></p>
-          </div>
-
-          <div class="result-block">
-            <h3>Fontes</h3>
-            <ul id="fontes"></ul>
-          </div>
-        </section>
-      </section>
-    </main>
+  <div class="result-header">
+    <h2>Resposta do Agente</h2>
+    <div class="meta-badges">
+      <span id="badge_confianca" class="badge badge-confidence">Confiança</span>
+      <span id="badge_modo" class="badge badge-mode">Modo</span>
+    </div>
   </div>
+
+  <div class="result-block">
+    <h3>Resposta objetiva</h3>
+    <p id="resposta_objetiva"></p>
+  </div>
+
+  <div class="result-block">
+    <h3>Base normativa / legal</h3>
+    <p id="base_normativa_legal"></p>
+  </div>
+
+  <div class="result-block destaque-normativo">
+    <h3>Trecho normativo</h3>
+    <blockquote id="trecho_normativo_exato"></blockquote>
+  </div>
+
+  <div class="result-block">
+    <h3>Explicação prática</h3>
+    <p id="explicacao_pratica"></p>
+  </div>
+
+  <div class="result-block">
+    <h3>Limite técnico</h3>
+    <p id="limite_tecnico"></p>
+  </div>
+
+  <div class="result-block">
+    <h3>Fontes</h3>
+    <div id="fontes" class="fontes-grid"></div>
+  </div>
+</section>
 
   <script src="./app.js"></script>
   <!-- Conecta a lógica JavaScript ao HTML -->

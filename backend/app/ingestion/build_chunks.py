@@ -42,22 +42,37 @@ def split_blocks_by_normative_pattern(text: str) -> List[str]:
 
 def classify_source_type(path: Path) -> str:
     """
-    Classifica a fonte com base na pasta.
+    Classifica a fonte com base no caminho da pasta.
     """
-    if "nr" in path.parts:
+    normalized_parts = [part.lower().strip() for part in path.parts]
+
+    if "nr" in normalized_parts:
         return "Norma Regulamentadora"
-    if "nho" in path.parts:
+
+    if "anexos de nr" in normalized_parts or "anexos_das_nrs" in normalized_parts:
+        return "Anexo de Norma Regulamentadora"
+
+    if "nho" in normalized_parts:
         return "Norma de Higiene Ocupacional"
-    if "leis" in path.parts:
+
+    if "leis" in normalized_parts:
         return "Base legal"
+
+    if "normas_complementares" in normalized_parts or "normas complementares" in normalized_parts:
+        return "Norma complementar"
+
+    if "03_materiais_auxiliares" in normalized_parts or "materiais auxiliares" in normalized_parts:
+        return "Material auxiliar"
+
     return "Fonte normativa"
 
 
 def infer_document_name(path: Path) -> str:
     """
-    Gera um nome básico do documento a partir do nome do arquivo.
+    Gera um nome do documento com base no nome do arquivo.
     """
-    return path.stem.replace("_", " ").replace("-", " ").upper()
+    name = path.stem.replace("_", " ").replace("-", " ").strip()
+    return name
 
 
 def infer_keywords(text: str) -> List[str]:

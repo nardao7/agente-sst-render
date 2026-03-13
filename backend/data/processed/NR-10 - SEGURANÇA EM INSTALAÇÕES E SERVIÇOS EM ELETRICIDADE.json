@@ -1,0 +1,5313 @@
+[
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "NR 10 - SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "titulo": "NR 10 - SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "referencia": "NR 10 - SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "segurança",
+      "instalações",
+      "serviços",
+      "eletricidade",
+      "publicação",
+      "portaria"
+    ],
+    "texto": "NR 10 - SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE \n \nPublicação D.O.U. \nPortaria MTb n.º"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.214, de 08 de junho de 1978 06/07/78",
+    "titulo": "3.214, de 08 de junho de 1978 06/07/78",
+    "referencia": "3.214, de 08 de junho de 1978 06/07/78",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "junho",
+      "1978",
+      "alterações",
+      "atualizações",
+      "ssmt",
+      "1983",
+      "portaria",
+      "dezembro",
+      "2004",
+      "mtps",
+      "abril",
+      "2016"
+    ],
+    "texto": "3.214, de 08 de junho de 1978 06/07/78 \n \nAlterações/Atualizações D.O.U. \nSSMT n.º 12, de 06 de junho de 1983 14/06/83 \nPortaria MTE n.º 598, de 07 de dezembro de 2004 08/09/04 \nPortaria MTPS n.º 508, de 29 de abril de 2016 02/05/16 \nPortaria SEPRT n.º 915, de 30 de julho de 2019 31/07/19 \n \n(Texto dado pela Portaria MTE n.º 598, de 07 de dezembro de 2004)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.1 - OBJETIVO E CAMPO DE APLICAÇÃO",
+    "titulo": "0.1 - OBJETIVO E CAMPO DE APLICAÇÃO",
+    "referencia": "0.1 - OBJETIVO E CAMPO DE APLICAÇÃO",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "objetivo",
+      "campo",
+      "aplicação"
+    ],
+    "texto": "0.1 - OBJETIVO E CAMPO DE APLICAÇÃO"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.1 Esta Norma Regulamentadora - NR estabelece os requisitos e condições mínimas",
+    "titulo": "1.1 Esta Norma Regulamentadora - NR estabelece os requisitos e condições mínimas",
+    "referencia": "1.1 Esta Norma Regulamentadora - NR estabelece os requisitos e condições mínimas",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "esta",
+      "norma",
+      "regulamentadora",
+      "estabelece",
+      "requisitos",
+      "condições",
+      "mínimas",
+      "objetivando",
+      "implementação",
+      "medidas",
+      "controle",
+      "sistemas"
+    ],
+    "texto": "1.1 Esta Norma Regulamentadora - NR estabelece os requisitos e condições mínimas \nobjetivando a implementação de medidas de controle e sistemas preventivos, de forma a \ngarantir a segurança e a saúde dos trabalhadores que, direta ou indiretamente, interajam em \ninstalações elétricas e serviços com eletricidade."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.2 Esta NR se aplica às fases de geração, transmissão, distribuição e consumo, incluindo as",
+    "titulo": "1.2 Esta NR se aplica às fases de geração, transmissão, distribuição e consumo, incluindo as",
+    "referencia": "1.2 Esta NR se aplica às fases de geração, transmissão, distribuição e consumo, incluindo as",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "esta",
+      "aplica",
+      "fases",
+      "geração",
+      "transmissão",
+      "distribuição",
+      "consumo",
+      "incluindo",
+      "etapas",
+      "projeto",
+      "construção",
+      "montagem"
+    ],
+    "texto": "1.2 Esta NR se aplica às fases de geração, transmissão, distribuição e consumo, incluindo as \netapas de projeto, construção, montagem, operação, manutenção das instalações elétricas e \nquaisquer trabalhos  realizados nas suas proximi dades, observando -se as normas técnicas \noficiais estabelecidas pelos órgãos competentes e, na ausência ou omissão destas, as normas \ninternacionais cabíveis."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.2 - MEDIDAS DE CONTROLE",
+    "titulo": "0.2 - MEDIDAS DE CONTROLE",
+    "referencia": "0.2 - MEDIDAS DE CONTROLE",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "medidas",
+      "controle"
+    ],
+    "texto": "0.2 - MEDIDAS DE CONTROLE"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.1 Em todas as intervenções em instalações elétricas devem ser adotadas medidas",
+    "titulo": "2.1 Em todas as intervenções em instalações elétricas devem ser adotadas medidas",
+    "referencia": "2.1 Em todas as intervenções em instalações elétricas devem ser adotadas medidas",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "todas",
+      "intervenções",
+      "instalações",
+      "elétricas",
+      "devem",
+      "adotadas",
+      "medidas",
+      "preventivas",
+      "controle",
+      "risco",
+      "elétrico",
+      "outros"
+    ],
+    "texto": "2.1 Em todas as intervenções em instalações elétricas devem ser adotadas medidas \npreventivas de controle do risco elétrico e de outros riscos adicionais, mediante técnicas de \nanálise de risco, de forma a garantir a segurança e a saúde no trabalho."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.2 As medidas de controle adotadas devem integrar -se às demais iniciativas da empresa,",
+    "titulo": "2.2 As medidas de controle adotadas devem integrar -se às demais iniciativas da empresa,",
+    "referencia": "2.2 As medidas de controle adotadas devem integrar -se às demais iniciativas da empresa,",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "medidas",
+      "controle",
+      "adotadas",
+      "devem",
+      "integrar",
+      "demais",
+      "iniciativas",
+      "empresa",
+      "âmbito",
+      "preservação",
+      "segurança",
+      "saúde"
+    ],
+    "texto": "2.2 As medidas de controle adotadas devem integrar -se às demais iniciativas da empresa, \nno âmbito da preservação da segurança, da saúde e do meio ambiente do trabalho."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.3 As empresas estão obrigadas a manter esquemas unifilares atualizados das instalações",
+    "titulo": "2.3 As empresas estão obrigadas a manter esquemas unifilares atualizados das instalações",
+    "referencia": "2.3 As empresas estão obrigadas a manter esquemas unifilares atualizados das instalações",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "empresas",
+      "estão",
+      "obrigadas",
+      "manter",
+      "esquemas",
+      "unifilares",
+      "atualizados",
+      "instalações",
+      "elétricas",
+      "seus",
+      "estabelecimentos",
+      "especificações"
+    ],
+    "texto": "2.3 As empresas estão obrigadas a manter esquemas unifilares atualizados das instalações \nelétricas dos seus estabelecimentos com as especificações do sistema de aterramento e \ndemais equipamentos e dispositivos de proteção."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.4 Os estabelecimentos com carga instalada superior a 75 kW devem constituir e manter o",
+    "titulo": "2.4 Os estabelecimentos com carga instalada superior a 75 kW devem constituir e manter o",
+    "referencia": "2.4 Os estabelecimentos com carga instalada superior a 75 kW devem constituir e manter o",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "estabelecimentos",
+      "carga",
+      "instalada",
+      "superior",
+      "devem",
+      "constituir",
+      "manter",
+      "prontuário",
+      "instalações",
+      "elétricas",
+      "contendo",
+      "além"
+    ],
+    "texto": "2.4 Os estabelecimentos com carga instalada superior a 75 kW devem constituir e manter o \nProntuário de Instalações Elétricas, contendo, além do disposto no subitem"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.3, no mínimo:",
+    "titulo": "2.3, no mínimo:",
+    "referencia": "2.3, no mínimo:",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "mínimo",
+      "conjunto",
+      "procedimentos",
+      "instruções",
+      "técnicas",
+      "administrativas",
+      "segurança",
+      "saúde",
+      "implantadas",
+      "relacionadas",
+      "esta",
+      "descrição"
+    ],
+    "texto": "2.3, no mínimo: \na) conjunto de procedimentos e instruções técnicas e administrativas de segurança e saúde, \nimplantadas e relacionadas a esta NR e descrição das medidas de controle existentes;  \nb) documentação das  inspeções e medições do sistema de proteção contra descargas \natmosféricas e aterramentos elétricos; \nc) especificação dos equipamentos de proteção coletiva e individual e o ferramental, \naplicáveis conforme determina esta NR; \n 2 \nd) documentação comprobatória da qual ificação, habilitação, capacitação, autorização dos \ntrabalhadores e dos treinamentos realizados; \ne) resultados dos testes de isolação elétrica realizados em equipamentos de proteção \nindividual e coletiva;  \nf) certificações dos equipamentos e materiais elétricos em áreas classificadas; \ng) relatório técnico das inspeções atualizadas com recomendações, cronogramas de \nadequações, contemplando as alíneas de “a” a “f”."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.5 As empresas que operam em instalações ou equipamentos integrantes do sistema",
+    "titulo": "2.5 As empresas que operam em instalações ou equipamentos integrantes do sistema",
+    "referencia": "2.5 As empresas que operam em instalações ou equipamentos integrantes do sistema",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "empresas",
+      "operam",
+      "instalações",
+      "equipamentos",
+      "integrantes",
+      "sistema",
+      "elétrico",
+      "potência",
+      "devem",
+      "constituir",
+      "prontuário",
+      "conteúdo"
+    ],
+    "texto": "2.5 As empresas que operam em instalações ou equipamentos integrantes do sistema \nelétrico de potência devem constituir prontuário com o conteúdo do item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.4 e acrescentar",
+    "titulo": "2.4 e acrescentar",
+    "referencia": "2.4 e acrescentar",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "acrescentar",
+      "prontuário",
+      "documentos",
+      "seguir",
+      "listados",
+      "descrição",
+      "procedimentos",
+      "para",
+      "emergências",
+      "certificações",
+      "equipamentos",
+      "proteção"
+    ],
+    "texto": "2.4 e acrescentar \nao prontuário os documentos a seguir listados:  \na) descrição dos procedimentos para emergências;  \nb) certificações dos equipamentos de proteção coletiva e individual;"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "5.1 As empresas que realizam trabalhos em proximidade do Sistema Elétrico  de Potência",
+    "titulo": "5.1 As empresas que realizam trabalhos em proximidade do Sistema Elétrico  de Potência",
+    "referencia": "5.1 As empresas que realizam trabalhos em proximidade do Sistema Elétrico  de Potência",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "empresas",
+      "realizam",
+      "trabalhos",
+      "proximidade",
+      "sistema",
+      "elétrico",
+      "potência",
+      "devem",
+      "constituir",
+      "prontuário",
+      "contemplando",
+      "alíneas"
+    ],
+    "texto": "5.1 As empresas que realizam trabalhos em proximidade do Sistema Elétrico  de Potência \ndevem constituir prontuário contemplando as alíneas “a”, “c”, “d” e “e”, do item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.4 e",
+    "titulo": "2.4 e",
+    "referencia": "2.4 e",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "alíneas",
+      "item"
+    ],
+    "texto": "2.4 e \nalíneas “a” e “b” do item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.5.",
+    "titulo": "2.5.",
+    "referencia": "2.5.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2.5."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.6 O Prontuário de Instalações Elétricas deve ser organizado e mantido atualizado pelo",
+    "titulo": "2.6 O Prontuário de Instalações Elétricas deve ser organizado e mantido atualizado pelo",
+    "referencia": "2.6 O Prontuário de Instalações Elétricas deve ser organizado e mantido atualizado pelo",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "prontuário",
+      "instalações",
+      "elétricas",
+      "deve",
+      "organizado",
+      "mantido",
+      "atualizado",
+      "pelo",
+      "empregador",
+      "pessoa",
+      "formal",
+      "mente"
+    ],
+    "texto": "2.6 O Prontuário de Instalações Elétricas deve ser organizado e mantido atualizado pelo \nempregador ou pessoa formal mente designada pela empresa, devendo permanecer à \ndisposição dos trabalhadores envolvidos nas instalações e serviços em eletricidade."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.7 Os documentos técnicos previstos no Prontuário de Instalações Elétricas devem ser",
+    "titulo": "2.7 Os documentos técnicos previstos no Prontuário de Instalações Elétricas devem ser",
+    "referencia": "2.7 Os documentos técnicos previstos no Prontuário de Instalações Elétricas devem ser",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "documentos",
+      "técnicos",
+      "previstos",
+      "prontuário",
+      "instalações",
+      "elétricas",
+      "devem",
+      "elaborados",
+      "profissional",
+      "legalmente",
+      "habilitado"
+    ],
+    "texto": "2.7 Os documentos técnicos previstos no Prontuário de Instalações Elétricas devem ser \nelaborados por profissional legalmente habilitado."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.8 - MEDIDAS DE PROTEÇÃO COLETIVA",
+    "titulo": "2.8 - MEDIDAS DE PROTEÇÃO COLETIVA",
+    "referencia": "2.8 - MEDIDAS DE PROTEÇÃO COLETIVA",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "medidas",
+      "proteção",
+      "coletiva"
+    ],
+    "texto": "2.8 - MEDIDAS DE PROTEÇÃO COLETIVA"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.1 Em todos os serviços executados em instalações elétricas devem ser previstas e",
+    "titulo": "8.1 Em todos os serviços executados em instalações elétricas devem ser previstas e",
+    "referencia": "8.1 Em todos os serviços executados em instalações elétricas devem ser previstas e",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "todos",
+      "serviços",
+      "executados",
+      "instalações",
+      "elétricas",
+      "devem",
+      "previstas",
+      "adotadas",
+      "prioritariamente",
+      "medidas",
+      "proteção",
+      "coletiva"
+    ],
+    "texto": "8.1 Em todos os serviços executados em instalações elétricas devem ser previstas e \nadotadas, prioritariamente, medidas de proteção coletiva aplicáveis, mediante procedimentos, \nàs atividades a serem desenvolvidas, de forma a garantir a segurança e a saúde dos \ntrabalhadores."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.2 As medidas de proteção coletiva compreendem, prioritariamente, a desenergização",
+    "titulo": "8.2 As medidas de proteção coletiva compreendem, prioritariamente, a desenergização",
+    "referencia": "8.2 As medidas de proteção coletiva compreendem, prioritariamente, a desenergização",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "medidas",
+      "proteção",
+      "coletiva",
+      "compreendem",
+      "prioritariamente",
+      "desenergização",
+      "elétrica",
+      "conforme",
+      "estabelece",
+      "esta",
+      "impossibilidade",
+      "emprego"
+    ],
+    "texto": "8.2 As medidas de proteção coletiva compreendem, prioritariamente, a desenergização \nelétrica conforme estabelece esta NR e, na sua impossibilidade, o emprego de tensão de \nsegurança."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.",
+    "titulo": "8.",
+    "referencia": "8.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "8."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.1 Na impossibilidade de implementação do estabelecido no subitem",
+    "titulo": "2.1 Na impossibilidade de implementação do estabelecido no subitem",
+    "referencia": "2.1 Na impossibilidade de implementação do estabelecido no subitem",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "impossibilidade",
+      "implementação",
+      "estabelecido",
+      "subitem"
+    ],
+    "texto": "2.1 Na impossibilidade de implementação do estabelecido no subitem"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.2., devem",
+    "titulo": "8.2., devem",
+    "referencia": "8.2., devem",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "devem",
+      "utilizadas",
+      "outras",
+      "medidas",
+      "proteção",
+      "coletiva",
+      "tais",
+      "como",
+      "isolação",
+      "partes",
+      "vivas",
+      "obstáculos"
+    ],
+    "texto": "8.2., devem \nser utilizadas outras medidas de proteção coletiva, tais como: isolação das partes vivas, \nobstáculos, barreiras, sinalização, sistema de seccionamento automático de alimentaçã o, \nbloqueio do religamento automático."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.3 O aterramento das instalações elétricas deve ser executado conforme",
+    "titulo": "8.3 O aterramento das instalações elétricas deve ser executado conforme",
+    "referencia": "8.3 O aterramento das instalações elétricas deve ser executado conforme",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "aterramento",
+      "instalações",
+      "elétricas",
+      "deve",
+      "executado",
+      "conforme",
+      "regulamentação",
+      "estabelecida",
+      "pelos",
+      "órgãos",
+      "competentes",
+      "ausência"
+    ],
+    "texto": "8.3 O aterramento das instalações elétricas deve ser executado conforme \nregulamentação estabelecida pelos órgãos competentes e, na ausência desta, deve atender às \nNormas Internacionais vigentes."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.9 - MEDIDAS DE PROTEÇÃO INDIVIDUAL",
+    "titulo": "2.9 - MEDIDAS DE PROTEÇÃO INDIVIDUAL",
+    "referencia": "2.9 - MEDIDAS DE PROTEÇÃO INDIVIDUAL",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "medidas",
+      "proteção",
+      "individual"
+    ],
+    "texto": "2.9 - MEDIDAS DE PROTEÇÃO INDIVIDUAL \n \n 3"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "9.1 Nos trabalhos em instalações elétricas, quando as medidas de proteção coletiva",
+    "titulo": "9.1 Nos trabalhos em instalações elétricas, quando as medidas de proteção coletiva",
+    "referencia": "9.1 Nos trabalhos em instalações elétricas, quando as medidas de proteção coletiva",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhos",
+      "instalações",
+      "elétricas",
+      "quando",
+      "medidas",
+      "proteção",
+      "coletiva",
+      "forem",
+      "tecnicamente",
+      "inviáveis",
+      "insuficientes",
+      "para"
+    ],
+    "texto": "9.1 Nos trabalhos em instalações elétricas, quando as medidas de proteção coletiva \nforem tecnicamente inviáveis ou insuficientes para controlar os riscos, devem ser adotados \nequipamentos de proteção individual específicos e  adequados às atividades desenvolvidas, em \natendimento ao disposto na NR 6."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "9.2 As vestimentas de trabalho devem ser adequadas às atividades, devendo contemplar",
+    "titulo": "9.2 As vestimentas de trabalho devem ser adequadas às atividades, devendo contemplar",
+    "referencia": "9.2 As vestimentas de trabalho devem ser adequadas às atividades, devendo contemplar",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "vestimentas",
+      "trabalho",
+      "devem",
+      "adequadas",
+      "atividades",
+      "devendo",
+      "contemplar",
+      "condutibilidade",
+      "inflamabilidade",
+      "influências",
+      "eletromagnéticas"
+    ],
+    "texto": "9.2 As vestimentas de trabalho devem ser adequadas às atividades, devendo contemplar \na condutibilidade, inflamabilidade e influências eletromagnéticas."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.",
+    "titulo": "2.",
+    "referencia": "2.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "2."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "9.3 É vedado o uso de adornos pessoais nos trabalhos com instalações elétricas ou em",
+    "titulo": "9.3 É vedado o uso de adornos pessoais nos trabalhos com instalações elétricas ou em",
+    "referencia": "9.3 É vedado o uso de adornos pessoais nos trabalhos com instalações elétricas ou em",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "vedado",
+      "adornos",
+      "pessoais",
+      "trabalhos",
+      "instalações",
+      "elétricas",
+      "suas",
+      "proximidades"
+    ],
+    "texto": "9.3 É vedado o uso de adornos pessoais nos trabalhos com instalações elétricas ou em \nsuas proximidades."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.3 - SEGURANÇA EM PROJETOS",
+    "titulo": "0.3 - SEGURANÇA EM PROJETOS",
+    "referencia": "0.3 - SEGURANÇA EM PROJETOS",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "segurança",
+      "projetos"
+    ],
+    "texto": "0.3 - SEGURANÇA EM PROJETOS"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.1 É obrigatório que os projetos de instalações elétricas especifiquem dispositivos de",
+    "titulo": "3.1 É obrigatório que os projetos de instalações elétricas especifiquem dispositivos de",
+    "referencia": "3.1 É obrigatório que os projetos de instalações elétricas especifiquem dispositivos de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "obrigatório",
+      "projetos",
+      "instalações",
+      "elétricas",
+      "especifiquem",
+      "dispositivos",
+      "desligamento",
+      "circuitos",
+      "ssuam",
+      "recursos",
+      "para",
+      "impedimento"
+    ],
+    "texto": "3.1 É obrigatório que os projetos de instalações elétricas especifiquem dispositivos de \ndesligamento de circuitos que po ssuam recursos para impedimento de reenergização, para \nsinalização de advertência com indicação da condição operativa."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.2 O projeto elétrico, na medida do possível, deve prever a instalação de dispositivo de",
+    "titulo": "3.2 O projeto elétrico, na medida do possível, deve prever a instalação de dispositivo de",
+    "referencia": "3.2 O projeto elétrico, na medida do possível, deve prever a instalação de dispositivo de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "projeto",
+      "elétrico",
+      "medida",
+      "possível",
+      "deve",
+      "prever",
+      "instalação",
+      "dispositivo",
+      "seccionamento",
+      "ação",
+      "simultânea",
+      "permita"
+    ],
+    "texto": "3.2 O projeto elétrico, na medida do possível, deve prever a instalação de dispositivo de \nseccionamento de ação simultânea, que permita a aplicação de impedimento de reenergização \ndo circuito."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.3 O projeto de instalações elétricas deve considerar o espaço seguro, quanto ao",
+    "titulo": "3.3 O projeto de instalações elétricas deve considerar o espaço seguro, quanto ao",
+    "referencia": "3.3 O projeto de instalações elétricas deve considerar o espaço seguro, quanto ao",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "projeto",
+      "instalações",
+      "elétricas",
+      "deve",
+      "considerar",
+      "espaço",
+      "seguro",
+      "quanto",
+      "dimensionamento",
+      "localização",
+      "seus",
+      "componentes"
+    ],
+    "texto": "3.3 O projeto de instalações elétricas deve considerar o espaço seguro, quanto ao \ndimensionamento e a localização de seus componentes e as influências externas, quando da \noperação e da realização de serviços de construção e manutenção."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.",
+    "titulo": "3.",
+    "referencia": "3.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "3."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.1 Os circuitos elétricos com finalidades diferentes, tais como: comunicação, sinalização,",
+    "titulo": "3.1 Os circuitos elétricos com finalidades diferentes, tais como: comunicação, sinalização,",
+    "referencia": "3.1 Os circuitos elétricos com finalidades diferentes, tais como: comunicação, sinalização,",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "circuitos",
+      "elétricos",
+      "finalidades",
+      "diferentes",
+      "tais",
+      "como",
+      "comunicação",
+      "sinalização",
+      "controle",
+      "tração",
+      "elétrica",
+      "devem"
+    ],
+    "texto": "3.1 Os circuitos elétricos com finalidades diferentes, tais como: comunicação, sinalização, \ncontrole e tração elétrica devem ser identificados e instalados separadamente, salvo quando o \ndesenvolvimento tecnológico permitir compartilhamento, respeitadas as definições de \nprojetos."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.4 O projeto deve definir a configuração do esquema de aterramento, a obrigatoriedade",
+    "titulo": "3.4 O projeto deve definir a configuração do esquema de aterramento, a obrigatoriedade",
+    "referencia": "3.4 O projeto deve definir a configuração do esquema de aterramento, a obrigatoriedade",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "projeto",
+      "deve",
+      "definir",
+      "configuração",
+      "esquema",
+      "aterramento",
+      "obrigatoriedade",
+      "interligação",
+      "entre",
+      "condutor",
+      "neutro",
+      "proteção"
+    ],
+    "texto": "3.4 O projeto deve definir a configuração do esquema de aterramento, a obrigatoriedade \nou não da interligação entre o condutor neutro e o de proteção e a conexão à terra  das partes \ncondutoras não destinadas à condução da eletricidade."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.5 Sempre que for tecnicamente viável e necessário, devem ser projetados dispositivos de",
+    "titulo": "3.5 Sempre que for tecnicamente viável e necessário, devem ser projetados dispositivos de",
+    "referencia": "3.5 Sempre que for tecnicamente viável e necessário, devem ser projetados dispositivos de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "sempre",
+      "tecnicamente",
+      "viável",
+      "necessário",
+      "devem",
+      "projetados",
+      "dispositivos",
+      "seccionamento",
+      "incorporem",
+      "recursos",
+      "fixos",
+      "equipotencialização"
+    ],
+    "texto": "3.5 Sempre que for tecnicamente viável e necessário, devem ser projetados dispositivos de \nseccionamento que incorporem recursos fixos de equipotencialização e aterramento do \ncircuito seccionado."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.6 Todo projeto deve prever condições para a adoção de aterramento temporário.",
+    "titulo": "3.6 Todo projeto deve prever condições para a adoção de aterramento temporário.",
+    "referencia": "3.6 Todo projeto deve prever condições para a adoção de aterramento temporário.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "todo",
+      "projeto",
+      "deve",
+      "prever",
+      "condições",
+      "para",
+      "adoção",
+      "aterramento",
+      "temporário"
+    ],
+    "texto": "3.6 Todo projeto deve prever condições para a adoção de aterramento temporário."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.7 O projeto das instalações elétricas deve ficar à disposição dos trabalhadores",
+    "titulo": "3.7 O projeto das instalações elétricas deve ficar à disposição dos trabalhadores",
+    "referencia": "3.7 O projeto das instalações elétricas deve ficar à disposição dos trabalhadores",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "projeto",
+      "instalações",
+      "elétricas",
+      "deve",
+      "ficar",
+      "disposição",
+      "trabalhadores",
+      "autorizados",
+      "autoridades",
+      "competentes",
+      "outras",
+      "pessoas"
+    ],
+    "texto": "3.7 O projeto das instalações elétricas deve ficar à disposição dos trabalhadores \nautorizados, das autoridades competentes e de outras pessoas autorizadas pela empresa e \ndeve ser mantido atualizado."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.8 O projeto elétrico deve atender ao que dispõem as Normas Regulamentadoras de",
+    "titulo": "3.8 O projeto elétrico deve atender ao que dispõem as Normas Regulamentadoras de",
+    "referencia": "3.8 O projeto elétrico deve atender ao que dispõem as Normas Regulamentadoras de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "projeto",
+      "elétrico",
+      "deve",
+      "atender",
+      "dispõem",
+      "normas",
+      "regulamentadoras",
+      "saúde",
+      "segurança",
+      "trabalho",
+      "regulamentações",
+      "técnicas"
+    ],
+    "texto": "3.8 O projeto elétrico deve atender ao que dispõem as Normas Regulamentadoras de \nSaúde e Segurança no Trabalho, as regulamentações técnicas oficiais estabelecidas, e ser \nassinado por profissional legalmente habilitado."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.9 O memorial descritivo do projeto deve conter, no mínimo, os seguintes itens de",
+    "titulo": "3.9 O memorial descritivo do projeto deve conter, no mínimo, os seguintes itens de",
+    "referencia": "3.9 O memorial descritivo do projeto deve conter, no mínimo, os seguintes itens de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "memorial",
+      "descritivo",
+      "projeto",
+      "deve",
+      "conter",
+      "mínimo",
+      "seguintes",
+      "itens",
+      "segurança",
+      "especificação",
+      "características",
+      "relativas"
+    ],
+    "texto": "3.9 O memorial descritivo do projeto deve conter, no mínimo, os seguintes itens de \n 4 \nsegurança:  \na) especificação das características relativas à proteção contra choques elétricos, \nqueimaduras e outros riscos adicionais;  \nb) indicação de posição dos dispositivos de manobra dos circuitos elétricos: (Verde - “D”, \ndesligado e Vermelho - “L”, ligado);  \nc) descrição do sistema de identificação de circuitos elétricos e equipamentos, incluindo \ndispositivos de manobra, de controle, de pr oteção, de intertravamento, dos condutores e \nos próprios equipamentos e estruturas, definindo como tais indicações devem ser aplicadas \nfisicamente nos componentes das instalações;  \nd) recomendações de restrições e advertências quanto ao acesso de pessoas aos \ncomponentes das instalações;  \ne) precauções aplicáveis em face das influências externas;  \nf) o princípio funcional dos dispositivos de proteção, constantes do projeto, desti nados à \nsegurança das pessoas;  \ng) descrição da compatibilidade dos dispositivos de proteção com a instalação elétrica."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.10 Os projetos devem assegurar que as instalações proporcionem aos trabalhadores",
+    "titulo": "3.10 Os projetos devem assegurar que as instalações proporcionem aos trabalhadores",
+    "referencia": "3.10 Os projetos devem assegurar que as instalações proporcionem aos trabalhadores",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "projetos",
+      "devem",
+      "assegurar",
+      "instalações",
+      "proporcionem",
+      "trabalhadores",
+      "iluminação",
+      "adequada",
+      "posição",
+      "trabalho",
+      "segura",
+      "acordo"
+    ],
+    "texto": "3.10 Os projetos devem assegurar que as instalações proporcionem aos trabalhadores \niluminação adequada e uma posição de trabalho segura, de acordo com a NR 17 - Ergonomia."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.4 - SEGURANÇA NA CONSTRUÇÃO, MONTAGEM, OPERAÇÃO E MANUTENÇÃO",
+    "titulo": "0.4 - SEGURANÇA NA CONSTRUÇÃO, MONTAGEM, OPERAÇÃO E MANUTENÇÃO",
+    "referencia": "0.4 - SEGURANÇA NA CONSTRUÇÃO, MONTAGEM, OPERAÇÃO E MANUTENÇÃO",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "segurança",
+      "construção",
+      "montagem",
+      "operação",
+      "manutenção"
+    ],
+    "texto": "0.4 - SEGURANÇA NA CONSTRUÇÃO, MONTAGEM, OPERAÇÃO E MANUTENÇÃO"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.1 As instalações elétricas devem ser construídas, montadas, operadas, reformadas,",
+    "titulo": "4.1 As instalações elétricas devem ser construídas, montadas, operadas, reformadas,",
+    "referencia": "4.1 As instalações elétricas devem ser construídas, montadas, operadas, reformadas,",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "instalações",
+      "elétricas",
+      "devem",
+      "construídas",
+      "montadas",
+      "operadas",
+      "reformadas",
+      "ampliadas",
+      "reparadas",
+      "inspecionadas",
+      "forma",
+      "garantir"
+    ],
+    "texto": "4.1 As instalações elétricas devem ser construídas, montadas, operadas, reformadas, \nampliadas, reparadas e inspecionadas de forma a garantir a segurança e a saúde dos \ntrabalhadores e dos usuários, e serem supervisionadas por profissional autorizado, conforme \ndispõe esta NR."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.2 Nos trabalhos e nas atividades referidas devem ser adotadas medidas preventivas",
+    "titulo": "4.2 Nos trabalhos e nas atividades referidas devem ser adotadas medidas preventivas",
+    "referencia": "4.2 Nos trabalhos e nas atividades referidas devem ser adotadas medidas preventivas",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhos",
+      "atividades",
+      "referidas",
+      "devem",
+      "adotadas",
+      "medidas",
+      "preventivas",
+      "destinadas",
+      "controle",
+      "riscos",
+      "adicionais",
+      "especialmente"
+    ],
+    "texto": "4.2 Nos trabalhos e nas atividades referidas devem ser adotadas medidas preventivas \ndestinadas ao controle dos riscos adicionais, especialmente quanto a alt ura, confinamento, \ncampos elétricos e magnéticos, explosividade, umidade, poeira, fauna e flora e outros \nagravantes, adotando-se a sinalização de segurança."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.3 Nos locais de trabalho só podem ser utilizados equipamentos, dispositivos e",
+    "titulo": "4.3 Nos locais de trabalho só podem ser utilizados equipamentos, dispositivos e",
+    "referencia": "4.3 Nos locais de trabalho só podem ser utilizados equipamentos, dispositivos e",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "locais",
+      "trabalho",
+      "podem",
+      "utilizados",
+      "equipamentos",
+      "dispositivos",
+      "ferramentas",
+      "étricas",
+      "compatíveis",
+      "instalação",
+      "elétrica",
+      "existente"
+    ],
+    "texto": "4.3 Nos locais de trabalho só podem ser utilizados equipamentos, dispositivos e \nferramentas el étricas compatíveis com a instalação elétrica existente, preservando -se as \ncaracterísticas de proteção, respeitadas as recomendações do fabricante e as influências \nexternas."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.",
+    "titulo": "4.",
+    "referencia": "4.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "4."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.1 Os equipamentos, dispositivos e ferramentas que possuam isolamento elétrico devem",
+    "titulo": "3.1 Os equipamentos, dispositivos e ferramentas que possuam isolamento elétrico devem",
+    "referencia": "3.1 Os equipamentos, dispositivos e ferramentas que possuam isolamento elétrico devem",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "equipamentos",
+      "dispositivos",
+      "ferramentas",
+      "possuam",
+      "isolamento",
+      "elétrico",
+      "devem",
+      "estar",
+      "adequados",
+      "tensões",
+      "envolvidas",
+      "serem"
+    ],
+    "texto": "3.1 Os equipamentos, dispositivos e ferramentas que possuam isolamento elétrico devem \nestar adequados às tensões envolvidas, e serem inspecionados e testados de acordo com as \nregulamentações existentes ou recomendações dos fabricantes."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.4 As instalações elétricas devem ser mantidas em condições seguras de funcionamento e",
+    "titulo": "4.4 As instalações elétricas devem ser mantidas em condições seguras de funcionamento e",
+    "referencia": "4.4 As instalações elétricas devem ser mantidas em condições seguras de funcionamento e",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "instalações",
+      "elétricas",
+      "devem",
+      "mantidas",
+      "condições",
+      "seguras",
+      "funcionamento",
+      "seus",
+      "sistemas",
+      "proteção",
+      "inspecionados",
+      "controlados"
+    ],
+    "texto": "4.4 As instalações elétricas devem ser mantidas em condições seguras de funcionamento e \nseus sistemas de proteção devem ser inspecionados e controlados periodicamente, de acordo \ncom as regulamentações existentes e definições de projetos."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.",
+    "titulo": "4.",
+    "referencia": "4.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "4."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.1 Os locais de serviços elétricos, compartimentos e invólucros de equipamentos e",
+    "titulo": "4.1 Os locais de serviços elétricos, compartimentos e invólucros de equipamentos e",
+    "referencia": "4.1 Os locais de serviços elétricos, compartimentos e invólucros de equipamentos e",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "locais",
+      "serviços",
+      "elétricos",
+      "compartimentos",
+      "invólucros",
+      "equipamentos",
+      "instalações",
+      "elétricas",
+      "exclusivos",
+      "para",
+      "essa",
+      "finalidade"
+    ],
+    "texto": "4.1 Os locais de serviços elétricos, compartimentos e invólucros de equipamentos e \ninstalações elétricas são exclusivos para essa finalidade, sendo expressamente proibido utilizá -\n 5 \nlos para armazenamento ou guarda de quaisquer objetos."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.5 Para atividades em instalaç ões elétricas deve ser garantida ao trabalhador iluminação",
+    "titulo": "4.5 Para atividades em instalaç ões elétricas deve ser garantida ao trabalhador iluminação",
+    "referencia": "4.5 Para atividades em instalaç ões elétricas deve ser garantida ao trabalhador iluminação",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "para",
+      "atividades",
+      "instalaç",
+      "elétricas",
+      "deve",
+      "garantida",
+      "trabalhador",
+      "iluminação",
+      "adequada",
+      "posição",
+      "trabalho",
+      "segura"
+    ],
+    "texto": "4.5 Para atividades em instalaç ões elétricas deve ser garantida ao trabalhador iluminação \nadequada e uma posição de trabalho segura, de acordo com a NR 17 - Ergonomia, de forma a \npermitir que ele disponha dos membros superiores livres para a realização das tarefas."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.6 Os ensaios e  testes elétricos laboratoriais e de campo ou comissionamento de",
+    "titulo": "4.6 Os ensaios e  testes elétricos laboratoriais e de campo ou comissionamento de",
+    "referencia": "4.6 Os ensaios e  testes elétricos laboratoriais e de campo ou comissionamento de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "ensaios",
+      "testes",
+      "elétricos",
+      "laboratoriais",
+      "campo",
+      "comissionamento",
+      "instalações",
+      "elétricas",
+      "devem",
+      "atender",
+      "regulamentação",
+      "estabelecida"
+    ],
+    "texto": "4.6 Os ensaios e  testes elétricos laboratoriais e de campo ou comissionamento de \ninstalações elétricas devem atender à regulamentação estabelecida nos itens"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.6 e",
+    "titulo": "0.6 e",
+    "referencia": "0.6 e",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0.6 e"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.7, e",
+    "titulo": "0.7, e",
+    "referencia": "0.7, e",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "somente",
+      "podem",
+      "realizados",
+      "trabalhadores",
+      "atendam",
+      "condições",
+      "qualificação",
+      "habilitação",
+      "capacitação",
+      "autorização",
+      "estabelecidas",
+      "nesta"
+    ],
+    "texto": "0.7, e \nsomente podem ser realizados por trabalhadores que atendam às condições de qualificação, \nhabilitação, capacitação e autorização estabelecidas nesta NR."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.5 - SEGURANÇA EM INSTALAÇÕES ELÉTRICAS DESENERGIZADAS",
+    "titulo": "0.5 - SEGURANÇA EM INSTALAÇÕES ELÉTRICAS DESENERGIZADAS",
+    "referencia": "0.5 - SEGURANÇA EM INSTALAÇÕES ELÉTRICAS DESENERGIZADAS",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "segurança",
+      "instalações",
+      "elétricas",
+      "desenergizadas"
+    ],
+    "texto": "0.5 - SEGURANÇA EM INSTALAÇÕES ELÉTRICAS DESENERGIZADAS"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "5.1 Somente serão consideradas desenergizadas as instalações elétricas liberadas para",
+    "titulo": "5.1 Somente serão consideradas desenergizadas as instalações elétricas liberadas para",
+    "referencia": "5.1 Somente serão consideradas desenergizadas as instalações elétricas liberadas para",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "somente",
+      "serão",
+      "consideradas",
+      "desenergizadas",
+      "instalações",
+      "elétricas",
+      "liberadas",
+      "para",
+      "trabalho",
+      "mediante",
+      "procedimentos",
+      "apropriados"
+    ],
+    "texto": "5.1 Somente serão consideradas desenergizadas as instalações elétricas liberadas para \ntrabalho, mediante os procedimentos apropriados, obedecida a seqüência abaixo:  \na) seccionamento;  \nb) impedimento de reenergização;  \nc) constatação da ausência de tensão;  \nd) instalação de aterramento temporário com equipotencialização dos condutores dos \ncircuitos;  \ne) proteção dos elementos energizados existentes na zona controlada (Anexo II);  \n(Alterada pela Portaria MTPS n.º 508, de 29 de abril de 2016) \nf) instalação da sinalização de impedimento de reenergização."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "5.2 O estado de instalação desenergizada deve ser mantido até a autorização para",
+    "titulo": "5.2 O estado de instalação desenergizada deve ser mantido até a autorização para",
+    "referencia": "5.2 O estado de instalação desenergizada deve ser mantido até a autorização para",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "estado",
+      "instalação",
+      "desenergizada",
+      "deve",
+      "mantido",
+      "autorização",
+      "para",
+      "reenergização",
+      "devendo",
+      "reenergizada",
+      "respeitando",
+      "seqüência"
+    ],
+    "texto": "5.2 O estado de instalação desenergizada deve ser mantido até a autorização para \nreenergização, devendo ser reenergizada respeitando a seqüência de procedimentos abaixo:  \na) retirada das ferramentas, utensílios e equipamentos;  \nb) retirada da zona controlada de todos os trabalhadores não envolvidos no processo de \nreenergização;  \nc) remoção do aterramento temporário, da equipotencialização e das proteções adicionais;  \nd) remoção da sinalização de impedimento de reenergização;  \ne) destravamento, se houver, e religação dos dispositivos de seccionamento."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "5.3 As medidas constantes das alíneas apresentadas nos itens",
+    "titulo": "5.3 As medidas constantes das alíneas apresentadas nos itens",
+    "referencia": "5.3 As medidas constantes das alíneas apresentadas nos itens",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "medidas",
+      "constantes",
+      "alíneas",
+      "apresentadas",
+      "itens"
+    ],
+    "texto": "5.3 As medidas constantes das alíneas apresentadas nos itens"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "5.1 e",
+    "titulo": "5.1 e",
+    "referencia": "5.1 e",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "5.1 e"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "5.2 podem ser",
+    "titulo": "5.2 podem ser",
+    "referencia": "5.2 podem ser",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "podem",
+      "alteradas",
+      "substituídas",
+      "ampliadas",
+      "eliminadas",
+      "função",
+      "peculiaridades",
+      "cada",
+      "situação",
+      "profissional",
+      "legalmente",
+      "habilitado"
+    ],
+    "texto": "5.2 podem ser \nalteradas, substituídas, ampliadas ou eliminadas, em função das peculiaridades de cada \nsituação, por profissional legalmente habilitado, autorizado e mediante justificativa técnica \npreviamente formalizada, desde que seja mantido o mesmo nível de segurança originalmente \npreconizado."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "5.4 Os serviços a serem executados em instalações elétricas desligadas, mas com",
+    "titulo": "5.4 Os serviços a serem executados em instalações elétricas desligadas, mas com",
+    "referencia": "5.4 Os serviços a serem executados em instalações elétricas desligadas, mas com",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "serviços",
+      "serem",
+      "executados",
+      "instalações",
+      "elétricas",
+      "desligadas",
+      "possibilidade",
+      "energização",
+      "qualquer",
+      "meio",
+      "razão",
+      "devem"
+    ],
+    "texto": "5.4 Os serviços a serem executados em instalações elétricas desligadas, mas com \npossibilidade de energização, por qualquer meio ou razão, devem atender ao que estabelece o \ndisposto no item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.6.",
+    "titulo": "0.6.",
+    "referencia": "0.6.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0.6."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.6 - SEGURANÇA EM INSTALAÇÕES ELÉTRICAS ENERGIZADAS",
+    "titulo": "0.6 - SEGURANÇA EM INSTALAÇÕES ELÉTRICAS ENERGIZADAS",
+    "referencia": "0.6 - SEGURANÇA EM INSTALAÇÕES ELÉTRICAS ENERGIZADAS",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "segurança",
+      "instalações",
+      "elétricas",
+      "energizadas"
+    ],
+    "texto": "0.6 - SEGURANÇA EM INSTALAÇÕES ELÉTRICAS ENERGIZADAS \n \n 6"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "6.1 As intervenções em instalações elétricas com tensão igual ou superior a 50 Volts em",
+    "titulo": "6.1 As intervenções em instalações elétricas com tensão igual ou superior a 50 Volts em",
+    "referencia": "6.1 As intervenções em instalações elétricas com tensão igual ou superior a 50 Volts em",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "intervenções",
+      "instalações",
+      "elétricas",
+      "tensão",
+      "igual",
+      "superior",
+      "volts",
+      "corrente",
+      "alternada",
+      "contínua",
+      "somente",
+      "podem"
+    ],
+    "texto": "6.1 As intervenções em instalações elétricas com tensão igual ou superior a 50 Volts em \ncorrente alternada ou superior a 120 Volts em corrente contínua somente podem ser \nrealizadas por trabalhadores que atendam ao que estabelece o item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.8 desta Norma.",
+    "titulo": "0.8 desta Norma.",
+    "referencia": "0.8 desta Norma.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "desta",
+      "norma"
+    ],
+    "texto": "0.8 desta Norma."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.1 Os trabalhadores de que trata o item anterior devem receber treinamento de",
+    "titulo": "1.1 Os trabalhadores de que trata o item anterior devem receber treinamento de",
+    "referencia": "1.1 Os trabalhadores de que trata o item anterior devem receber treinamento de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "trata",
+      "item",
+      "anterior",
+      "devem",
+      "receber",
+      "treinamento",
+      "segurança",
+      "para",
+      "trabalhos",
+      "instalações",
+      "elétricas"
+    ],
+    "texto": "1.1 Os trabalhadores de que trata o item anterior devem receber treinamento de \nsegurança para trabalhos com instalações elétricas energizadas, com currículo mínimo, carga \nhorária e demais determinações estabelecidas no Anexo I II desta NR.  (Alterado pela P ortaria \nMTPS n.º 508, de 29 de abril de 2016)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "6.",
+    "titulo": "6.",
+    "referencia": "6.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "6."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.2 As operações elementares como ligar e desligar circuitos elétricos, realizadas em",
+    "titulo": "1.2 As operações elementares como ligar e desligar circuitos elétricos, realizadas em",
+    "referencia": "1.2 As operações elementares como ligar e desligar circuitos elétricos, realizadas em",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "operações",
+      "elementares",
+      "como",
+      "ligar",
+      "desligar",
+      "circuitos",
+      "elétricos",
+      "realizadas",
+      "baixa",
+      "tensão",
+      "materiais",
+      "equipamentos"
+    ],
+    "texto": "1.2 As operações elementares como ligar e desligar circuitos elétricos, realizadas em \nbaixa tensão, com materiais e equipamentos elétricos em perfeito estado de conservação, \nadequados para operação, podem ser realizadas por qualquer pessoa não advertida."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "6.2 Os trabalhos que exigem o ingresso na zona controlada devem ser realizados mediante",
+    "titulo": "6.2 Os trabalhos que exigem o ingresso na zona controlada devem ser realizados mediante",
+    "referencia": "6.2 Os trabalhos que exigem o ingresso na zona controlada devem ser realizados mediante",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhos",
+      "exigem",
+      "ingresso",
+      "zona",
+      "controlada",
+      "devem",
+      "realizados",
+      "mediante",
+      "procedimentos",
+      "específicos",
+      "respeitando",
+      "distâncias"
+    ],
+    "texto": "6.2 Os trabalhos que exigem o ingresso na zona controlada devem ser realizados mediante \nprocedimentos específicos respeitando as distâncias previstas no Anexo  II. (Alterado pela \nPortaria MTPS n.º 508, de 29 de abril de 2016)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "6.3 Os serviços em instalações energizadas, ou em suas proximidades devem ser suspensos",
+    "titulo": "6.3 Os serviços em instalações energizadas, ou em suas proximidades devem ser suspensos",
+    "referencia": "6.3 Os serviços em instalações energizadas, ou em suas proximidades devem ser suspensos",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "serviços",
+      "instalações",
+      "energizadas",
+      "suas",
+      "proximidades",
+      "devem",
+      "suspensos",
+      "imediato",
+      "iminência",
+      "ocorrência",
+      "possa",
+      "colocar"
+    ],
+    "texto": "6.3 Os serviços em instalações energizadas, ou em suas proximidades devem ser suspensos \nde imediato na iminência de ocorrência que possa colocar os trabalhadores em perigo."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "6.4 Sempre que inovações tecnológicas forem implementadas ou para a entrada em",
+    "titulo": "6.4 Sempre que inovações tecnológicas forem implementadas ou para a entrada em",
+    "referencia": "6.4 Sempre que inovações tecnológicas forem implementadas ou para a entrada em",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "sempre",
+      "inovações",
+      "tecnológicas",
+      "forem",
+      "implementadas",
+      "para",
+      "entrada",
+      "operações",
+      "novas",
+      "instalações",
+      "equipamentos",
+      "elétricos"
+    ],
+    "texto": "6.4 Sempre que inovações tecnológicas forem implementadas ou para a entrada em \noperações de novas instalações ou equipamentos elétricos devem ser previamente elaboradas \nanálises de risco, desenvolvidas com circuitos desenergizados, e respectivos procedimentos de \ntrabalho."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "6.5 O responsável pela execução do serviço deve suspender as atividades quando verificar",
+    "titulo": "6.5 O responsável pela execução do serviço deve suspender as atividades quando verificar",
+    "referencia": "6.5 O responsável pela execução do serviço deve suspender as atividades quando verificar",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "responsável",
+      "pela",
+      "execução",
+      "serviço",
+      "deve",
+      "suspender",
+      "atividades",
+      "quando",
+      "verificar",
+      "situação",
+      "condição",
+      "risco"
+    ],
+    "texto": "6.5 O responsável pela execução do serviço deve suspender as atividades quando verificar \nsituação ou condição de risco não prevista, cuja eliminação ou neutralização imediata não seja \npossível."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.7 - TRABALHOS ENVOLVENDO ALTA TENSÃO (AT)",
+    "titulo": "0.7 - TRABALHOS ENVOLVENDO ALTA TENSÃO (AT)",
+    "referencia": "0.7 - TRABALHOS ENVOLVENDO ALTA TENSÃO (AT)",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhos",
+      "envolvendo",
+      "alta",
+      "tensão"
+    ],
+    "texto": "0.7 - TRABALHOS ENVOLVENDO ALTA TENSÃO (AT)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.1 Os trabalhadores que intervenham em instalações elétricas energizadas com alta",
+    "titulo": "7.1 Os trabalhadores que intervenham em instalações elétricas energizadas com alta",
+    "referencia": "7.1 Os trabalhadores que intervenham em instalações elétricas energizadas com alta",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "intervenham",
+      "instalações",
+      "elétricas",
+      "energizadas",
+      "alta",
+      "tensão",
+      "exerçam",
+      "suas",
+      "atividades",
+      "dentro",
+      "limites"
+    ],
+    "texto": "7.1 Os trabalhadores que intervenham em instalações elétricas energizadas com alta \ntensão, que exerçam suas atividades dentro dos limites estabelecidos como zonas controladas \ne de risco, conforme Anexo II, devem atender ao disposto no item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.8 desta NR.  (Alterado",
+    "titulo": "0.8 desta NR.  (Alterado",
+    "referencia": "0.8 desta NR.  (Alterado",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "desta",
+      "alterado",
+      "pela",
+      "portaria",
+      "mtps",
+      "abril",
+      "2016"
+    ],
+    "texto": "0.8 desta NR.  (Alterado \npela Portaria MTPS n.º 508, de 29 de abril de 2016)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.2 Os trabalhadores de que trata o item",
+    "titulo": "7.2 Os trabalhadores de que trata o item",
+    "referencia": "7.2 Os trabalhadores de que trata o item",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "trata",
+      "item"
+    ],
+    "texto": "7.2 Os trabalhadores de que trata o item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.1 devem receber treinamento de segurança,",
+    "titulo": "7.1 devem receber treinamento de segurança,",
+    "referencia": "7.1 devem receber treinamento de segurança,",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "devem",
+      "receber",
+      "treinamento",
+      "segurança",
+      "específico",
+      "sistema",
+      "elétrico",
+      "potência",
+      "suas",
+      "proximidades",
+      "currículo",
+      "mínimo"
+    ],
+    "texto": "7.1 devem receber treinamento de segurança, \nespecífico em segurança no Sistema Elétrico de Potência (SEP) e em suas proximidades, com \ncurrículo mínimo, carga horária e demais determinações estabelecidas no Anexo III desta NR. \n(Alterado pela Portaria MTPS n.º 508, de 29 de abril de 2016)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.3 Os serviços em instalações elétricas energizadas em AT, bem como aqueles executados",
+    "titulo": "7.3 Os serviços em instalações elétricas energizadas em AT, bem como aqueles executados",
+    "referencia": "7.3 Os serviços em instalações elétricas energizadas em AT, bem como aqueles executados",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "serviços",
+      "instalações",
+      "elétricas",
+      "energizadas",
+      "como",
+      "aqueles",
+      "executados",
+      "sistema",
+      "elétrico",
+      "potência",
+      "podem",
+      "realizados"
+    ],
+    "texto": "7.3 Os serviços em instalações elétricas energizadas em AT, bem como aqueles executados \nno Sistema Elétrico de Potência - SEP, não podem ser realizados individualmente."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.4 Todo trabalho em instalações elétricas energizadas em AT, bem como aquelas que",
+    "titulo": "7.4 Todo trabalho em instalações elétricas energizadas em AT, bem como aquelas que",
+    "referencia": "7.4 Todo trabalho em instalações elétricas energizadas em AT, bem como aquelas que",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "todo",
+      "trabalho",
+      "instalações",
+      "elétricas",
+      "energizadas",
+      "como",
+      "aquelas",
+      "interajam",
+      "somente",
+      "pode",
+      "realizado",
+      "mediante"
+    ],
+    "texto": "7.4 Todo trabalho em instalações elétricas energizadas em AT, bem como aquelas que \ninterajam com o SEP, somente pode ser realizado mediante ordem de serviço específica para \ndata e local, assinada por superior responsável pela área."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.5 Antes de iniciar tr abalhos em circuitos energizados em AT, o superior imediato e a",
+    "titulo": "7.5 Antes de iniciar tr abalhos em circuitos energizados em AT, o superior imediato e a",
+    "referencia": "7.5 Antes de iniciar tr abalhos em circuitos energizados em AT, o superior imediato e a",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "antes",
+      "iniciar",
+      "abalhos",
+      "circuitos",
+      "energizados",
+      "superior",
+      "imediato",
+      "equipe",
+      "responsáveis",
+      "pela",
+      "execução",
+      "serviço"
+    ],
+    "texto": "7.5 Antes de iniciar tr abalhos em circuitos energizados em AT, o superior imediato e a \n 7 \nequipe, responsáveis pela execução do serviço, devem realizar uma avaliação prévia, estudar e \nplanejar as atividades e ações a serem desenvolvidas de forma a atender os princípios técnicos \nbásicos e as melhores técnicas de segurança em eletricidade aplicáveis ao serviço."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.6 Os serviços em instalações elétricas energizadas em AT somente podem ser realizados",
+    "titulo": "7.6 Os serviços em instalações elétricas energizadas em AT somente podem ser realizados",
+    "referencia": "7.6 Os serviços em instalações elétricas energizadas em AT somente podem ser realizados",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "serviços",
+      "instalações",
+      "elétricas",
+      "energizadas",
+      "somente",
+      "podem",
+      "realizados",
+      "quando",
+      "houver",
+      "procedimentos",
+      "específicos",
+      "detalhados"
+    ],
+    "texto": "7.6 Os serviços em instalações elétricas energizadas em AT somente podem ser realizados \nquando houver procedimentos específicos, detalhados e assinados por profissional autorizado."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.7 A intervenção em instalações elétricas energizadas em AT dentro dos limites",
+    "titulo": "7.7 A intervenção em instalações elétricas energizadas em AT dentro dos limites",
+    "referencia": "7.7 A intervenção em instalações elétricas energizadas em AT dentro dos limites",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "intervenção",
+      "instalações",
+      "elétricas",
+      "energizadas",
+      "dentro",
+      "limites",
+      "estabelecidos",
+      "como",
+      "zona",
+      "risco",
+      "conforme",
+      "anexo"
+    ],
+    "texto": "7.7 A intervenção em instalações elétricas energizadas em AT dentro dos limites \nestabelecidos como zona de risco, conforme Anexo II desta NR, somente pode ser realizada \nmediante a desativação, também conhecida como bloqueio, dos conjuntos e dispositivos de \nreligamento automático do circuito, sistema ou equipamento. (Alterado pela Portaria MTPS n.º \n508, de 29 de abril de 2016)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.",
+    "titulo": "7.",
+    "referencia": "7.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "7."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.1 Os equipamentos e dispositivos desativados devem ser sinalizados com identificação",
+    "titulo": "7.1 Os equipamentos e dispositivos desativados devem ser sinalizados com identificação",
+    "referencia": "7.1 Os equipamentos e dispositivos desativados devem ser sinalizados com identificação",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "equipamentos",
+      "dispositivos",
+      "desativados",
+      "devem",
+      "sinalizados",
+      "identificação",
+      "condição",
+      "desativação",
+      "conforme",
+      "procedimento",
+      "trabalho",
+      "específico"
+    ],
+    "texto": "7.1 Os equipamentos e dispositivos desativados devem ser sinalizados com identificação \nda condição de desativação, conforme procedimento de trabalho específico padronizado."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.8 Os equipamentos, ferramentas e dispositivos isolantes ou equipados com materiais",
+    "titulo": "7.8 Os equipamentos, ferramentas e dispositivos isolantes ou equipados com materiais",
+    "referencia": "7.8 Os equipamentos, ferramentas e dispositivos isolantes ou equipados com materiais",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "equipamentos",
+      "ferramentas",
+      "dispositivos",
+      "isolantes",
+      "equipados",
+      "materiais",
+      "destinados",
+      "trabalho",
+      "alta",
+      "tensão",
+      "devem",
+      "submetidos"
+    ],
+    "texto": "7.8 Os equipamentos, ferramentas e dispositivos isolantes ou equipados com materiais \nisolantes, destinados ao trabalho em alta tensão, devem ser submetidos a testes elétricos ou \nensaios de laboratório periódicos, obedecendo -se as especificações do fabricante,  os \nprocedimentos da empresa e na ausência desses, anualmente."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "7.9 Todo trabalhador em instalações elétricas energizadas em AT, bem como aqueles",
+    "titulo": "7.9 Todo trabalhador em instalações elétricas energizadas em AT, bem como aqueles",
+    "referencia": "7.9 Todo trabalhador em instalações elétricas energizadas em AT, bem como aqueles",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "todo",
+      "trabalhador",
+      "instalações",
+      "elétricas",
+      "energizadas",
+      "como",
+      "aqueles",
+      "envolvidos",
+      "atividades",
+      "devem",
+      "dispor",
+      "equipamento"
+    ],
+    "texto": "7.9 Todo trabalhador em instalações elétricas energizadas em AT, bem como aqueles \nenvolvidos em atividades no SEP  devem dispor de equipamento que permita a comunicação \npermanente com os demais membros da equipe ou com o centro de operação durante a \nrealização do serviço."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.8 - HABILITAÇÃO, QUALIFICAÇÃO, CAPACITAÇÃO E AUTORIZAÇÃO DOS TRABALHADORES",
+    "titulo": "0.8 - HABILITAÇÃO, QUALIFICAÇÃO, CAPACITAÇÃO E AUTORIZAÇÃO DOS TRABALHADORES",
+    "referencia": "0.8 - HABILITAÇÃO, QUALIFICAÇÃO, CAPACITAÇÃO E AUTORIZAÇÃO DOS TRABALHADORES",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "habilitação",
+      "qualificação",
+      "capacitação",
+      "autorização",
+      "trabalhadores"
+    ],
+    "texto": "0.8 - HABILITAÇÃO, QUALIFICAÇÃO, CAPACITAÇÃO E AUTORIZAÇÃO DOS TRABALHADORES"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.1 É conside rado trabalhador qualificado aquele que comprovar conclusão de curso",
+    "titulo": "8.1 É conside rado trabalhador qualificado aquele que comprovar conclusão de curso",
+    "referencia": "8.1 É conside rado trabalhador qualificado aquele que comprovar conclusão de curso",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "conside",
+      "rado",
+      "trabalhador",
+      "qualificado",
+      "aquele",
+      "comprovar",
+      "conclusão",
+      "curso",
+      "específico",
+      "área",
+      "elétrica",
+      "reconhecido"
+    ],
+    "texto": "8.1 É conside rado trabalhador qualificado aquele que comprovar conclusão de curso \nespecífico na área elétrica reconhecido pelo Sistema Oficial de Ensino."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.2 É considerado profissional legalmente habilitado o trabalhador previamente qualificado",
+    "titulo": "8.2 É considerado profissional legalmente habilitado o trabalhador previamente qualificado",
+    "referencia": "8.2 É considerado profissional legalmente habilitado o trabalhador previamente qualificado",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "considerado",
+      "profissional",
+      "legalmente",
+      "habilitado",
+      "trabalhador",
+      "previamente",
+      "qualificado",
+      "registro",
+      "competente",
+      "conselho",
+      "classe"
+    ],
+    "texto": "8.2 É considerado profissional legalmente habilitado o trabalhador previamente qualificado \ne com registro no competente conselho de classe."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.3 É considerado trabalhador capacitado aquele que atenda às seguintes condições,",
+    "titulo": "8.3 É considerado trabalhador capacitado aquele que atenda às seguintes condições,",
+    "referencia": "8.3 É considerado trabalhador capacitado aquele que atenda às seguintes condições,",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "considerado",
+      "trabalhador",
+      "capacitado",
+      "aquele",
+      "atenda",
+      "seguintes",
+      "condições",
+      "simultaneamente",
+      "receba",
+      "capacitação",
+      "orientação",
+      "responsabilidade"
+    ],
+    "texto": "8.3 É considerado trabalhador capacitado aquele que atenda às seguintes condições, \nsimultaneamente: \na) receba capacitação sob orientação e responsabilidade de profissional habilitado e \nautorizado; e \nb) trabalhe sob a responsabilidade de profissional habilitado e autorizado."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.",
+    "titulo": "8.",
+    "referencia": "8.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "8."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.1 A capacitação só terá validade para a empresa que o capacitou e nas condições",
+    "titulo": "3.1 A capacitação só terá validade para a empresa que o capacitou e nas condições",
+    "referencia": "3.1 A capacitação só terá validade para a empresa que o capacitou e nas condições",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "capacitação",
+      "terá",
+      "validade",
+      "para",
+      "empresa",
+      "capacitou",
+      "condições",
+      "estabelecidas",
+      "pelo",
+      "profissional",
+      "habilitado",
+      "autorizado"
+    ],
+    "texto": "3.1 A capacitação só terá validade para a empresa que o capacitou e nas condições \nestabelecidas pelo profissional habilitado e autorizado responsável pela capacitação."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.4 São considerados autorizados  os trabalhadores qualificados ou capacitados e os",
+    "titulo": "8.4 São considerados autorizados  os trabalhadores qualificados ou capacitados e os",
+    "referencia": "8.4 São considerados autorizados  os trabalhadores qualificados ou capacitados e os",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "considerados",
+      "autorizados",
+      "trabalhadores",
+      "qualificados",
+      "capacitados",
+      "profissionais",
+      "habilitados",
+      "anuência",
+      "formal",
+      "empresa"
+    ],
+    "texto": "8.4 São considerados autorizados  os trabalhadores qualificados ou capacitados e os \nprofissionais habilitados, com anuência formal da empresa."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.5 A empresa deve estabelecer sistema de identificação que permita a qualquer tempo",
+    "titulo": "8.5 A empresa deve estabelecer sistema de identificação que permita a qualquer tempo",
+    "referencia": "8.5 A empresa deve estabelecer sistema de identificação que permita a qualquer tempo",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "empresa",
+      "deve",
+      "estabelecer",
+      "sistema",
+      "identificação",
+      "permita",
+      "qualquer",
+      "tempo",
+      "conhecer",
+      "abrangência",
+      "autorização",
+      "cada"
+    ],
+    "texto": "8.5 A empresa deve estabelecer sistema de identificação que permita a qualquer tempo \nconhecer a abrangência da autorização de cada trabalhador, conforme o item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.4.",
+    "titulo": "8.4.",
+    "referencia": "8.4.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "8.4.  \n 8"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.6 Os trabalhadores autorizados a trabalhar em instalações elétricas devem ter essa",
+    "titulo": "8.6 Os trabalhadores autorizados a trabalhar em instalações elétricas devem ter essa",
+    "referencia": "8.6 Os trabalhadores autorizados a trabalhar em instalações elétricas devem ter essa",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "autorizados",
+      "trabalhar",
+      "instalações",
+      "elétricas",
+      "devem",
+      "essa",
+      "condição",
+      "consignada",
+      "sistema",
+      "registro",
+      "empregado"
+    ],
+    "texto": "8.6 Os trabalhadores autorizados a trabalhar em instalações elétricas devem ter essa \ncondição consignada no sistema de registro de empregado da empresa."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.7 Os trabalhadores autorizados a intervir em instalações elétricas devem ser submetidos",
+    "titulo": "8.7 Os trabalhadores autorizados a intervir em instalações elétricas devem ser submetidos",
+    "referencia": "8.7 Os trabalhadores autorizados a intervir em instalações elétricas devem ser submetidos",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "autorizados",
+      "intervir",
+      "instalações",
+      "elétricas",
+      "devem",
+      "submetidos",
+      "exame",
+      "saúde",
+      "compatível",
+      "atividades",
+      "serem"
+    ],
+    "texto": "8.7 Os trabalhadores autorizados a intervir em instalações elétricas devem ser submetidos \na exame de saúde compatível com as atividades a serem desenvolvidas, realizado em \nconformidade com a NR 7 e registrado em seu prontuário médico."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.8 Os trabalhadores autorizados a intervir em instalações elétricas devem possuir",
+    "titulo": "8.8 Os trabalhadores autorizados a intervir em instalações elétricas devem possuir",
+    "referencia": "8.8 Os trabalhadores autorizados a intervir em instalações elétricas devem possuir",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "autorizados",
+      "intervir",
+      "instalações",
+      "elétricas",
+      "devem",
+      "possuir",
+      "treinamento",
+      "específico",
+      "sobre",
+      "riscos",
+      "decorrentes"
+    ],
+    "texto": "8.8 Os trabalhadores autorizados a intervir em instalações elétricas devem possuir \ntreinamento específico sobre os riscos decorrentes do emprego da energia elétrica e as \nprincipais medidas de prevenção de acidentes em instalações elétricas, de acordo com o \nestabelecido no Anexo I II desta NR.  (Alterado pela Portaria MTPS n.º 50 8, de 29 de abril de \n2016)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.",
+    "titulo": "8.",
+    "referencia": "8.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "8."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.1 A empresa concederá autorização na forma desta NR aos trabalhadores capacitados",
+    "titulo": "8.1 A empresa concederá autorização na forma desta NR aos trabalhadores capacitados",
+    "referencia": "8.1 A empresa concederá autorização na forma desta NR aos trabalhadores capacitados",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "empresa",
+      "concederá",
+      "autorização",
+      "forma",
+      "desta",
+      "trabalhadores",
+      "capacitados",
+      "qualificados",
+      "profissionais",
+      "habilitados",
+      "tenham",
+      "participado"
+    ],
+    "texto": "8.1 A empresa concederá autorização na forma desta NR aos trabalhadores capacitados \nou qualificados e aos profissionais habilitados que tenham participado  com avaliação e \naproveitamento satisfatórios dos cursos constantes do A nexo I II desta NR. (Alterado pela \nPortaria MTPS n.º 508, de 29 de abril de 2016)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.",
+    "titulo": "8.",
+    "referencia": "8.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "8."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.2 Deve ser realizado um treinamento de reciclagem bienal e sempre que ocorrer",
+    "titulo": "8.2 Deve ser realizado um treinamento de reciclagem bienal e sempre que ocorrer",
+    "referencia": "8.2 Deve ser realizado um treinamento de reciclagem bienal e sempre que ocorrer",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "deve",
+      "realizado",
+      "treinamento",
+      "reciclagem",
+      "bienal",
+      "sempre",
+      "ocorrer",
+      "alguma",
+      "situações",
+      "seguir",
+      "troca",
+      "função"
+    ],
+    "texto": "8.2 Deve ser realizado um treinamento de reciclagem bienal e sempre que ocorrer \nalguma das situações a seguir:  \na) troca de função ou mudança de empresa;  \nb) retorno de afastamento ao trabalho ou inatividade, por período superior a três meses;  \nc) modificações signifi cativas nas instalações elétricas ou troca de métodos, processos e \norganização do trabalho."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.",
+    "titulo": "8.",
+    "referencia": "8.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "8."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.3 A carga horária e o conteúdo programático dos treinamentos de reciclagem",
+    "titulo": "8.3 A carga horária e o conteúdo programático dos treinamentos de reciclagem",
+    "referencia": "8.3 A carga horária e o conteúdo programático dos treinamentos de reciclagem",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "carga",
+      "horária",
+      "conteúdo",
+      "programático",
+      "treinamentos",
+      "reciclagem",
+      "destinados",
+      "atendimento",
+      "alíneas",
+      "item"
+    ],
+    "texto": "8.3 A carga horária e o conteúdo programático dos treinamentos de reciclagem \ndestinados ao atendimento das alíneas “a”, “b” e “c” do item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.",
+    "titulo": "8.",
+    "referencia": "8.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "8."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.2 devem atender as",
+    "titulo": "8.2 devem atender as",
+    "referencia": "8.2 devem atender as",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "devem",
+      "atender",
+      "necessidades",
+      "situação",
+      "motivou"
+    ],
+    "texto": "8.2 devem atender as \nnecessidades da situação que o motivou."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.",
+    "titulo": "8.",
+    "referencia": "8.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "8."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.4 Os trabalhos em áreas classificadas devem se r precedidos de treinamento especifico",
+    "titulo": "8.4 Os trabalhos em áreas classificadas devem se r precedidos de treinamento especifico",
+    "referencia": "8.4 Os trabalhos em áreas classificadas devem se r precedidos de treinamento especifico",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhos",
+      "áreas",
+      "classificadas",
+      "devem",
+      "precedidos",
+      "treinamento",
+      "especifico",
+      "acordo",
+      "risco",
+      "envolvido"
+    ],
+    "texto": "8.4 Os trabalhos em áreas classificadas devem se r precedidos de treinamento especifico \nde acordo com risco envolvido."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "8.9 Os trabalhadores com atividades não relacionadas às instalações elétricas desenvolvidas",
+    "titulo": "8.9 Os trabalhadores com atividades não relacionadas às instalações elétricas desenvolvidas",
+    "referencia": "8.9 Os trabalhadores com atividades não relacionadas às instalações elétricas desenvolvidas",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "atividades",
+      "relacionadas",
+      "instalações",
+      "elétricas",
+      "desenvolvidas",
+      "zona",
+      "livre",
+      "vizinhança",
+      "controlada",
+      "conforme",
+      "define"
+    ],
+    "texto": "8.9 Os trabalhadores com atividades não relacionadas às instalações elétricas desenvolvidas \nem zona livre e na vizinhança da zona controlada, conforme define esta NR, devem ser \ninstruídos formalmente com conhecimentos que permitam identificar e avaliar seus possíveis \nriscos e adotar as precauções cabíveis."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.9 - PROTEÇÃO CONTRA INCÊNDIO E EXPLOSÃO",
+    "titulo": "0.9 - PROTEÇÃO CONTRA INCÊNDIO E EXPLOSÃO",
+    "referencia": "0.9 - PROTEÇÃO CONTRA INCÊNDIO E EXPLOSÃO",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "proteção",
+      "contra",
+      "incêndio",
+      "explosão"
+    ],
+    "texto": "0.9 - PROTEÇÃO CONTRA INCÊNDIO E EXPLOSÃO"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "9.1 As áreas onde houver instalações ou equipamentos elétricos devem ser dotadas de",
+    "titulo": "9.1 As áreas onde houver instalações ou equipamentos elétricos devem ser dotadas de",
+    "referencia": "9.1 As áreas onde houver instalações ou equipamentos elétricos devem ser dotadas de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "áreas",
+      "onde",
+      "houver",
+      "instalações",
+      "equipamentos",
+      "elétricos",
+      "devem",
+      "dotadas",
+      "proteção",
+      "contra",
+      "incêndio",
+      "explosão"
+    ],
+    "texto": "9.1 As áreas onde houver instalações ou equipamentos elétricos devem ser dotadas de \nproteção contra incêndio e explosão, conforme dispõe a NR 23 - Proteção Contra Incêndios."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "9.2 Os materiais, peças, dispositivos, equipamentos e sistemas destinados à apli cação em",
+    "titulo": "9.2 Os materiais, peças, dispositivos, equipamentos e sistemas destinados à apli cação em",
+    "referencia": "9.2 Os materiais, peças, dispositivos, equipamentos e sistemas destinados à apli cação em",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "materiais",
+      "peças",
+      "dispositivos",
+      "equipamentos",
+      "sistemas",
+      "destinados",
+      "apli",
+      "cação",
+      "instalações",
+      "elétricas",
+      "ambientes",
+      "atmosferas"
+    ],
+    "texto": "9.2 Os materiais, peças, dispositivos, equipamentos e sistemas destinados à apli cação em \ninstalações elétricas de ambientes com atmosferas potencialmente explosivas devem ser \navaliados quanto à sua conformidade, no âmbito do Sistema Brasileiro de Certificação."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "9.3 Os processos ou equipamentos susceptíveis de gerar ou acumular ele tricidade estática",
+    "titulo": "9.3 Os processos ou equipamentos susceptíveis de gerar ou acumular ele tricidade estática",
+    "referencia": "9.3 Os processos ou equipamentos susceptíveis de gerar ou acumular ele tricidade estática",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "processos",
+      "equipamentos",
+      "susceptíveis",
+      "gerar",
+      "acumular",
+      "tricidade",
+      "estática",
+      "devem",
+      "dispor",
+      "proteção",
+      "específica",
+      "dispositivos"
+    ],
+    "texto": "9.3 Os processos ou equipamentos susceptíveis de gerar ou acumular ele tricidade estática \n 9 \ndevem dispor de proteção específica e dispositivos de descarga elétrica."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "9.4 Nas instalações elétricas de áreas classificadas ou sujeitas a risco acentuado de incêndio",
+    "titulo": "9.4 Nas instalações elétricas de áreas classificadas ou sujeitas a risco acentuado de incêndio",
+    "referencia": "9.4 Nas instalações elétricas de áreas classificadas ou sujeitas a risco acentuado de incêndio",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "instalações",
+      "elétricas",
+      "áreas",
+      "classificadas",
+      "sujeitas",
+      "risco",
+      "acentuado",
+      "incêndio",
+      "explosões",
+      "devem",
+      "adotados",
+      "dispositivos"
+    ],
+    "texto": "9.4 Nas instalações elétricas de áreas classificadas ou sujeitas a risco acentuado de incêndio \nou explosões, devem ser adotados dispositivos de proteção, como alarme e seccionamento \nautomático para prevenir sobretensões, sobrecorrentes, falhas de isolamento, aquecimentos \nou outras condições anormais de operação."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "9.5 Os serviços em instalações elétricas nas áreas classificadas somente poderão ser",
+    "titulo": "9.5 Os serviços em instalações elétricas nas áreas classificadas somente poderão ser",
+    "referencia": "9.5 Os serviços em instalações elétricas nas áreas classificadas somente poderão ser",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "serviços",
+      "instalações",
+      "elétricas",
+      "áreas",
+      "classificadas",
+      "somente",
+      "poderão",
+      "realizados",
+      "mediante",
+      "permissão",
+      "para",
+      "trabalho"
+    ],
+    "texto": "9.5 Os serviços em instalações elétricas nas áreas classificadas somente poderão ser \nrealizados mediante permissão para o trabalho com liberação formalizada, conforme \nestabelece o item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.5 ou supressão do agente de risco que determina a classificação da área.",
+    "titulo": "0.5 ou supressão do agente de risco que determina a classificação da área.",
+    "referencia": "0.5 ou supressão do agente de risco que determina a classificação da área.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "supressão",
+      "agente",
+      "risco",
+      "determina",
+      "classificação",
+      "área"
+    ],
+    "texto": "0.5 ou supressão do agente de risco que determina a classificação da área."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.10 - SINALIZAÇÃO DE SEGURANÇA",
+    "titulo": "0.10 - SINALIZAÇÃO DE SEGURANÇA",
+    "referencia": "0.10 - SINALIZAÇÃO DE SEGURANÇA",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "sinalização",
+      "segurança"
+    ],
+    "texto": "0.10 - SINALIZAÇÃO DE SEGURANÇA"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.1 Nas instalações e serviços em eletricidade deve ser adotada sinalização adequada de",
+    "titulo": "0.1 Nas instalações e serviços em eletricidade deve ser adotada sinalização adequada de",
+    "referencia": "0.1 Nas instalações e serviços em eletricidade deve ser adotada sinalização adequada de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "instalações",
+      "serviços",
+      "eletricidade",
+      "deve",
+      "adotada",
+      "sinalização",
+      "adequada",
+      "segurança",
+      "destinada",
+      "advertência",
+      "identificação",
+      "obedecendo"
+    ],
+    "texto": "0.1 Nas instalações e serviços em eletricidade deve ser adotada sinalização adequada de \nsegurança, destinada à advertência e à identificação, obedecendo ao disposto na NR -26 - \nSinalização de Segurança, de forma a atender, dentre outras, as situações a seguir:  \na) identificação de circuitos elétricos;  \nb) travamentos e bloqueios de dispositivos e sistemas de manobra e comandos;  \nc) restrições e impedimentos de acesso;  \nd) delimitações de áreas;  \ne) sinalização de áreas de circulação, de vias públicas, de veículos e de movimen tação de \ncargas;  \nf) sinalização de impedimento de energização;  \ng) identificação de equipamento ou circuito impedido."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.11 - PROCEDIMENTOS DE TRABALHO",
+    "titulo": "0.11 - PROCEDIMENTOS DE TRABALHO",
+    "referencia": "0.11 - PROCEDIMENTOS DE TRABALHO",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "procedimentos",
+      "trabalho"
+    ],
+    "texto": "0.11 - PROCEDIMENTOS DE TRABALHO"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.1 Os serviços em instalações elétricas devem ser planejados e realizados em",
+    "titulo": "1.1 Os serviços em instalações elétricas devem ser planejados e realizados em",
+    "referencia": "1.1 Os serviços em instalações elétricas devem ser planejados e realizados em",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "serviços",
+      "instalações",
+      "elétricas",
+      "devem",
+      "planejados",
+      "realizados",
+      "conformidade",
+      "procedimentos",
+      "trabalho",
+      "específicos",
+      "padronizados",
+      "descrição"
+    ],
+    "texto": "1.1 Os serviços em instalações elétricas devem ser planejados e realizados em \nconformidade com procedimentos de trabalho específicos, padronizados, com descrição \ndetalhada de cada tarefa, passo a passo, assinados por profissional que atenda ao que \nestabelece o item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.8 desta NR.",
+    "titulo": "0.8 desta NR.",
+    "referencia": "0.8 desta NR.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "desta"
+    ],
+    "texto": "0.8 desta NR."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.2 Os serviços em instalações elétricas devem ser precedidos de ordens de serviço",
+    "titulo": "1.2 Os serviços em instalações elétricas devem ser precedidos de ordens de serviço",
+    "referencia": "1.2 Os serviços em instalações elétricas devem ser precedidos de ordens de serviço",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "serviços",
+      "instalações",
+      "elétricas",
+      "devem",
+      "precedidos",
+      "ordens",
+      "serviço",
+      "especificas",
+      "aprovadas",
+      "trabalhador",
+      "autorizado",
+      "contendo"
+    ],
+    "texto": "1.2 Os serviços em instalações elétricas devem ser precedidos de ordens de serviço \nespecificas, aprovadas por trabalhador autorizado, contendo, no mínimo, o tipo, a data, o local \ne as referências aos procedimentos de trabalho a serem adotados."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.3 Os procedimentos de trabalho devem conter, no mínimo, objetivo, campo de",
+    "titulo": "1.3 Os procedimentos de trabalho devem conter, no mínimo, objetivo, campo de",
+    "referencia": "1.3 Os procedimentos de trabalho devem conter, no mínimo, objetivo, campo de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "procedimentos",
+      "trabalho",
+      "devem",
+      "conter",
+      "mínimo",
+      "objetivo",
+      "campo",
+      "aplicação",
+      "base",
+      "técnica",
+      "competências",
+      "responsabilidades"
+    ],
+    "texto": "1.3 Os procedimentos de trabalho devem conter, no mínimo, objetivo, campo de \naplicação, base técnica, competências e responsabilidades, disposições gerais, medidas de \ncontrole e orientações finais."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.4 Os procedimentos de trabalho, o treinamento de segurança e saúde e a autorização de",
+    "titulo": "1.4 Os procedimentos de trabalho, o treinamento de segurança e saúde e a autorização de",
+    "referencia": "1.4 Os procedimentos de trabalho, o treinamento de segurança e saúde e a autorização de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "procedimentos",
+      "trabalho",
+      "treinamento",
+      "segurança",
+      "saúde",
+      "autorização",
+      "trata",
+      "item"
+    ],
+    "texto": "1.4 Os procedimentos de trabalho, o treinamento de segurança e saúde e a autorização de \nque trata o item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.8 devem ter a participação em todo processo de desenvolvimento do",
+    "titulo": "0.8 devem ter a participação em todo processo de desenvolvimento do",
+    "referencia": "0.8 devem ter a participação em todo processo de desenvolvimento do",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "devem",
+      "participação",
+      "todo",
+      "processo",
+      "desenvolvimento",
+      "serviço",
+      "especializado",
+      "engenharia",
+      "segurança",
+      "medicina",
+      "trabalho",
+      "sesmt"
+    ],
+    "texto": "0.8 devem ter a participação em todo processo de desenvolvimento do \nServiço Especializado de Engenharia de Segurança e Medicina do Trabalho - SESMT, quando \nhouver."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.5 A autorização referida no item",
+    "titulo": "1.5 A autorização referida no item",
+    "referencia": "1.5 A autorização referida no item",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "autorização",
+      "referida",
+      "item"
+    ],
+    "texto": "1.5 A autorização referida no item"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.8 deve estar em conformidade com o treinamento",
+    "titulo": "0.8 deve estar em conformidade com o treinamento",
+    "referencia": "0.8 deve estar em conformidade com o treinamento",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "deve",
+      "estar",
+      "conformidade",
+      "treinamento",
+      "ministrado",
+      "previsto",
+      "anexo",
+      "desta",
+      "alterado",
+      "pela",
+      "portaria",
+      "mtps"
+    ],
+    "texto": "0.8 deve estar em conformidade com o treinamento \n 10 \nministrado, previsto no Anexo III desta NR. (Alterado pela Portaria MTPS n.º 508, de 29 de abril \nde 2016)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.6 Toda equipe deverá ter um de seus trabalhadores indicado e em condições de exercer",
+    "titulo": "1.6 Toda equipe deverá ter um de seus trabalhadores indicado e em condições de exercer",
+    "referencia": "1.6 Toda equipe deverá ter um de seus trabalhadores indicado e em condições de exercer",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "toda",
+      "equipe",
+      "deverá",
+      "seus",
+      "trabalhadores",
+      "indicado",
+      "condições",
+      "exercer",
+      "supervisão",
+      "condução",
+      "trabalhos"
+    ],
+    "texto": "1.6 Toda equipe deverá ter um de seus trabalhadores indicado e em condições de exercer \na supervisão e condução dos trabalhos."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.7 Antes de iniciar trabalhos em equipe os seus membros, em conjunto com o",
+    "titulo": "1.7 Antes de iniciar trabalhos em equipe os seus membros, em conjunto com o",
+    "referencia": "1.7 Antes de iniciar trabalhos em equipe os seus membros, em conjunto com o",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "antes",
+      "iniciar",
+      "trabalhos",
+      "equipe",
+      "seus",
+      "membros",
+      "conjunto",
+      "responsável",
+      "pela",
+      "execução",
+      "serviço",
+      "devem"
+    ],
+    "texto": "1.7 Antes de iniciar trabalhos em equipe os seus membros, em conjunto com o \nresponsável pela execução do serviço, devem realiza r uma avaliação prévia, estudar e planejar \nas atividades e ações a serem desenvolvidas no local, de forma a atender os princípios técnicos \nbásicos e as melhores técnicas de segurança aplicáveis ao serviço."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1.8 A alternância de atividades deve conside rar a análise de riscos das tarefas e a",
+    "titulo": "1.8 A alternância de atividades deve conside rar a análise de riscos das tarefas e a",
+    "referencia": "1.8 A alternância de atividades deve conside rar a análise de riscos das tarefas e a",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "alternância",
+      "atividades",
+      "deve",
+      "conside",
+      "análise",
+      "riscos",
+      "tarefas",
+      "competência",
+      "trabalhadores",
+      "envolvidos",
+      "forma",
+      "garantir"
+    ],
+    "texto": "1.8 A alternância de atividades deve conside rar a análise de riscos das tarefas e a \ncompetência dos trabalhadores envolvidos, de forma a garantir a segurança e a saúde no \ntrabalho."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.12 - SITUAÇÃO DE EMERGÊNCIA",
+    "titulo": "0.12 - SITUAÇÃO DE EMERGÊNCIA",
+    "referencia": "0.12 - SITUAÇÃO DE EMERGÊNCIA",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "situação",
+      "emergência"
+    ],
+    "texto": "0.12 - SITUAÇÃO DE EMERGÊNCIA"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.1 As ações de emergência que envolvam as instalações ou serviços com eletricida de",
+    "titulo": "2.1 As ações de emergência que envolvam as instalações ou serviços com eletricida de",
+    "referencia": "2.1 As ações de emergência que envolvam as instalações ou serviços com eletricida de",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "ações",
+      "emergência",
+      "envolvam",
+      "instalações",
+      "serviços",
+      "eletricida",
+      "devem",
+      "constar",
+      "plano",
+      "empresa"
+    ],
+    "texto": "2.1 As ações de emergência que envolvam as instalações ou serviços com eletricida de \ndevem constar do plano de emergência da empresa."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.2 Os trabalhadores autorizados devem estar aptos a executar o resgate e prestar",
+    "titulo": "2.2 Os trabalhadores autorizados devem estar aptos a executar o resgate e prestar",
+    "referencia": "2.2 Os trabalhadores autorizados devem estar aptos a executar o resgate e prestar",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "autorizados",
+      "devem",
+      "estar",
+      "aptos",
+      "executar",
+      "resgate",
+      "prestar",
+      "primeiros",
+      "socorros",
+      "acidentados",
+      "especialmente"
+    ],
+    "texto": "2.2 Os trabalhadores autorizados devem estar aptos a executar o resgate e prestar \nprimeiros socorros a acidentados, especialmente por meio de reanimação cardio-respiratória."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.3 A empresa deve possuir métodos de resgate padronizados e adequados às suas",
+    "titulo": "2.3 A empresa deve possuir métodos de resgate padronizados e adequados às suas",
+    "referencia": "2.3 A empresa deve possuir métodos de resgate padronizados e adequados às suas",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "empresa",
+      "deve",
+      "possuir",
+      "métodos",
+      "resgate",
+      "padronizados",
+      "adequados",
+      "suas",
+      "atividades",
+      "disponibilizando",
+      "meios",
+      "para"
+    ],
+    "texto": "2.3 A empresa deve possuir métodos de resgate padronizados e adequados às suas \natividades, disponibilizando os meios para a sua aplicação."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "2.4 Os trabalhadores autorizados devem estar aptos a manusear e operar equipamentos",
+    "titulo": "2.4 Os trabalhadores autorizados devem estar aptos a manusear e operar equipamentos",
+    "referencia": "2.4 Os trabalhadores autorizados devem estar aptos a manusear e operar equipamentos",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "autorizados",
+      "devem",
+      "estar",
+      "aptos",
+      "manusear",
+      "operar",
+      "equipamentos",
+      "prevenção",
+      "combate",
+      "incêndio",
+      "existentes"
+    ],
+    "texto": "2.4 Os trabalhadores autorizados devem estar aptos a manusear e operar equipamentos \nde prevenção e combate a incêndio existentes nas instalações elétricas."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.13 - RESPONSABILIDADES",
+    "titulo": "0.13 - RESPONSABILIDADES",
+    "referencia": "0.13 - RESPONSABILIDADES",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "responsabilidades"
+    ],
+    "texto": "0.13 - RESPONSABILIDADES"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.1 As responsabilidades quanto ao cumprimento desta NR são solidárias aos contratantes",
+    "titulo": "3.1 As responsabilidades quanto ao cumprimento desta NR são solidárias aos contratantes",
+    "referencia": "3.1 As responsabilidades quanto ao cumprimento desta NR são solidárias aos contratantes",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "responsabilidades",
+      "quanto",
+      "cumprimento",
+      "desta",
+      "solidárias",
+      "contratantes",
+      "contratados",
+      "envolvidos",
+      "revogado",
+      "pela",
+      "portaria",
+      "seprt"
+    ],
+    "texto": "3.1 As responsabilidades quanto ao cumprimento desta NR são solidárias aos contratantes \ne contratados envolvidos. (Revogado pela Portaria SEPRT n.º 915, de 30 de julho de 2019)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.2 É de responsabilidade dos contratantes manter os trabalhadores inf ormados sobre os",
+    "titulo": "3.2 É de responsabilidade dos contratantes manter os trabalhadores inf ormados sobre os",
+    "referencia": "3.2 É de responsabilidade dos contratantes manter os trabalhadores inf ormados sobre os",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "responsabilidade",
+      "contratantes",
+      "manter",
+      "trabalhadores",
+      "ormados",
+      "sobre",
+      "riscos",
+      "estão",
+      "expostos",
+      "instruindo",
+      "quanto",
+      "procedimentos"
+    ],
+    "texto": "3.2 É de responsabilidade dos contratantes manter os trabalhadores inf ormados sobre os \nriscos a que estão expostos, instruindo -os quanto aos procedimentos e medidas de controle \ncontra os riscos elétricos a serem adotados."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.3 Cabe à empresa, na ocorrência de acidentes de trabalho envolvendo instalações e",
+    "titulo": "3.3 Cabe à empresa, na ocorrência de acidentes de trabalho envolvendo instalações e",
+    "referencia": "3.3 Cabe à empresa, na ocorrência de acidentes de trabalho envolvendo instalações e",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "cabe",
+      "empresa",
+      "ocorrência",
+      "acidentes",
+      "trabalho",
+      "envolvendo",
+      "instalações",
+      "serviços",
+      "eletricidade",
+      "propor",
+      "adotar",
+      "medidas"
+    ],
+    "texto": "3.3 Cabe à empresa, na ocorrência de acidentes de trabalho envolvendo instalações e \nserviços em eletricidade, propor e adotar medidas preventivas e corretivas."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "3.4 Cabe aos trabalhadores:",
+    "titulo": "3.4 Cabe aos trabalhadores:",
+    "referencia": "3.4 Cabe aos trabalhadores:",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "cabe",
+      "trabalhadores",
+      "zelar",
+      "pela",
+      "segurança",
+      "saúde",
+      "outras",
+      "pessoas",
+      "possam",
+      "afetadas",
+      "suas",
+      "ações"
+    ],
+    "texto": "3.4 Cabe aos trabalhadores: \na) zelar pela sua segurança e saúde e a de outras pessoas que possam  ser afetadas por suas \nações ou omissões no trabalho; \nb) responsabilizar-se junto com a empresa pelo cumprimento das disposições legais e \nregulamentares, inclusive quanto aos procedimentos internos de segurança e saúde; e \nc) comunicar, de imediato, ao responsáve l pela execução do serviço as situações que \nconsiderar de risco para sua segurança e saúde e a de outras pessoas. \n 11"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.14 - DISPOSIÇÕES FINAIS",
+    "titulo": "0.14 - DISPOSIÇÕES FINAIS",
+    "referencia": "0.14 - DISPOSIÇÕES FINAIS",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "disposições",
+      "finais"
+    ],
+    "texto": "0.14 - DISPOSIÇÕES FINAIS"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.1 Os trabalhadores devem interromper suas tarefas exercendo o direito de recusa,",
+    "titulo": "4.1 Os trabalhadores devem interromper suas tarefas exercendo o direito de recusa,",
+    "referencia": "4.1 Os trabalhadores devem interromper suas tarefas exercendo o direito de recusa,",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "trabalhadores",
+      "devem",
+      "interromper",
+      "suas",
+      "tarefas",
+      "exercendo",
+      "direito",
+      "recusa",
+      "sempre",
+      "constatarem",
+      "dências",
+      "riscos"
+    ],
+    "texto": "4.1 Os trabalhadores devem interromper suas tarefas exercendo o direito de recusa, \nsempre que constatarem evi dências de riscos graves e iminentes para sua segurança e saúde \nou a de outras pessoas, comunicando imediatamente o fato a seu superior hierárquico, que \ndiligenciará as medidas cabíveis.  (Revogado pela Portaria SEPRT n.º 915, de 30 de julho de \n2019)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.2 As empresas devem promover ações de controle de riscos originados por outrem em",
+    "titulo": "4.2 As empresas devem promover ações de controle de riscos originados por outrem em",
+    "referencia": "4.2 As empresas devem promover ações de controle de riscos originados por outrem em",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "empresas",
+      "devem",
+      "promover",
+      "ações",
+      "controle",
+      "riscos",
+      "originados",
+      "outrem",
+      "suas",
+      "instalações",
+      "elétricas",
+      "oferecer"
+    ],
+    "texto": "4.2 As empresas devem promover ações de controle de riscos originados por outrem em \nsuas instalações elétricas e oferecer, de imediato, quando cabível, denúncia aos órgãos \ncompetentes."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.3 Na ocorrência do não cumprimento das normas constantes  nesta NR, o MTE adotará",
+    "titulo": "4.3 Na ocorrência do não cumprimento das normas constantes  nesta NR, o MTE adotará",
+    "referencia": "4.3 Na ocorrência do não cumprimento das normas constantes  nesta NR, o MTE adotará",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "ocorrência",
+      "cumprimento",
+      "normas",
+      "constantes",
+      "nesta",
+      "adotará",
+      "providências",
+      "estabelecidas"
+    ],
+    "texto": "4.3 Na ocorrência do não cumprimento das normas constantes  nesta NR, o MTE adotará \nas providências estabelecidas na"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "NR-03.",
+    "titulo": "NR-03.",
+    "referencia": "NR-03.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "nr-03"
+    ],
+    "texto": "NR-03."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.4 A documentação prevista nesta NR deve estar permanentemente à disposição dos",
+    "titulo": "4.4 A documentação prevista nesta NR deve estar permanentemente à disposição dos",
+    "referencia": "4.4 A documentação prevista nesta NR deve estar permanentemente à disposição dos",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "documentação",
+      "prevista",
+      "nesta",
+      "deve",
+      "estar",
+      "permanentemente",
+      "disposição",
+      "trabalhadores",
+      "atuam",
+      "serviços",
+      "instalações",
+      "elétricas"
+    ],
+    "texto": "4.4 A documentação prevista nesta NR deve estar permanentemente à disposição dos \ntrabalhadores que atuam em serviços e instalações  elétricas, respeitadas as abrangências, \nlimitações e interferências nas tarefas."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.5 A documentação prevista nesta NR deve estar, permanentemente, à disposição das",
+    "titulo": "4.5 A documentação prevista nesta NR deve estar, permanentemente, à disposição das",
+    "referencia": "4.5 A documentação prevista nesta NR deve estar, permanentemente, à disposição das",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "documentação",
+      "prevista",
+      "nesta",
+      "deve",
+      "estar",
+      "permanentemente",
+      "disposição",
+      "autoridades",
+      "competentes",
+      "revogado",
+      "pela",
+      "portaria"
+    ],
+    "texto": "4.5 A documentação prevista nesta NR deve estar, permanentemente, à disposição das \nautoridades competentes. (Revogado pela Portaria SEPRT n.º 915, de 30 de julho de 2019)"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "0.",
+    "titulo": "0.",
+    "referencia": "0.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "0."
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "1",
+    "titulo": "1",
+    "referencia": "1",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [],
+    "texto": "1"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "4.6 Esta NR não é aplicável a instalações elétricas alimentadas por extra-baixa tensão.",
+    "titulo": "4.6 Esta NR não é aplicável a instalações elétricas alimentadas por extra-baixa tensão.",
+    "referencia": "4.6 Esta NR não é aplicável a instalações elétricas alimentadas por extra-baixa tensão.",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "esta",
+      "aplicável",
+      "instalações",
+      "elétricas",
+      "alimentadas",
+      "extra-baixa",
+      "tensão",
+      "glossário",
+      "alta",
+      "superior",
+      "1000",
+      "volts"
+    ],
+    "texto": "4.6 Esta NR não é aplicável a instalações elétricas alimentadas por extra-baixa tensão. \n \nGLOSSÁRIO \n \n1. Alta Tensão (AT):  tensão superior a 1000 volts em corrente alternada ou 1500 volts em \ncorrente contínua, entre fases ou entre fase e terra. \n \n2. Área Classificada: local com potencialidade de ocorrência de atmosfera explosiva. \n \n3. Aterramento Elétrico Temporário:  ligação elétrica efetiva confiável e adequada intencional \nà terra, destinada a garantir a equipotencialidade e mantida continuamente durante a \nintervenção na instalação elétrica.  \n \n4. Atmosfera Explosiva: mistura com o ar, sob condições atmosféricas, de substâncias \ninflamáveis na forma de gás, vapor, névoa, poeira ou fibras, na qual após a ignição a \ncombustão se propaga.  \n \n5. Baixa Tensão (BT): tensão superior a 50 volts em corrente alternada ou 120 volts em \ncorrente contínua e igual ou inferior a 1000 volts em corre nte alternada ou 1500 volts em \ncorrente contínua, entre fases ou entre fase e terra. \n \n6. Barreira: dispositivo que impede qualquer contato com partes energizadas das instalações \nelétricas.  \n \n7. Direito de Recusa: instrumento que assegura ao trabalhador a interrupção de uma atividade \nde trabalho por considerar que ela envolve grave e iminente risco para  sua segurança e saúde \n 12 \nou de outras pessoas. \n \n8. Equipamento de Proteção Coletiva (EPC):  dispositivo, sistema, ou meio, fixo ou móvel de \nabrangência coletiva, destinado a preservar a integridade física e a saúde dos trabalhadores, \nusuários e terceiros. \n \n9. Equipamento Segregado:  equipamento tornado inacessível por meio de invólucro ou \nbarreira. \n \n10. Extra -Baixa Tensão (EBT): tensão não superior a 50 volts em corrente alternada ou 120 \nvolts em corrente contínua, entre fases ou entre fase e terra. \n \n11. Influê ncias Externas: variáveis que devem ser consideradas na definição e seleção de \nmedidas de proteção para segurança das pessoas e desempenho dos componentes da \ninstalação. \n \n12. Instalação Elétrica:  conjunto das partes elétricas e não elétricas associadas e c om \ncaracterísticas coordenadas entre si, que são necessárias ao funcionamento de uma parte \ndeterminada de um sistema elétrico.  \n \n13. Instalação Liberada para Serviços (BT/AT):  aquela que garanta as condições de segurança \nao trabalhador por meio de procedim entos e equipamentos adequados desde o início até o \nfinal dos trabalhos e liberação para uso.   \n \n14. Impedimento de Reenergização: c ondição que garante a não energiza"
+  },
+  {
+    "documento": "NR 10   SEGURANÇA EM INSTALAÇÕES E SERVIÇOS EM ELETRICIDADE",
+    "item": "NR-10 (Segurança em Instalações e Serviços com Eletricidade);",
+    "titulo": "NR-10 (Segurança em Instalações e Serviços com Eletricidade);",
+    "referencia": "NR-10 (Segurança em Instalações e Serviços com Eletricidade);",
+    "tipo_fonte": "Norma Regulamentadora",
+    "palavras_chave": [
+      "nr-10",
+      "segurança",
+      "instalações",
+      "serviços",
+      "eletricidade",
+      "qualificação",
+      "habilitação",
+      "capacitação",
+      "autorização",
+      "equipamentos",
+      "proteção",
+      "coletiva"
+    ],
+    "texto": "NR-10 (Segurança em Instalações e Serviços com Eletricidade); \nc) qualificação; habilitação; capacitação e autorização. \n \n7. Equipamentos de proteção coletiva. \n \n8. Equipamentos de proteção individual. \n \n9. Rotinas de trabalho - Procedimentos. \na) instalações desenergizadas; \nb) liberação para serviços; \nc) sinalização; \nd) inspeções de áreas, serviços, ferramental e equipamento; \n \n 17 \n10. Documentação de instalações elétricas.  \n \n11. Riscos adicionais: \na) altura; \nb) ambientes confinados; \nc) áreas classificadas; \nd) umidade; \ne) condições atmosféricas. \n \n12. Proteção e combate a incêndios: \na) noções básicas; \nb) medidas preventivas; \nc) métodos de extinção; \nd) prática; \n \n13. Acidentes de origem elétrica:  \na) causas diretas e indiretas; \nb) discussão de casos; \n \n14. Primeiros socorros: \na) noções sobre lesões;  \nb) priorização do atendimento; \nc) aplicação de respiração artificial; \nd) massagem cardíaca; \ne) técnicas para remoção e transporte de acidentados; \nf) práticas. \n    \n15. Responsabilidades. \n \n2. CURSO COMPLEMENTAR - SEGURANÇA NO SISTEMA ELÉTRICO DE POTÊNCIA (SEP) E EM \nSUAS PROXIMIDADES.  \n \nÉ pré -requisito para freqüentar este curso complementar, ter participado, com \naproveitamento satisfatório, do curso básico definido anteriormente.  \n \nCarga horária mínima - 40h  \n \n(*) Estes tópicos deverão ser desenvolvidos e dirigidos especificamente para a s condições de \ntrabalho características de cada ramo, padrão de operação, de nível de tensão e de outras \npeculiaridades específicas ao tipo ou condição especial de atividade, sendo obedecida a \nhierarquia no aperfeiçoamento técnico do trabalhador.  \n \nI - Programação Mínima:  \n \n1. Organização do Sistema Elétrico de Potência - SEP. \n \n2. Organização do trabalho: \na) programação e planejamento dos serviços; \nb) trabalho em equipe; \n 18 \nc) prontuário e cadastro das instalações; \nd) métodos de trabalho; e \ne) comunicação. \n \n3. Aspectos comportamentais.  \n \n4. Condições impeditivas para serviços.  \n \n5. Riscos típicos no SEP e sua prevenção (*): \na) proximidade e contatos com partes energizadas;  \nb) indução; \nc) descargas atmosféricas; \nd) estática; \ne) campos elétricos e magnéticos; \nf) comunicação e identificação; e \ng) trabalhos em altura, máquinas e equipamentos especiais. \n \n6. Técnicas de análise de Risco no SEP (*) \n \n7. Procedimentos de trabalho - análise e discussão. (*) \n \n8. Técnicas de trabalho sob tensão: (*) \na) em linha  viva; \nb) ao potencial; \nc) em áreas internas; \nd)"
+  }
+]
