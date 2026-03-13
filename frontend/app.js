@@ -12,7 +12,6 @@ const limiteTecnico = document.getElementById("limite_tecnico");
 const trechoNormativoExato = document.getElementById("trecho_normativo_exato");
 const fontesContainer = document.getElementById("fontes");
 const badgeConfianca = document.getElementById("badge_confianca");
-const badgeModo = document.getElementById("badge_modo");
 
 function limparResultado() {
   respostaObjetiva.textContent = "";
@@ -22,7 +21,6 @@ function limparResultado() {
   trechoNormativoExato.textContent = "";
   fontesContainer.innerHTML = "";
   badgeConfianca.textContent = "Confiança";
-  badgeModo.textContent = "Modo";
 }
 
 function renderizarFontes(fontes) {
@@ -88,7 +86,6 @@ async function enviarPergunta() {
     trechoNormativoExato.textContent = dados.trecho_normativo_exato || "";
 
     badgeConfianca.textContent = `Confiança: ${dados.nivel_confianca || "N/A"}`;
-    badgeModo.textContent = `Modo: ${dados.modo_resposta || "desconhecido"}`;
 
     renderizarFontes(dados.fontes);
 

@@ -3,8 +3,7 @@ from typing import List
 
 def build_context(chunks: List[dict]) -> str:
     """
-    Monta o contexto enviado ao provedor de IA.
-    Inclui documento, item, título, tipo e texto.
+    Monta o contexto para a IA.
     """
     partes = []
 
@@ -22,7 +21,7 @@ def build_context(chunks: List[dict]) -> str:
 
 def build_sources(chunks: List[dict]) -> List[dict]:
     """
-    Converte os chunks para o formato de fontes do frontend.
+    Converte os chunks para o formato que o frontend entende.
     """
     return [
         {
@@ -30,17 +29,16 @@ def build_sources(chunks: List[dict]) -> List[dict]:
             "item": chunk.get("item"),
             "titulo": chunk.get("titulo"),
             "referencia": chunk.get("referencia", chunk.get("item")),
-            "trecho": chunk.get("texto", "")[:700],
+            "trecho": chunk.get("texto", "")[:450],
             "tipo_fonte": chunk.get("tipo_fonte"),
         }
-        for chunk in chunks
+        for chunk in chunks[:3]
     ]
 
 
 def build_local_response(pergunta: str, chunks: List[dict]) -> dict:
     """
-    Resposta local confiável.
-    Usa o chunk principal como base da citação normativa.
+    Resposta local mais forte e menos genérica.
     """
     if not chunks:
         return {
@@ -62,26 +60,25 @@ def build_local_response(pergunta: str, chunks: List[dict]) -> dict:
     texto = principal.get("texto", "")
 
     return {
-        "resposta_objetiva": f"A base mais relacionada à sua pergunta está em {documento}, especialmente em {item}.",
+        "resposta_objetiva": f"A norma mais relacionada ao tema perguntado é {documento}, especialmente no item {item}.",
         "base_normativa_legal": f"{documento} — {item} — {titulo}",
         "explicacao_pratica": (
-            f"Com base no trecho identificado em {documento}, o tema tratado na sua pergunta "
-            f"está diretamente ligado a {titulo.lower()}."
+            f"De forma prática, o trecho recuperado indica que o tema consultado está tratado em {documento}, "
+            f"no item {item}, com foco em {titulo.lower()}."
         ),
         "limite_tecnico": (
-            "Resposta montada por recuperação textual estruturada dos documentos normativos carregados. "
-            "Sem interpretação jurídica aprofundada e sem inferência além do trecho recuperado."
+            "Resposta baseada em recuperação textual direta. A interpretação depende do contexto completo da norma e da situação real de trabalho."
         ),
         "trecho_normativo_exato": texto,
         "fontes": build_sources(chunks),
-        "nivel_confianca": "Média",
+        "nivel_confianca": "Alta" if "norma regulamentadora" in str(principal.get("tipo_fonte", "")).lower() else "Média",
         "modo_resposta": "fallback_local",
     }
 
 
 def merge_llm_with_sources(llm_data: dict, chunks: List[dict], provider_name: str) -> dict:
     """
-    Injeta fontes e campos obrigatórios na resposta do provedor de IA.
+    Injeta fontes e campos obrigatórios na resposta da IA.
     """
     llm_data["fontes"] = build_sources(chunks)
 
@@ -92,5 +89,4 @@ def merge_llm_with_sources(llm_data: dict, chunks: List[dict], provider_name: st
         llm_data["nivel_confianca"] = "Média"
 
     llm_data["modo_resposta"] = provider_name
-
     return llm_data

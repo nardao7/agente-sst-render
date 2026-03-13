@@ -1,267 +1,352 @@
-/* Reset básico para evitar diferenças de espaçamento entre navegadores */
+/* =========================================================
+   RESET BÁSICO
+   Remove margens e espaçamentos padrão do navegador
+   e faz largura/altura incluírem padding e borda.
+========================================================= */
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+  margin: 0; /* Remove margem padrão de todos os elementos */
+  padding: 0; /* Remove padding padrão de todos os elementos */
+  box-sizing: border-box; /* Faz o cálculo de tamanho incluir borda e padding */
 }
 
-/* Estilo geral do body */
+/* =========================================================
+   ESTILO GERAL DA PÁGINA
+   Define fonte, fundo, cor principal do texto e altura mínima.
+========================================================= */
 body {
-  font-family: Arial, sans-serif;
-  background: #0f172a;
-  color: #e5e7eb;
-  min-height: 100vh;
+  font-family: Arial, sans-serif; /* Fonte principal da aplicação */
+  background: #0f172a; /* Fundo escuro da página */
+  color: #e5e7eb; /* Cor padrão do texto */
+  min-height: 100vh; /* Garante que a página ocupe pelo menos toda a tela */
 }
 
-/* Container geral da aplicação */
+/* =========================================================
+   CONTAINER PRINCIPAL
+   Centraliza o conteúdo e limita a largura máxima.
+========================================================= */
 .app-container {
-  width: 100%;
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 24px;
+  width: 100%; /* Ocupa toda a largura disponível */
+  max-width: 1000px; /* Limita a largura máxima do conteúdo */
+  margin: 0 auto; /* Centraliza horizontalmente */
+  padding: 24px; /* Espaçamento interno nas bordas */
 }
 
-/* Cabeçalho */
+/* =========================================================
+   CABEÇALHO
+   Área superior com título e subtítulo.
+========================================================= */
 .app-header {
-  text-align: center;
-  margin-bottom: 32px;
+  text-align: center; /* Centraliza o texto */
+  margin-bottom: 32px; /* Espaço abaixo do cabeçalho */
 }
 
 .app-header h1 {
-  font-size: 2.2rem;
-  margin-bottom: 8px;
+  font-size: 2.2rem; /* Tamanho maior para o título principal */
+  margin-bottom: 8px; /* Espaço abaixo do título */
 }
 
 .app-header p {
-  color: #cbd5e1;
-  font-size: 1rem;
+  color: #cbd5e1; /* Cor mais suave para o subtítulo */
+  font-size: 1rem; /* Tamanho padrão do subtítulo */
 }
 
-/* Painel central */
+/* =========================================================
+   PAINEL CENTRAL
+   Card principal onde ficam formulário e resposta.
+========================================================= */
 .chat-panel {
-  background: #111827;
-  border: 1px solid #1f2937;
-  border-radius: 18px;
-  padding: 24px;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+  background: #111827; /* Fundo do painel */
+  border: 1px solid #1f2937; /* Borda discreta */
+  border-radius: 18px; /* Cantos arredondados */
+  padding: 24px; /* Espaçamento interno */
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25); /* Sombra para profundidade */
 }
 
-/* Bloco do campo */
+/* =========================================================
+   GRUPO DE ENTRADA
+   Bloco do label + campo.
+========================================================= */
 .input-group {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-bottom: 18px;
+  display: flex; /* Ativa flexbox */
+  flex-direction: column; /* Organiza elementos em coluna */
+  gap: 10px; /* Espaço entre label e campo */
+  margin-bottom: 18px; /* Espaço abaixo do grupo */
 }
 
 .input-group label {
-  font-weight: bold;
-  color: #f8fafc;
+  font-weight: bold; /* Deixa o texto do label em negrito */
+  color: #f8fafc; /* Cor clara para melhor contraste */
 }
 
-/* Campo de texto */
+/* =========================================================
+   CAMPO DE TEXTO
+   Área onde o usuário digita a pergunta.
+========================================================= */
 textarea {
-  width: 100%;
-  min-height: 160px;
-  resize: vertical;
-  border-radius: 12px;
-  border: 1px solid #334155;
-  padding: 16px;
-  font-size: 16px;
-  background: #0b1220;
-  color: #f1f5f9;
-  outline: none;
+  width: 100%; /* Ocupa toda a largura disponível */
+  min-height: 160px; /* Altura mínima do campo */
+  resize: vertical; /* Permite redimensionar apenas na vertical */
+  border-radius: 12px; /* Arredondamento dos cantos */
+  border: 1px solid #334155; /* Borda do campo */
+  padding: 16px; /* Espaçamento interno do texto */
+  font-size: 16px; /* Tamanho da fonte digitada */
+  background: #0b1220; /* Fundo do textarea */
+  color: #f1f5f9; /* Cor do texto digitado */
+  outline: none; /* Remove contorno padrão do navegador */
 }
 
-/* Destaque visual ao clicar no textarea */
+/* Efeito visual quando o usuário clica no textarea */
 textarea:focus {
-  border-color: #38bdf8;
-  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2);
+  border-color: #38bdf8; /* Borda azul em foco */
+  box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2); /* Brilho suave ao redor */
 }
 
-/* Área do botão */
+/* =========================================================
+   ÁREA DO BOTÃO
+   Espaçamento entre botão e outros elementos.
+========================================================= */
 .button-group {
-  margin-bottom: 18px;
+  margin-bottom: 18px; /* Espaço abaixo do botão */
 }
 
-/* Botão principal */
+/* =========================================================
+   BOTÃO PRINCIPAL
+   Botão de enviar/perguntar.
+========================================================= */
 button {
-  background: #0ea5e9;
-  color: white;
-  border: none;
-  border-radius: 12px;
-  padding: 14px 22px;
-  font-size: 16px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: 0.2s ease;
+  background: #0ea5e9; /* Cor de fundo do botão */
+  color: white; /* Cor do texto do botão */
+  border: none; /* Remove borda padrão */
+  border-radius: 12px; /* Cantos arredondados */
+  padding: 14px 22px; /* Espaçamento interno */
+  font-size: 16px; /* Tamanho do texto */
+  font-weight: bold; /* Texto em negrito */
+  cursor: pointer; /* Mostra mãozinha ao passar o mouse */
+  transition: 0.2s ease; /* Suaviza a animação de hover */
 }
 
 button:hover {
-  background: #0284c7;
+  background: #0284c7; /* Cor mais escura ao passar o mouse */
 }
 
-/* Mensagens de status */
+/* =========================================================
+   MENSAGEM DE STATUS
+   Área para mensagens como "carregando", "erro", etc.
+========================================================= */
 .status-message {
-  min-height: 24px;
-  margin-bottom: 14px;
-  color: #facc15;
-  font-size: 14px;
+  min-height: 24px; /* Garante altura mínima para não pular layout */
+  margin-bottom: 14px; /* Espaço abaixo da mensagem */
+  color: #facc15; /* Cor amarela para status */
+  font-size: 14px; /* Texto menor que o padrão */
 }
 
-/* Card da resposta */
+/* =========================================================
+   CARD DE RESULTADO
+   Bloco visual que mostra a resposta do agente.
+   Esse bloco já foi atualizado com os novos valores.
+========================================================= */
 .result-card {
-  background: #0b1220;
-  border: 1px solid #334155;
-  border-radius: 16px;
-  padding: 20px;
-  margin-top: 18px;
+  background: #0b1220; /* Fundo do card da resposta */
+  border: 1px solid #334155; /* Borda do card */
+  border-radius: 16px; /* Cantos arredondados */
+  padding: 28px; /* Espaçamento interno maior para melhor leitura */
+  margin-top: 24px; /* Espaço acima do card */
 }
 
 .result-card h2 {
-  margin-bottom: 20px;
-  color: #f8fafc;
+  margin-bottom: 20px; /* Espaço abaixo do título principal do card */
+  color: #f8fafc; /* Cor clara para o título */
 }
 
-/* Cada bloco de resposta */
+/* =========================================================
+   CABEÇALHO DO RESULTADO
+   Área que pode conter título + badges de confiança/modo.
+========================================================= */
+.result-header {
+  display: flex; /* Usa flexbox para alinhar elementos */
+  justify-content: space-between; /* Separa conteúdo nas extremidades */
+  align-items: center; /* Alinha verticalmente ao centro */
+  gap: 12px; /* Espaço entre os elementos */
+  margin-bottom: 20px; /* Espaço abaixo do cabeçalho */
+  flex-wrap: wrap; /* Permite quebrar linha em telas menores */
+}
+
+/* =========================================================
+   ÁREA DAS BADGES
+   Espaço onde ficam badges como confiança e modo.
+========================================================= */
+.meta-badges {
+  display: flex; /* Organiza badges em linha */
+  gap: 8px; /* Espaço entre badges */
+  flex-wrap: wrap; /* Permite quebra de linha */
+}
+
+/* Estilo base de qualquer badge */
+.badge {
+  display: inline-block; /* Permite padding e aparência de etiqueta */
+  padding: 8px 12px; /* Espaçamento interno */
+  border-radius: 999px; /* Deixa formato totalmente arredondado */
+  font-size: 13px; /* Texto menor */
+  font-weight: bold; /* Texto forte para destaque */
+}
+
+/* Badge de confiança */
+.badge-confidence {
+  background: rgba(14, 165, 233, 0.15); /* Fundo azul transparente */
+  color: #38bdf8; /* Texto azul */
+  border: 1px solid rgba(56, 189, 248, 0.35); /* Borda azul suave */
+}
+
+/* Badge de modo */
+.badge-mode {
+  background: rgba(168, 85, 247, 0.15); /* Fundo roxo transparente */
+  color: #c084fc; /* Texto roxo */
+  border: 1px solid rgba(192, 132, 252, 0.35); /* Borda roxa suave */
+}
+
+/* =========================================================
+   BLOCOS DA RESPOSTA
+   Cada seção da resposta: objetiva, base legal, explicação etc.
+========================================================= */
 .result-block {
-  margin-bottom: 18px;
+  margin-bottom: 28px; /* Espaço maior entre blocos para melhor leitura */
 }
 
 .result-block h3 {
-  margin-bottom: 8px;
-  color: #38bdf8;
-  font-size: 1rem;
+  margin-bottom: 10px; /* Espaço entre subtítulo e conteúdo */
+  color: #38bdf8; /* Azul para destacar subtítulos */
+  font-size: 1.05rem; /* Tamanho levemente maior */
 }
 
+/* Texto padrão dos blocos e listas */
+.result-block p,
+.result-block li,
+.destaque-normativo blockquote {
+  line-height: 1.8; /* Aumenta o espaçamento entre linhas para leitura */
+}
+
+/* Cor específica do texto dos parágrafos e listas */
 .result-block p,
 .result-block li {
-  line-height: 1.6;
-  color: #e2e8f0;
+  color: #e2e8f0; /* Texto claro */
 }
 
-/* Lista de fontes */
+/* =========================================================
+   DESTAQUE NORMATIVO
+   Área para exibir trecho de norma em bloco visual.
+========================================================= */
+.destaque-normativo blockquote {
+  border-left: 4px solid #38bdf8; /* Faixa azul à esquerda */
+  padding: 18px 18px; /* Espaçamento interno do bloco */
+  background: rgba(56, 189, 248, 0.08); /* Fundo azul suave */
+  border-radius: 10px; /* Cantos arredondados */
+  color: #e2e8f0; /* Cor do texto */
+  white-space: pre-wrap; /* Mantém quebras de linha e organiza texto longo */
+}
+
+/* =========================================================
+   BLOCO DE FONTES
+   Lista ou grid com as fontes usadas na resposta.
+========================================================= */
 #fontes {
-  padding-left: 20px;
+  padding-left: 20px; /* Recuo para lista tradicional */
 }
 
-/* Classe usada para esconder elementos */
+/* Grid de cards de fontes */
+.fontes-grid {
+  display: grid; /* Organiza em grade */
+  gap: 12px; /* Espaço entre cards */
+}
+
+/* Card individual de fonte */
+.fonte-card {
+  border: 1px solid #334155; /* Borda do card */
+  background: #0f172a; /* Fundo escuro */
+  border-radius: 12px; /* Cantos arredondados */
+  padding: 14px; /* Espaçamento interno */
+}
+
+/* Topo do card de fonte onde podem ficar badges */
+.fonte-card .fonte-topo {
+  display: flex; /* Organiza em linha */
+  gap: 8px; /* Espaço entre badges */
+  flex-wrap: wrap; /* Permite quebra */
+  margin-bottom: 8px; /* Espaço abaixo do topo */
+}
+
+/* Badge de documento */
+.document-badge {
+  background: rgba(34, 197, 94, 0.15); /* Fundo verde transparente */
+  color: #4ade80; /* Texto verde */
+  border: 1px solid rgba(74, 222, 128, 0.3); /* Borda verde */
+  padding: 4px 10px; /* Espaçamento interno */
+  border-radius: 999px; /* Formato arredondado */
+  font-size: 12px; /* Texto menor */
+  font-weight: bold; /* Destaque do texto */
+}
+
+/* Badge de item/referência */
+.item-badge {
+  background: rgba(250, 204, 21, 0.15); /* Fundo amarelo transparente */
+  color: #facc15; /* Texto amarelo */
+  border: 1px solid rgba(250, 204, 21, 0.3); /* Borda amarela */
+  padding: 4px 10px; /* Espaçamento interno */
+  border-radius: 999px; /* Formato arredondado */
+  font-size: 12px; /* Texto menor */
+  font-weight: bold; /* Texto em destaque */
+}
+
+/* Título dentro do card de fonte */
+.fonte-card h4 {
+  margin-bottom: 8px; /* Espaço abaixo do título */
+  color: #f8fafc; /* Cor clara */
+  font-size: 15px; /* Tamanho do título da fonte */
+}
+
+/* Texto dentro do card de fonte */
+.fonte-card p {
+  margin-bottom: 8px; /* Espaço abaixo do parágrafo */
+  color: #e2e8f0; /* Texto claro */
+}
+
+/* =========================================================
+   UTILITÁRIO
+   Classe para esconder elementos visualmente.
+========================================================= */
 .hidden {
-  display: none;
+  display: none; /* Esconde totalmente o elemento */
 }
 
-/* Responsividade para celular */
+/* =========================================================
+   RESPONSIVIDADE
+   Ajustes para telas menores, como celular e tablet.
+========================================================= */
 @media (max-width: 768px) {
   .app-container {
-    padding: 16px;
+    padding: 16px; /* Reduz padding lateral em telas pequenas */
   }
 
   .app-header h1 {
-    font-size: 1.8rem;
+    font-size: 1.8rem; /* Diminui título principal no celular */
   }
 
   .chat-panel {
-    padding: 18px;
+    padding: 18px; /* Reduz o espaçamento interno do painel */
   }
 
   textarea {
-    min-height: 140px;
+    min-height: 140px; /* Diminui a altura mínima do campo */
   }
 
   button {
-    width: 100%;
+    width: 100%; /* Faz o botão ocupar toda a largura */
   }
-  
+
+  .result-card {
+    padding: 20px; /* Reduz padding do card para caber melhor no celular */
+  }
+
   .result-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 12px;
-  margin-bottom: 20px;
-  flex-wrap: wrap;
-}
-
-.meta-badges {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-}
-
-.badge {
-  display: inline-block;
-  padding: 8px 12px;
-  border-radius: 999px;
-  font-size: 13px;
-  font-weight: bold;
-}
-
-.badge-confidence {
-  background: rgba(14, 165, 233, 0.15);
-  color: #38bdf8;
-  border: 1px solid rgba(56, 189, 248, 0.35);
-}
-
-.badge-mode {
-  background: rgba(168, 85, 247, 0.15);
-  color: #c084fc;
-  border: 1px solid rgba(192, 132, 252, 0.35);
-}
-
-.destaque-normativo blockquote {
-  border-left: 4px solid #38bdf8;
-  padding: 14px 16px;
-  background: rgba(56, 189, 248, 0.08);
-  border-radius: 10px;
-  line-height: 1.7;
-  color: #e2e8f0;
-}
-
-.fontes-grid {
-  display: grid;
-  gap: 12px;
-}
-
-.fonte-card {
-  border: 1px solid #334155;
-  background: #0f172a;
-  border-radius: 12px;
-  padding: 14px;
-}
-
-.fonte-card .fonte-topo {
-  display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  margin-bottom: 8px;
-}
-
-.document-badge {
-  background: rgba(34, 197, 94, 0.15);
-  color: #4ade80;
-  border: 1px solid rgba(74, 222, 128, 0.3);
-  padding: 4px 10px;
-  border-radius: 999px;
-  font-size: 12px;
-  font-weight: bold;
-}
-
-.item-badge {
-  background: rgba(250, 204, 21, 0.15);
-  color: #facc15;
-  border: 1px solid rgba(250, 204, 21, 0.3);
-  padding: 4px 10px;
-  border-radius: 999px;
-  font-size: 12px;
-  font-weight: bold;
-}
-
-.fonte-card h4 {
-  margin-bottom: 8px;
-  color: #f8fafc;
-  font-size: 15px;
-}
-
-.fonte-card p {
-  margin-bottom: 8px;
-}
+    align-items: flex-start; /* Melhor alinhamento quando quebra linha */
+  }
 }
