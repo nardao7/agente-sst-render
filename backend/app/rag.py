@@ -120,13 +120,7 @@ def load_chunks() -> List[dict]:
 
 def score_chunk(query_tokens: List[str], chunk: dict) -> int:
     """
-    Pontua cada chunk.
-    Critérios:
-    - documento, item e título valem mais
-    - palavras-chave ajudam bastante
-    - texto vale menos
-    - fontes principais (NR/NHO/Base legal) ganham prioridade
-    - materiais auxiliares ganham menos peso
+    Pontua cada chunk com foco em relevância técnica e prioridade normativa.
     """
     score = 0
 
@@ -140,29 +134,29 @@ def score_chunk(query_tokens: List[str], chunk: dict) -> int:
 
     for token in query_tokens:
         if token in documento:
-            score += 8
+            score += 10
         if token in item:
-            score += 8
+            score += 9
         if token in titulo:
-            score += 6
+            score += 7
         if token in palavras_chave:
-            score += 5
+            score += 6
         if token in texto:
             score += 1
 
-    # pesos por tipo de fonte
+    # prioridade por força da fonte
     if "norma regulamentadora" in tipo_fonte:
-        score += 8
+        score += 15
     elif "anexo de norma regulamentadora" in tipo_fonte:
-        score += 7
+        score += 13
     elif "norma de higiene ocupacional" in tipo_fonte:
-        score += 7
+        score += 11
     elif "base legal" in tipo_fonte:
-        score += 5
+        score += 9
     elif "norma complementar" in tipo_fonte:
-        score += 3
+        score += 5
     elif "material auxiliar" in tipo_fonte:
-        score += 1
+        score += 2
 
     return score
 

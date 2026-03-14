@@ -1,5 +1,5 @@
 from typing import List
-
+from app.query_intent import classify_query_intent
 
 def build_context(chunks: List[dict]) -> str:
     """
@@ -21,25 +21,32 @@ def build_context(chunks: List[dict]) -> str:
 
 def build_sources(chunks: List[dict]) -> List[dict]:
     """
-    Converte os chunks para o formato que o frontend entende.
+    Converte os chunks para o formato do frontend.
+    Limita a 3 fontes principais para evitar excesso.
     """
-    return [
-        {
-            "documento": chunk.get("documento", "Documento não informado"),
-            "item": chunk.get("item"),
-            "titulo": chunk.get("titulo"),
-            "referencia": chunk.get("referencia", chunk.get("item")),
-            "trecho": chunk.get("texto", "")[:450],
-            "tipo_fonte": chunk.get("tipo_fonte"),
-        }
-        for chunk in chunks[:3]
-    ]
+    fontes = []
+
+    for chunk in chunks[:3]:
+        fontes.append(
+            {
+                "documento": chunk.get("documento", "Documento não informado"),
+                "item": chunk.get("item"),
+                "titulo": chunk.get("titulo"),
+                "referencia": chunk.get("referencia", chunk.get("item")),
+                "trecho": chunk.get("texto", "")[:350],
+                "tipo_fonte": chunk.get("tipo_fonte"),
+            }
+        )
+
+    return fontes
 
 
 def build_local_response(pergunta: str, chunks: List[dict]) -> dict:
     """
-    Resposta local mais forte e menos genérica.
+    Gera resposta local forte, adaptada ao tipo da pergunta.
     """
+    intent = classify_query_intent(pergunta)
+
     if not chunks:
         return {
             "resposta_objetiva": "Não encontrei base suficiente nos documentos carregados para responder com segurança.",
@@ -59,15 +66,35 @@ def build_local_response(pergunta: str, chunks: List[dict]) -> dict:
     titulo = principal.get("titulo", "Título não informado")
     texto = principal.get("texto", "")
 
+    if intent == "norma_item":
+        resposta_objetiva = f"A base mais relacionada à sua pergunta está em {documento}, especialmente no item {item}."
+        explicacao_pratica = f"O item recuperado trata de {titulo.lower()}."
+    elif intent == "obrigacao":
+        resposta_objetiva = f"A obrigação mais relacionada à sua pergunta está prevista em {documento}, no item {item}."
+        explicacao_pratica = f"O trecho normativo indica obrigação ligada a {titulo.lower()}."
+    elif intent == "conceito":
+        resposta_objetiva = f"O conceito mais relacionado à sua pergunta aparece em {documento}, item {item}."
+        explicacao_pratica = f"O trecho recuperado apresenta a definição ou caracterização normativa de {titulo.lower()}."
+    elif intent == "pratica":
+        resposta_objetiva = f"A orientação normativa mais relacionada ao tema está em {documento}, item {item}."
+        explicacao_pratica = f"Na prática, o trecho recuperado indica como o tema deve ser entendido ou aplicado em SST."
+    elif intent == "programa":
+        resposta_objetiva = f"O programa ou documento mais relacionado ao tema aparece em {documento}, item {item}."
+        explicacao_pratica = f"O trecho recuperado aponta relação normativa com {titulo.lower()}."
+    elif intent == "insalubridade_periculosidade":
+        resposta_objetiva = f"A base mais relacionada ao tema de insalubridade/periculosidade está em {documento}, item {item}."
+        explicacao_pratica = "Esse tipo de tema exige leitura cuidadosa do item, anexos e, quando aplicável, avaliação técnica no ambiente real."
+    else:
+        resposta_objetiva = f"A base mais relacionada à sua pergunta está em {documento}, especialmente no item {item}."
+        explicacao_pratica = f"O trecho recuperado trata do tema em {documento}, com foco em {titulo.lower()}."
+
     return {
-        "resposta_objetiva": f"A norma mais relacionada ao tema perguntado é {documento}, especialmente no item {item}.",
+        "resposta_objetiva": resposta_objetiva,
         "base_normativa_legal": f"{documento} — {item} — {titulo}",
-        "explicacao_pratica": (
-            f"De forma prática, o trecho recuperado indica que o tema consultado está tratado em {documento}, "
-            f"no item {item}, com foco em {titulo.lower()}."
-        ),
+        "explicacao_pratica": explicacao_pratica,
         "limite_tecnico": (
-            "Resposta baseada em recuperação textual direta. A interpretação depende do contexto completo da norma e da situação real de trabalho."
+            "Resposta baseada em recuperação textual direta da base normativa carregada. "
+            "A interpretação final depende do contexto completo da norma e da situação concreta."
         ),
         "trecho_normativo_exato": texto,
         "fontes": build_sources(chunks),
